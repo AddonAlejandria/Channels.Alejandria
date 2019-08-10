@@ -73,6 +73,13 @@
 </item>	
 	
 <item>  
+<title>BOING</title> 
+<urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>	
+	
+<item>  
 <title>Real Madrid TV</title> 
 <urlsolve>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on</urlsolve>
 <thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
@@ -89,6 +96,14 @@
 <item>  
 <title>FDF</title> 
 <urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>	
+
+	
+<item>  
+<title>CANAL EXTREMADURA</title> 
+<urlsolve>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</urlsolve>
 <thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
 <fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
 </item>	
@@ -149,13 +164,7 @@
 <fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
 </item>	
 	
-<item>  
-<title>FDF</title> 
-<urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8</urlsolve>
-<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
-<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
-</item>	
-	
+
 <item>  
 <title>EXTREMA TV</title> 
 <urlsolve>http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1268142264.m3u8</urlsolve>
@@ -166,6 +175,62 @@
 <item>  
 <title>DISTRITO TV</title> 
 <urlsolve>https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>	
+
+<item>  
+<title>CTH ESPAÑOL</title> 
+<urlsolve>https://livees.cgtn.com/1000e/prog_index.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>	
+	
+<item>  
+<title>CN TV</title> 
+<urlsolve>http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>	
+	
+<item>  
+<title>CINEMANIAC</title> 
+<urlsolve>http://wowzacontrol.com:1935/stream34/stream34/chunklist_w1658091415.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>	
+	
+<item>  
+<title>CANAL 4</title> 
+<urlsolve>http://149.202.68.178:1935/live/peprecasens/chunklist_w1901443009.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>	
+	
+<item>  
+<title>CANAL 11</title> 
+<urlsolve>http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>	
+	
+<item>  
+<title>CANAL 10</title> 
+<urlsolve>http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1222007988.m3u8 </urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>	
+
+<item>  
+<title>CANAL 13</title> 
+<urlsolve>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>	
+	
+<item>  
+<title>cachipuntv</title> 
+<urlsolve>http://edge1.cl.grupoz.cl:80/cachipuntv/live/chunklist_w550850136.m3u8</urlsolve>
 <thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
 <fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
 </item>	
