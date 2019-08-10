@@ -8,65 +8,42 @@
       <date>04.01.2013</date>
       <credits>Addon Alejandria</credits>
     </items_info>
-
+	
 <item>  
-<title>Orbit TV</title> 
-<urlsolve>http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8</urlsolve>
+<title>La 1</title> 
+<urlsolve>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on</urlsolve>
 <thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
 <fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
 </item>
 	
+<item>  
+<title>La 2</title> 
+<urlsolve>http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0400_av-p.m3u8?sd=10&rebase=on</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>
 	
+<item>  
+<title>La Sexta</title> 
+<urlsolve>https://livestartover.atresmedia.com:443/lasexta/bitrate_1.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>
+
+		
+<item>  
+<title>QUATRO</title> 
+<urlsolve>https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>	
+
 <item>  
 <title>Telecinco</title> 
 <urlsolve>https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8</urlsolve>
 <thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
 <fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
 </item>
-	
-<item>  
-<title>Uest TV</title> 
-<urlsolve>http://cl.origin.grupoz.cl:80/uestv/live/chunklist_w624957346.m3u8</urlsolve>
-<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
-<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
-</item>	
-	
-<item>  
-<title>Telearanda</title> 
-<urlsolve>https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8</urlsolve>
-<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
-<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
-</item>
-	
-<item>  
-<title>Retroplus TV</title> 
-<urlsolve>https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1008321712.m3u8</urlsolve>
-<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
-<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
-</item>
-	
-<item>  
-<title>Real Madrid TV</title> 
-<urlsolve>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on</urlsolve>
-<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
-<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
-</item>
-	
-<item>  
-<title>Popular Murcia</title> 
-<urlsolve>https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8</urlsolve>
-<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
-<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
-</item>
-
-	
-<item>  
-<title>Neox</title> 
-<urlsolve>https://livestartover.atresmedia.com:443/geoneox/bitrate_1.m3u8</urlsolve>
-<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
-<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
-</item>
-	
 	
 <item>  
 <title>Nova</title> 
@@ -87,32 +64,67 @@
 <urlsolve>https://livestartover.atresmedia.com:443/geomega/bitrate_2.m3u8</urlsolve>
 <thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
 <fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>	
+	
+<item>  
+<title>Uest TV</title> 
+<urlsolve>http://cl.origin.grupoz.cl:80/uestv/live/chunklist_w624957346.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>	
+	
+<item>  
+<title>Real Madrid TV</title> 
+<urlsolve>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>
+	
+<item>  
+<title>Popular Murcia</title> 
+<urlsolve>https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>
+	
+<item>  
+<title>Neox</title> 
+<urlsolve>https://livestartover.atresmedia.com:443/geoneox/bitrate_1.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>	
+	
+<item>  
+<title>FDF</title> 
+<urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>	
+	
+<item>  
+<title>Telearanda</title> 
+<urlsolve>https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>
+	
+<item>  
+<title>Orbit TV</title> 
+<urlsolve>http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+</item>
+		
+<item>  
+<title>Retroplus TV</title> 
+<urlsolve>https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1008321712.m3u8</urlsolve>
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
 </item>
 	
 <item>  
 <title>Locomotiv TV</title> 
 <urlsolve>http://tvpremiumhd.club/lista-gratuita/213026/on/live.php?id=locomotiontv.com/envivo/loco_channel/stream.m3u8</urlsolve>
-<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
-<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
-</item>
-	
-<item>  
-<title>La Sexta</title> 
-<urlsolve>https://livestartover.atresmedia.com:443/lasexta/bitrate_1.m3u8</urlsolve>
-<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
-<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
-</item>
-	
-<item>  
-<title>La 2</title> 
-<urlsolve>http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0400_av-p.m3u8?sd=10&rebase=on</urlsolve>
-<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
-<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
-</item>
-	
-<item>  
-<title>La 1</title> 
-<urlsolve>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on</urlsolve>
 <thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
 <fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
 </item>
@@ -159,10 +171,4 @@
 <thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
 <fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
 </item>	
-	
-<item>  
-<title>QUATRO</title> 
-<urlsolve>https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8</urlsolve>
-<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
-<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
-</item>	
+
