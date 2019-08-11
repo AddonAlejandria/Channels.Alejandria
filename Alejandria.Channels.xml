@@ -336,3 +336,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
+
+<item>  
+<title>LEVANTE TV</title> 
+<urlsolve>http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
