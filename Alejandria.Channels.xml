@@ -108,6 +108,13 @@
 <fanart></fanart>
 </item>	
 	
+<item>  	
+<title>MOVISTAR ACCION/ESTRENOS (Opcion 3 Alternativocuando esta en emision)</title> 
+<urlsolve>http://wolftm.in/live/1pedro/1pedro/8273.m3u8	</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
 <item>  
 <title>Nova FULLHD</title> 
 <urlsolve>https://livestartover.atresmedia.com/geonova/master.m3u8</urlsolve>
