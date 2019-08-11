@@ -10,6 +10,21 @@
     </items_info>
 	
 <item>  
+<title>TVE 24H</title> 
+<urlsolve>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+
+
+<item>  
+<title>LEVANTE TV</title> 
+<urlsolve>http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
+<item>  
 <title>La 1</title> 
 <urlsolve>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on</urlsolve>
 <thumbnail></thumbnail>
@@ -43,7 +58,41 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+	
+<item>  
+<title>Paramount Channel</title> 
+<urlsolve>http://paramount.live.flumotion.com/live/playlist.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
+<item>  
+<title>A PUNT HD</title> 
+<urlsolve>https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
 
+<item>  
+<title>TV3 (CATALUÑA)</title> 
+<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
+<item>  
+<title>CANAL 33 (CATALUÑA)</title> 
+<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+		
+<item>  
+<title>CANAL 332 (CATALUÑA)</title> 
+<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
 	
 <item>  
 <title>MOVISTAR ACCION/ESTRENOS (Opcion 1 cuando esta en emision)</title> 
@@ -53,11 +102,12 @@
 </item>	
 	
 <item>  
-<title>MOVISTAR ACCION/ESTRENOS (Opcion 1 cuando esta en emision)</title> 
+<title>MOVISTAR ACCION/ESTRENOS (Opcion 2 cuando esta en emision)</title> 
 <urlsolve>http://ultraplay.biz:80/live/jk/jk/34177.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>		
+</item>	
+	
 <item>  
 <title>Nova FULLHD</title> 
 <urlsolve>https://livestartover.atresmedia.com/geonova/master.m3u8</urlsolve>
@@ -100,7 +150,22 @@
 <fanart></fanart>
 </item>	
 
-
+	
+<item>  
+<title>DISNEY CHANEL</title> 
+<urlsolve>cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/master.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
+	
+<item>  
+<title>ENERGY</title> 
+<urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
 <item>  
 <title>CANAL TRECE</title> 
 <urlsolve>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8</urlsolve>
@@ -114,25 +179,24 @@
 <thumbnail></thumbnail>
 <fanart>fanart>
 </item>
-	
-<item>  
-<title>Popular Murcia</title> 
-<urlsolve>https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-	
+
 <item>  
 <title>FDF</title> 
 <urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
-
 	
 <item>  
 <title>CANAL EXTREMADURA</title> 
 <urlsolve>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
+<item>  
+<title>Popular Murcia</title> 
+<urlsolve>https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
@@ -157,6 +221,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>		
+	
 <item>  
 <title>Retroplus TV</title> 
 <urlsolve>https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1008321712.m3u8</urlsolve>
@@ -263,70 +328,8 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
-	
-<item>  
-<title>Paramount Channel</title> 
-<urlsolve>http://paramount.live.flumotion.com/live/playlist.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>	
 
-<item>  
-<title>TV3 (CATALUÑA)</title> 
-<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>	
-	
-<item>  
-<title>CANAL 33 (CATALUÑA)</title> 
-<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>	
-
-		
-<item>  
-<title>CANAL 332 (CATALUÑA)</title> 
-<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>	
-	
-	
-<item>  
-<title>ENERGY</title> 
-<urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>	
-	
-<item>  
-<title>TVE 24H</title> 
-<urlsolve>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>	
 
 	
-<item>  
-<title>A PUNT HD</title> 
-<urlsolve>https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>	
 
-<item>  
-<title>LEVANTE TV</title> 
-<urlsolve>http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>	
 
-	
-<item>  
-<title>DISNEY CHANEL</title> 
-<urlsolve>cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/master.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>	
