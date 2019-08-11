@@ -251,14 +251,14 @@
 </item>	
 	
 <item>  
-<title>MOVISTAR ACCION (cuando esta en emision)</title> 
+<title>MOVISTAR ACCION/ESTRENOS (Opcion 1 cuando esta en emision)</title> 
 <urlsolve>http://ultraplay.biz/live/jk/jk/34177.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
-<title>MOVISTAR ESTRENOS (cuando esta en emision)</title> 
+<title>MOVISTAR ACCION/ESTRENOS (Opcion 1 cuando esta en emision)</title> 
 <urlsolve>http://ultraplay.biz:80/live/jk/jk/34177.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
