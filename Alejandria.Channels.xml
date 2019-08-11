@@ -371,8 +371,19 @@
 <urlsolve>http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</item>
 	
- <item>
+<item>
+        <title>TECNOTV LISTA</title>         
+        <link>http:>//ignoreme</link>
+        <externallink>http://tecnotv.club/ext.m3u</externallink>
+        <info></info>
+        <date></date> 
+        <epg></epg> 
+        <fanart></fanart>
+</item>	
+	
+<item>
         <title>↓XXX↓-↓ADULTOS↓-↓XXX↓-↓ADULTOS↓-↓XXX↓-↓ADULTOS↓-XXX-ADULTOS--------------------------</title>         
         <link>http:>//ignoreme</link>
         <externallink>https://pastebin.com/raw/gJztaDLA</externallink>
