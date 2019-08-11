@@ -372,6 +372,48 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>  
+<title>#CERO</title> 
+<urlsolve>https://myservertv.vile.zone/stream/0/index.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>  
+<title>#CERO OPCION2</title> 
+<urlsolve>http://latinchannel.tv:8000/juanmar5/iiqimgi4tq/3676</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+
+<item>  
+<title>CANAL HISTORIA</title> 
+<urlsolve>https://myservertv.vile.zone/stream/historia/index.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
+<item>  
+<title>CANAL HISTORIA OPCION 2</title> 
+<urlsolve>http://nettv-xcruiser.com:8000/8SykNw7Kng/Q7Kzjq5enr/65934</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+
+<item>  
+<title>BLAZE OPCION 1</title> 
+<urlsolve>http://nettv-xcruiser.com:8000/8SykNw7Kng/Q7Kzjq5enr/65934</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
+<item>  
+<title>BLAZE OPCION 2</title> 
+<urlsolve>http://nettv-xcruiser.com:8000/8SykNw7Kng/Q7Kzjq5enr/50360</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
 	
 <item>
         <title>TECNOTV LISTA</title>         
