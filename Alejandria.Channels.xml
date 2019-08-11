@@ -389,12 +389,15 @@
 <fanart></fanart>
 </item>
 	
-<item>  
-<title>LAS PELICULAS DEL REGIO</title> 
-<urlsolve>http://regioflix.club/IPTV/regioflix.m3u</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+<item>
+        <title>-LAS PELICULAS DEL REGIO-</title>         
+        <link>http:>//ignoreme</link>
+        <externallink>http://regioflix.club/IPTV/regioflix.m3u</externallink>
+        <info></info>
+        <date></date> 
+        <epg></epg> 
+        <fanart></fanart>
+</item>	
     
 	
 <item>
