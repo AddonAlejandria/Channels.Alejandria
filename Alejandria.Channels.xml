@@ -72,7 +72,14 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
-
+	
+<item>  
+<title>CANAL MEDITERRANEO</title> 
+<urlsolve>https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/021/playlist.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
 <item>  
 <title>TV3 (CATALUÑA)</title> 
 <urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8</urlsolve>
