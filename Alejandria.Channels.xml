@@ -295,26 +295,13 @@
 
 		
 <item>  
-<title>CANAL 33 (CATALUÑA)</title> 
+<title>CANAL 332 (CATALUÑA)</title> 
 <urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
-<item>  
-<title>8 TV (CATALUÑA)</title> 
-<urlsolve>http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>	
 	
-<item>  
-<title>TELEMADRID</title> 
-<urlsolve>http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>	
-
 <item>  
 <title>ENERGY</title> 
 <urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8</urlsolve>
