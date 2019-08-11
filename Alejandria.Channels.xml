@@ -358,6 +358,35 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
+	
+	
+<item>  
+<title>Paramount Channel Opcion 2</title> 
+<urlsolve>http://paramount.live.flumotion.com/live/playlist.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
+<item>  
+<title>Calle 13</title> 
+<urlsolve>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+
+<item>  
+<title>CosmoHD TV</title> 
+<urlsolve>http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+
+<item>  
+<title>TEN TV</title> 
+<urlsolve>http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
 
 <item>
         <title>Lista Test 1</title>         
