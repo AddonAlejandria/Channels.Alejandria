@@ -43,7 +43,21 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
 	
+<item>  
+<title>MOVISTAR ACCION/ESTRENOS (Opcion 1 cuando esta en emision)</title> 
+<urlsolve>http://ultraplay.biz/live/jk/jk/34177.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
+<item>  
+<title>MOVISTAR ACCION/ESTRENOS (Opcion 1 cuando esta en emision)</title> 
+<urlsolve>http://ultraplay.biz:80/live/jk/jk/34177.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>		
 <item>  
 <title>Nova FULLHD</title> 
 <urlsolve>https://livestartover.atresmedia.com/geonova/master.m3u8</urlsolve>
@@ -246,20 +260,6 @@
 <item>  
 <title>Millenium TV</title> 
 <urlsolve>http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>	
-	
-<item>  
-<title>MOVISTAR ACCION/ESTRENOS (Opcion 1 cuando esta en emision)</title> 
-<urlsolve>http://ultraplay.biz/live/jk/jk/34177.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>	
-	
-<item>  
-<title>MOVISTAR ACCION/ESTRENOS (Opcion 1 cuando esta en emision)</title> 
-<urlsolve>http://ultraplay.biz:80/live/jk/jk/34177.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
