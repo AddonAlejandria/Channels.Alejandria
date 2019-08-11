@@ -390,19 +390,5 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
-	
-<item>  
-<title>MOVISTAR ACCION (ENLACE ESPECIAL)</title> 
-<urlsolve>https://grifo8.mitopo.me/live/plusaccion/index.m3u8?token=X2IGS36J8lw7oJfQm94Lrw&expires=1565621590</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>	
-
-<item>  
-<title>ESPN FUTBOL/DEPORTES</title> 
-<urlsolve>http://e5.cdn4.us/ingest010/46718.m3u8?sf=enNJelFyZDA3OQ==&token=vSfvhNctn2Fy3lKIhcTqeg&expires=1565542702&rnd=46718</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>		
 
 
