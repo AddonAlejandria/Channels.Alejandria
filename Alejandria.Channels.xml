@@ -376,6 +376,29 @@
 <fanart></fanart>
 </item>	
 	
+	
+<item>  
+<title>MT MAD 24H</title> 
+<urlsolve>https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8/</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
+<item>  
+<title>DIVINITY</title> 
+<urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
+<item>  
+<title>MOVISTAR ACCION (ENLACE ESPECIAL)</title> 
+<urlsolve>https://grifo8.mitopo.me/live/plusaccion/index.m3u8?token=X2IGS36J8lw7oJfQm94Lrw&expires=1565621590</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+
+
 
 	
 
