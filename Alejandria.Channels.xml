@@ -278,3 +278,39 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
+
+<item>  
+<title>TV3 (CATALUÑA)</title> 
+<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
+<item>  
+<title>CANAL 33 (CATALUÑA)</title> 
+<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+
+		
+<item>  
+<title>CANAL 33 (CATALUÑA)</title> 
+<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
+<item>  
+<title>8 TV (CATALUÑA)</title> 
+<urlsolve>http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
+<item>  
+<title>TELEMADRID</title> 
+<urlsolve>http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
