@@ -314,3 +314,17 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
+
+<item>  
+<title>ENERGY</title> 
+<urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+	
+<item>  
+<title>TVE 24H</title> 
+<urlsolve>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
