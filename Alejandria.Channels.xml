@@ -198,6 +198,14 @@
 <thumbnail></thumbnail>
 <fanart>fanart>
 </item>
+	
+<item>  
+<title>BETIS TV</title> 
+<urlsolve>https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8</urlsolve>
+<thumbnail></thumbnail>
+<fanart>fanart>
+</item>
+
 
 <item>  
 <title>FDF</title> 
