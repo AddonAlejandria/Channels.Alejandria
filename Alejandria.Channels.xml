@@ -11,9 +11,9 @@
     </items_info>
 
 <item>
-        <title>>TEST3</title>         
+        <title>>TEST5</title>         
         <link>http:>//ignoreme</link>
-        <externallink>http://cdn.miip.tv:80/get.php?username=juanc&password=1234&type=m3u_plus&output=ts</externallink>
+        <externallink>http://78.46.128.215:8000/get.php?username=EuCC3yeSLG&password=P6QFgjZguP&type=m3u&output=mpegts</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
