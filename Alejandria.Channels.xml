@@ -11,6 +11,13 @@
     </items_info>
 
 <item>
+        <title>>TEST1</title>         
+        <link>http:>//ignoreme</link>
+        <externallink>http://51.68.76.38:80/get.php?username=jT75VAj755&password=4MFuD7757&type=m3u</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
         <title>>LIVETVAPK LIST</title>         
         <link>http:>//ignoreme</link>
         <externallink>https://raw.githubusercontent.com/LIVETVapk/Mundial_tokio/master/Movistar_tokio.m3u</externallink>
