@@ -9,29 +9,8 @@
       <date>04.01.2013</date>
       <credits>Addon Alejandria</credits>
     </items_info>
-<item>
-        <title>>PELICULAS FOR REG.</title>         
-        <link>http:>//ignoreme</link>
-        <externallink>http://regioflix.club/IPTV/alterna2.m3u</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-	
-<item>
-        <title>>AUTOACT.MOVIES</title>         
-        <link>http:>//ignoreme</link>
-        <externallink>https://pastebin.com/raw/vnC4DnCX</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-        <title>>MOVIES</title>         
-        <link>http:>//ignoreme</link>
-        <externallink>http://tvpremiumhd.club/hd/peliculas.m3u	</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
 	
 <item>
         <title>>LAT PREMIUM</title>         
@@ -53,6 +32,21 @@
         <title>>LAT PREMIUM-3</title>         
         <link>http:>//ignoreme</link>
         <externallink>http://tvpremiumhd.club/hd/tv.m3u	</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+        <title>>LAT PREMIUM 4</title>         
+        <link>http:>//ignoreme</link>
+        <externallink>https://pastebin.com/raw/vnC4DnCX</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+        <title>>LAT PREMIUM 5</title>         
+        <link>http:>//ignoreme</link>
+        <externallink>http://tvpremiumhd.club/hd/peliculas.m3u	</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
