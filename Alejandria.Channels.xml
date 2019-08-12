@@ -10,7 +10,14 @@
       <credits>Addon Alejandria</credits>
     </items_info>
 
-
+<item>
+        <title>>PREMIUM LIST</title>         
+        <link>http:>//ignoreme</link>
+        <externallink>https://pastebin.com/raw/iWysHzZk</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+	
 <item>  
 <title>LEVANTE TV</title> 
 <urlsolve>http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8</urlsolve>
@@ -374,14 +381,6 @@
 <item>  
 <title>TEN TV</title> 
 <urlsolve>http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-	
-<item>
-        <title>PREMIUM LIST</title>         
-        <link>http:>//ignoreme</link>
-        <externallink>https://pastebin.com/raw/iWysHzZk</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
