@@ -19,7 +19,7 @@
 </item>
 
 	<item>
-        <title>>ramazan LIST</title>         
+        <title>>STAR LIST1</title>         
         <link>http:>//ignoreme</link>
         <externallink>https://raw.githubusercontent.com/LIVETVapk/Movistar_ramazan/master/Movistar_ramazan.m3u</externallink>
 <thumbnail></thumbnail>
@@ -28,7 +28,7 @@
 
 
 	<item>
-        <title>>1pe LIST</title>         
+        <title>>STAR LIST2</title>         
         <link>http:>//ignoreme</link>
         <externallink>https://raw.githubusercontent.com/LIVETVapk/Movistar_1pe/master/Movistar_1pe.m3u</externallink>
 <thumbnail></thumbnail>
@@ -36,23 +36,16 @@
 </item>	
 	
 <item>
-        <title>>STAR LIST</title>         
+        <title>>STAR LIST3</title>         
         <link>http:>//ignoreme</link>
         <externallink>https://raw.githubusercontent.com/LIVETVapk/Movistar_vc0051/master/Movistar_vc0051.m3u</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
+
 	
 <item>
-        <title>>mundial LIST</title>         
-        <link>http:>//ignoreme</link>
-        <externallink>https://raw.githubusercontent.com/LIVETVapk/Mundial_vc0051/master/Mundial_vc0051.m3u</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>	
-	
-<item>
-        <title>>STAR LIST2</title>         
+        <title>>STAR LIST4</title>         
         <link>http:>//ignoreme</link>
         <externallink>https://raw.githubusercontent.com/LIVETVapk/Movistar_8Sy/master/Movistar_8Sy.m3u</externallink>
 <thumbnail></thumbnail>
@@ -60,7 +53,7 @@
 </item>	
 	
 <item>
-        <title>>STAR LIST3</title>         
+        <title>>STAR LIST5</title>         
         <link>http:>//ignoreme</link>
         <externallink>https://raw.githubusercontent.com/LIVETVapk/Movistar_qKk/master/Movistar_qKk.m3u	</externallink>
 <thumbnail></thumbnail>
@@ -68,12 +61,20 @@
 </item>	
 	
 <item>
-        <title>>STAR LIST3</title>         
+        <title>>STAR LIST6</title>         
         <link>http:>//ignoreme</link>
         <externallink>https://raw.githubusercontent.com/LIVETVapk/Movistar_qKk/master/Movistar_qKk.m3u	</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>		
+	
+<item>
+        <title>>MUNDIAL STAR LIST</title>         
+        <link>http:>//ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/LIVETVapk/Mundial_vc0051/master/Mundial_vc0051.m3u</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
 	
 <title>LEVANTE TV</title> 
 <urlsolve>http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8</urlsolve>
