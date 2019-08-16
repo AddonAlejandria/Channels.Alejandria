@@ -124,56 +124,56 @@
 </item>	
 	
 <title>LEVANTE TV</title> 
-<link><sublink>http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8</sublink></link>
+<urlsolve>http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>La 1</title> 
-<link><sublink>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on</sublink></link>
+<urlsolve>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 	
 <item>  
 <title>La 2</title> 
-<link><sublink>http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0400_av-p.m3u8?sd=10&rebase=on</sublink></link>
+<urlsolve>http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0400_av-p.m3u8?sd=10&rebase=on</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 	
 <item>  
 <title>QUATRO</title> 
-<link><sublink>https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8</sublink></link>
+<urlsolve>https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 
 <item>  
 <title>Telecinco</title> 
-<link><sublink>https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8</sublink></link>
+<urlsolve>https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 	
 <item>  
 <title>La Sexta</title> 
-<link><sublink>https://livestartover.atresmedia.com:443/lasexta/bitrate_1.m3u8</sublink></link>
+<urlsolve>https://livestartover.atresmedia.com:443/lasexta/bitrate_1.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 	
 <item>  
 <title>LA SEXTA HD</title> 
-<link><sublink>http://tvpremiumhd.club/lista-gratuita/213010/on/lives.php?id=livestartover.atresmedia.com/lasexta/master.m3u8</sublink></link>
+<urlsolve>http://tvpremiumhd.club/lista-gratuita/213010/on/lives.php?id=livestartover.atresmedia.com/lasexta/master.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 	
 <item>  
 <title>ANTENA3 HD</title> 
-<link><sublink>http://tvpremiumhd.club/lista-gratuita/213010/on/lives.php?id=livestartover.atresmedia.com/antena3/master.m3u8</sublink></link>
+<urlsolve>http://tvpremiumhd.club/lista-gratuita/213010/on/lives.php?id=livestartover.atresmedia.com/antena3/master.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -181,88 +181,88 @@
 	
 <item>  
 <title>Paramount Channel</title> 
-<link><sublink>http://paramount.live.flumotion.com/live/playlist.m3u8</sublink></link>
+<urlsolve>http://paramount.live.flumotion.com/live/playlist.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>A PUNT HD</title> 
-<link><sublink>https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8</sublink></link>
+<urlsolve>https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>CANAL MEDITERRANEO</title> 
-<link><sublink>https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/021/playlist.m3u8</sublink></link>
+<urlsolve>https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/021/playlist.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>TV3 (CATALUÑA)</title> 
-<link><sublink>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8</sublink></link>
+<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>CANAL 33 (CATALUÑA)</title> 
-<link><sublink>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</sublink></link>
+<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 		
 <item>  
 <title>CANAL 332 (CATALUÑA)</title> 
-<link><sublink>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</sublink></link>
+<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 
 <item>  
 <title>Nova FULLHD</title> 
-<link><sublink>https://livestartover.atresmedia.com/geonova/master.m3u8</sublink></link>
+<urlsolve>https://livestartover.atresmedia.com/geonova/master.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 	
 <item>  
 <title>Neox</title> 
-<link><sublink>https://livestartover.atresmedia.com:443/geoneox/bitrate_1.m3u8</sublink></link>
+<urlsolve>https://livestartover.atresmedia.com:443/geoneox/bitrate_1.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 		
 <item>  
 <title>Be Mad</title> 
-<link><sublink>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8</sublink></link>
+<urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>MEGA (Opcion 1)</title> 
-<link><sublink>https://livestartover.atresmedia.com/geomega/bitrate_1.m3u8</sublink></link>
+<urlsolve>https://livestartover.atresmedia.com/geomega/bitrate_1.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 	
 <item>  
 <title>MEGA (Opcion 2)</title> 
-<link><sublink>https://livestartover.atresmedia.com:443/geomega/bitrate_2.m3u8</sublink></link>
+<urlsolve>https://livestartover.atresmedia.com:443/geomega/bitrate_2.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>MEGA HD(Opcion 3)</title> 
-<link><sublink>https://livestartover.atresmedia.com/geomega/bitrate_4.m3u8
+<urlsolve>https://livestartover.atresmedia.com/geomega/bitrate_4.m3u8
 
 <item>  
 <title>REDBULL TV</title> 
-<link><sublink>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8</sublink></link>
+<urlsolve>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
@@ -270,7 +270,7 @@
 	
 <item>  
 <title>BOING</title> 
-<link><sublink>https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8</sublink></link>
+<urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
@@ -278,7 +278,7 @@
 	
 <item>  
 <title>DISNEY CHANEL</title> 
-<link><sublink>cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/master.m3u8</sublink></link>
+<urlsolve>cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/master.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
@@ -286,105 +286,105 @@
 	
 <item>  
 <title>ENERGY</title> 
-<link><sublink>https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8</sublink></link>
+<urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>CANAL TRECE</title> 
-<link><sublink>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8</sublink></link>
+<urlsolve>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>Real Madrid TV</title> 
-<link><sublink>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on</sublink></link>
+<urlsolve>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on</urlsolve>
 <thumbnail></thumbnail>
 <fanart>fanart>
 </item>
 	
 <item>  
 <title>BETIS TV</title> 
-<link><sublink>https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8</sublink></link>
+<urlsolve>https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart>fanart>
 </item>
 	
 <item>  
 <title>UD LAS PALMAS TV</title> 
-<link><sublink>https://5b38ce71f1f00.streamlock.net/8312/8312/master.m3u8</sublink></link>
+<urlsolve>https://5b38ce71f1f00.streamlock.net/8312/8312/master.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart>fanart>
 </item>
 	
 <item>  
 <title>FDF</title> 
-<link><sublink>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8</sublink></link>
+<urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>CANAL EXTREMADURA</title> 
-<link><sublink>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</sublink></link>
+<urlsolve>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>Popular Murcia</title> 
-<link><sublink>https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8</sublink></link>
+<urlsolve>https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>Telearanda</title> 
-<link><sublink>https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8</sublink></link>
+<urlsolve>https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 	
 <item>  
 <title>Orbit TV</title> 
-<link><sublink>http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8</sublink></link>
+<urlsolve>http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 	
 <item>  
 <title>Uest TV</title> 
-<link><sublink>http://cl.origin.grupoz.cl:80/uestv/live/chunklist_w624957346.m3u8</sublink></link>
+<urlsolve>http://cl.origin.grupoz.cl:80/uestv/live/chunklist_w624957346.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>		
 	
 <item>  
 <title>Retroplus TV</title> 
-<link><sublink>https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1008321712.m3u8</sublink></link>
+<urlsolve>https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1008321712.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 	
 <item>  
 <title>Locomotiv TV</title> 
-<link><sublink>http://tvpremiumhd.club/lista-gratuita/213026/on/live.php?id=locomotiontv.com/envivo/loco_channel/stream.m3u8</sublink></link>
+<urlsolve>http://tvpremiumhd.club/lista-gratuita/213026/on/live.php?id=locomotiontv.com/envivo/loco_channel/stream.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 	
 <item>  
 <title>Hellin Tv</title> 
-<link><sublink>http://hellin-hls-live.flumotion.com:80/hellin/hellin-live_source/chunks.m3u8</sublink></link>
+<urlsolve>http://hellin-hls-live.flumotion.com:80/hellin/hellin-live_source/chunks.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 	
 <item>  
 <title>Guapiles TV</title> 
-<link><sublink>http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8</sublink></link>
+<urlsolve>http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
@@ -392,7 +392,7 @@
 	
 <item>  
 <title>FXM TV</title> 
-<link><sublink>http://streaminglivehd.com:1935/8056/8056/chunklist_w276384327.m3u8</sublink></link>
+<urlsolve>http://streaminglivehd.com:1935/8056/8056/chunklist_w276384327.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
@@ -400,91 +400,91 @@
 
 <item>  
 <title>EXTREMA TV</title> 
-<link><sublink>http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1268142264.m3u8</sublink></link>
+<urlsolve>http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1268142264.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>DISTRITO TV</title> 
-<link><sublink>https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8</sublink></link>
+<urlsolve>https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 
 <item>  
 <title>CGTN ESPAÑOL</title> 
-<link><sublink>https://livees.cgtn.com/1000e/prog_index.m3u8</sublink></link>
+<urlsolve>https://livees.cgtn.com/1000e/prog_index.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>CN TV</title> 
-<link><sublink>http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8</sublink></link>
+<urlsolve>http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>CINEMANIAC</title> 
-<link><sublink>http://wowzacontrol.com:1935/stream34/stream34/chunklist_w1658091415.m3u8</sublink></link>
+<urlsolve>http://wowzacontrol.com:1935/stream34/stream34/chunklist_w1658091415.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>CANAL 4</title> 
-<link><sublink>http://149.202.68.178:1935/live/peprecasens/chunklist_w1901443009.m3u8</sublink></link>
+<urlsolve>http://149.202.68.178:1935/live/peprecasens/chunklist_w1901443009.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>CANAL ONCE (MEXICO)</title> 
-<link><sublink>http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?</sublink></link>
+<urlsolve>http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>CANAL 10</title> 
-<link><sublink>http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1222007988.m3u8</sublink></link>
+<urlsolve>http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1222007988.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>cachipuntv</title> 
-<link><sublink>http://edge1.cl.grupoz.cl:80/cachipuntv/live/chunklist_w550850136.m3u8</sublink></link>
+<urlsolve>http://edge1.cl.grupoz.cl:80/cachipuntv/live/chunklist_w550850136.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 
 <item>  
 <title>Millenium TV</title> 
-<link><sublink>http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8</sublink></link>
+<urlsolve>http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 
 <item>  
 <title>DIVINITY</title> 
-<link><sublink>https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8</sublink></link>
+<urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 	
 <item>  
 <title>CosmoHD TV</title> 
-<link><sublink>http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8</sublink></link>
+<urlsolve>http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>	
 
 <item>  
 <title>TEN TV</title> 
-<link><sublink>http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8</sublink></link>
+<urlsolve>http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
