@@ -3,8 +3,8 @@
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,LA 2 HD
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
-#EXTINF:-1,ANTENA 3HD
-https://pico21.pedromo.me/live/antena3/index.m3u8?token=KzNF9K-vRMmbIcZB292IqQ&expires=99999999999999
+#EXTINF:-1,ANTENA 3 HD
+https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
 #EXTINF:-1,CUATRO HD
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 #EXTINF:-1,TELECINCO HD
