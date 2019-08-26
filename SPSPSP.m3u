@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1,LA 1 HD
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,LA 2 HD
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
+#EXTINF:-1,ANTENA 3HD
+https://livestartover.atresmedia.com/geoantena3/master.m3u8
+#EXTINF:-1,CUATRO HD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1,TELECINCO HD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1,laSexta HD
+https://livestartover.atresmedia.com/geolasexta/master.m3u8
+#EXTINF:-1,NEOX HD
+https://livestartover.atresmedia.com:443/geoneox/bitrate_1.m3u8
+#EXTINF:-1,NOVA HD
+https://livestartover.atresmedia.com/geonova/master.m3u8
+#EXTINF:-1,MEGA HD
+https://livestartover.atresmedia.com/geomega/master.m3u8
+#EXTINF:-1,Atreseries HD
+https://livestartover.atresmedia.com/geoa3series/master.m3u8
+#EXTINF:-1,FDF HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1,Energy HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:-1,Divinity HD
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1,BE MAD HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1,Paramount Network
+https://paramount-live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1,TRECE
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
+#EXTINF:-1,mtmad 24h HD
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+#EXTINF:-1,El Toro TV
+https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8
+#EXTINF:-1,24H
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1,RealMadrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1,BETIS TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#EXTINF:-1,Sevilla TV
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
+#EXTINF:-1,UD LAS PALMAS HD
+https://5b38ce71f1f00.streamlock.net/8312/8312/master.m3u8
+#EXTINF:-1,Disney Channel
+http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/master.m3u8
+#EXTINF:-1,BOING HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
