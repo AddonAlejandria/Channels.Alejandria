@@ -1,0 +1,632 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PORTADA" tvg-logo="" group-title="España",PORTADA
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/639
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1 FHD 1080" tvg-logo="" group-title="España",LA 1 FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/407
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1 HD 720" tvg-logo="" group-title="España",LA 1 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/406
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1 SD" tvg-logo="" group-title="España",LA 1 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/405
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2 FHD 1080" tvg-logo="" group-title="España",LA 2 FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/404
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2 SD" tvg-logo="" group-title="España",LA 2 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/403
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3 FHD 1080" tvg-logo="" group-title="España",ANTENA 3 FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/402
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3 HD 720" tvg-logo="" group-title="España",ANTENA 3 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/401
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3 SD" tvg-logo="" group-title="España",ANTENA 3 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/400
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="CUATRO FHD 1080" tvg-logo="" group-title="España",CUATRO FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/399
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="CUATRO HD 720" tvg-logo="" group-title="España",CUATRO HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/398
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="CUATRO SD" tvg-logo="" group-title="España",CUATRO SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/397
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="TELECINCO FHD 1080" tvg-logo="" group-title="España",TELECINCO FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/396
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="TELECINCO HD 720" tvg-logo="" group-title="España",TELECINCO HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/395
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="TELECINCO SD" tvg-logo="" group-title="España",TELECINCO SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/394
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA FHD 1080" tvg-logo="" group-title="España",LA SEXTA FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/393
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA HD 720" tvg-logo="" group-title="España",LA SEXTA HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/392
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA SD" tvg-logo="" group-title="España",LA SEXTA SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/391
+#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA FHD 1080" tvg-logo="" group-title="España",MEGA FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/390
+#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA SD" tvg-logo="" group-title="España",MEGA SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/389
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF HD 720" tvg-logo="" group-title="España",FDF HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/388
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF SD" tvg-logo="" group-title="España",FDF SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/387
+#EXTINF:-1 tvg-id="Neox" tvg-name="NEOX FHD 1080" tvg-logo="" group-title="España",NEOX FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/386
+#EXTINF:-1 tvg-id="Neox" tvg-name="NEOX SD" tvg-logo="" group-title="España",NEOX SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/385
+#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA FHD 1080" tvg-logo="" group-title="España",NOVA FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/384
+#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA SD" tvg-logo="" group-title="España",NOVA SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/383
+#EXTINF:-1 tvg-id="Energy" tvg-name="ENERGY SD" tvg-logo="" group-title="España",ENERGY SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/382
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD FHD 1080" tvg-logo="" group-title="España",BE MAD FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/381
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS HD 720" tvg-logo="" group-title="España",DKISS HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/380
+#EXTINF:-1 tvg-id="Divinity" tvg-name="DIVINITY SD" tvg-logo="" group-title="España",DIVINITY SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/379
+#EXTINF:-1 tvg-id="Ten" tvg-name="TEN SD" tvg-logo="" group-title="España",TEN SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/378
+#EXTINF:-1 tvg-id="" tvg-name="▄ ▅ ▆☆ CANALES 24 HORAS ☆▆ ▅ ▄" tvg-logo="" group-title="España",▄ ▅ ▆☆ CANALES 24 HORAS ☆▆ ▅ ▄
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/408
+#EXTINF:-1 tvg-id="" tvg-name="LA QUE SE AVECINA 24 HORAS" tvg-logo="" group-title="España",LA QUE SE AVECINA 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/376
+#EXTINF:-1 tvg-id="" tvg-name="JUEGO DE TRONOS 24 HORAS" tvg-logo="" group-title="España",JUEGO DE TRONOS 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/375
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 24 HORAS" tvg-logo="" group-title="España",LOS SIMPSONS 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/280
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL 24 HORAS" tvg-logo="" group-title="España",MARVEL 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/278
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas" tvg-logo="" group-title="España",24 Horas
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/31
+#EXTINF:-1 tvg-id="" tvg-name="APEX LEGENDS 24 HORAS" tvg-logo="" group-title="España",APEX LEGENDS 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/137
+#EXTINF:-1 tvg-id="" tvg-name="CSGO LEAGUE SEASON 24 HORAS" tvg-logo="" group-title="España",CSGO LEAGUE SEASON 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/138
+#EXTINF:-1 tvg-id="" tvg-name="DAKAR 24 HORAS" tvg-logo="" group-title="España",DAKAR 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/193
+#EXTINF:-1 tvg-id="" tvg-name="Dance Music 24 Horas" tvg-logo="" group-title="España",Dance Music 24 Horas
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/71
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CLASSICS 24 HORAS" tvg-logo="" group-title="España",DISNEY CLASSICS 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/94
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24 HORAS" tvg-logo="" group-title="España",DRAGON BALL 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/108
+#EXTINF:-1 tvg-id="" tvg-name="FORTNITE 24 HORAS" tvg-logo="" group-title="España",FORTNITE 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/139
+#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA 24 HORAS" tvg-logo="" group-title="España",FUTURAMA 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/281
+#EXTINF:-1 tvg-id="" tvg-name="House Music 24 Horas" tvg-logo="" group-title="España",House Music 24 Horas
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/74
+#EXTINF:-1 tvg-id="" tvg-name="MICKEY MOUSE 24 HORAS" tvg-logo="" group-title="España",MICKEY MOUSE 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/93
+#EXTINF:-1 tvg-id="" tvg-name="OLIVER Y BENJI 24 HORAS" tvg-logo="" group-title="España",OLIVER Y BENJI 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/107
+#EXTINF:-1 tvg-id="" tvg-name="PADRE DE FAMILIA 24 HORAS" tvg-logo="" group-title="España",PADRE DE FAMILIA 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/279
+#EXTINF:-1 tvg-id="" tvg-name="POCOYO 24 HORAS" tvg-logo="" group-title="España",POCOYO 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/101
+#EXTINF:-1 tvg-id="" tvg-name="Rap Music 24 Horas" tvg-logo="" group-title="España",Rap Music 24 Horas
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/75
+#EXTINF:-1 tvg-id="" tvg-name="Summer Music 24 Horas" tvg-logo="" group-title="España",Summer Music 24 Horas
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/73
+#EXTINF:-1 tvg-id="" tvg-name="Tropical House Music 24 Horas" tvg-logo="" group-title="España",Tropical House Music 24 Horas
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/72
+#EXTINF:-1 tvg-id="" tvg-name="URBEX 24 HORAS" tvg-logo="" group-title="España",URBEX 24 HORAS
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/110
+#EXTINF:-1 tvg-id="" tvg-name="▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆" tvg-logo="" group-title="España",▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/409
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="ATRESERIES HD 720" tvg-logo="" group-title="España",ATRESERIES HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/374
+#EXTINF:-1 tvg-id="" tvg-name="Orange Series 4K UHD" tvg-logo="" group-title="España",Orange Series 4K UHD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/600
+#EXTINF:-1 tvg-id="Movistar Series" tvg-name="MOVISTAR SERIES FHD 1080" tvg-logo="" group-title="España",MOVISTAR SERIES FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/372
+#EXTINF:-1 tvg-id="Movistar Series" tvg-name="MOVISTAR SERIES HD 720" tvg-logo="" group-title="España",MOVISTAR SERIES HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/371
+#EXTINF:-1 tvg-id="Movistar Series" tvg-name="MOVISTAR SERIES SD" tvg-logo="" group-title="España",MOVISTAR SERIES SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/370
+#EXTINF:-1 tvg-id="M. Seriesmanía" tvg-name="MOVISTAR SERIESMANIA FHD 1080" tvg-logo="" group-title="España",MOVISTAR SERIESMANIA FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/369
+#EXTINF:-1 tvg-id="M. Seriesmanía" tvg-name="MOVISTAR SERIESMANIA HD 720" tvg-logo="" group-title="España",MOVISTAR SERIESMANIA HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/368
+#EXTINF:-1 tvg-id="M. Seriesmanía" tvg-name="MOVISTAR SERIESMANIA SD" tvg-logo="" group-title="España",MOVISTAR SERIESMANIA SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/367
+#EXTINF:-1 tvg-id="Movistar Estrenos" tvg-name="MOVISTAR ESTRENOS FHD 1080" tvg-logo="" group-title="España",MOVISTAR ESTRENOS FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/366
+#EXTINF:-1 tvg-id="Movistar Estrenos" tvg-name="MOVISTAR ESTRENOS HD 720" tvg-logo="" group-title="España",MOVISTAR ESTRENOS HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/365
+#EXTINF:-1 tvg-id="Movistar Estrenos" tvg-name="MOVISTAR ESTRENOS SD" tvg-logo="" group-title="España",MOVISTAR ESTRENOS SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/364
+#EXTINF:-1 tvg-id="M.CineDoc&Roll" tvg-name="MOVISTAR CINEDOC&ROLL FHD 1080" tvg-logo="" group-title="España",MOVISTAR CINEDOC&ROLL FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/363
+#EXTINF:-1 tvg-id="M.CineDoc&Roll" tvg-name="MOVISTAR CINEDOC&ROLL HD 720" tvg-logo="" group-title="España",MOVISTAR CINEDOC&ROLL HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/362
+#EXTINF:-1 tvg-id="M.CineDoc&Roll" tvg-name="MOVISTAR CINEDOC&ROLL SD" tvg-logo="" group-title="España",MOVISTAR CINEDOC&ROLL SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/361
+#EXTINF:-1 tvg-id="Movistar Acción" tvg-name="MOVISTAR ACCION FHD 1080" tvg-logo="" group-title="España",MOVISTAR ACCION FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/360
+#EXTINF:-1 tvg-id="Movistar Acción" tvg-name="MOVISTAR ACCION HD 720" tvg-logo="" group-title="España",MOVISTAR ACCION HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/359
+#EXTINF:-1 tvg-id="Movistar Acción" tvg-name="MOVISTAR ACCION SD" tvg-logo="" group-title="España",MOVISTAR ACCION SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/358
+#EXTINF:-1 tvg-id="Movistar Comedia" tvg-name="MOVISTAR COMEDIA FHD 1080" tvg-logo="" group-title="España",MOVISTAR COMEDIA FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/357
+#EXTINF:-1 tvg-id="Movistar Comedia" tvg-name="MOVISTAR COMEDIA HD 720" tvg-logo="" group-title="España",MOVISTAR COMEDIA HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/356
+#EXTINF:-1 tvg-id="Movistar Comedia" tvg-name="MOVISTAR COMEDIA SD" tvg-logo="" group-title="España",MOVISTAR COMEDIA SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/355
+#EXTINF:-1 tvg-id="M. Drama" tvg-name="MOVISTAR DRAMA FHD 1080" tvg-logo="" group-title="España",MOVISTAR DRAMA FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/354
+#EXTINF:-1 tvg-id="M. Drama" tvg-name="MOVISTAR DRAMA HD 720" tvg-logo="" group-title="España",MOVISTAR DRAMA HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/353
+#EXTINF:-1 tvg-id="M. Drama" tvg-name="MOVISTAR DRAMA SD" tvg-logo="" group-title="España",MOVISTAR DRAMA SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/352
+#EXTINF:-1 tvg-id="M. Disney" tvg-name="MOVISTAR DISNEY SD" tvg-logo="" group-title="España",MOVISTAR DISNEY SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/351
+#EXTINF:-1 tvg-id="Movistar Cine Español" tvg-name="MOVISTAR CINE ESPAÑOL SD" tvg-logo="" group-title="España",MOVISTAR CINE ESPAÑOL SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/350
+#EXTINF:-1 tvg-id="ZERO" tvg-name="#0 FHD 1080" tvg-logo="" group-title="España",#0 FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/349
+#EXTINF:-1 tvg-id="ZERO" tvg-name="#0 HD 720" tvg-logo="" group-title="España",#0 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/348
+#EXTINF:-1 tvg-id="ZERO" tvg-name="#0 SD" tvg-logo="" group-title="España",#0 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/347
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX FHD 1080" tvg-logo="" group-title="España",FOX FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/346
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD 720" tvg-logo="" group-title="España",FOX HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/345
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX SD" tvg-logo="" group-title="España",FOX SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/344
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD 1080" tvg-logo="" group-title="España",AXN FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/343
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD 720" tvg-logo="" group-title="España",AXN HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/342
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD" tvg-logo="" group-title="España",AXN SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/341
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN WHITE FHD 1080" tvg-logo="" group-title="España",AXN WHITE FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/340
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN WHITE HD 720" tvg-logo="" group-title="España",AXN WHITE HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/339
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN WHITE SD" tvg-logo="" group-title="España",AXN WHITE SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/338
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD 1080" tvg-logo="" group-title="España",TNT FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/337
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD 720" tvg-logo="" group-title="España",TNT HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/336
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD" tvg-logo="" group-title="España",TNT SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/335
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL FHD 1080" tvg-logo="" group-title="España",COMEDY CENTRAL FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/334
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL HD 720" tvg-logo="" group-title="España",COMEDY CENTRAL HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/333
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL SD" tvg-logo="" group-title="España",COMEDY CENTRAL SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/332
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="CALLE 13 FHD 1080" tvg-logo="" group-title="España",CALLE 13 FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/331
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="CALLE 13 HD 720" tvg-logo="" group-title="España",CALLE 13 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/330
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="CALLE 13 SD" tvg-logo="" group-title="España",CALLE 13 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/329
+#EXTINF:-1 tvg-id="COSMO" tvg-name="COSMOPOLITAN FHD 1080" tvg-logo="" group-title="España",COSMOPOLITAN FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/328
+#EXTINF:-1 tvg-id="COSMO" tvg-name="COSMOPOLITAN HD 720" tvg-logo="" group-title="España",COSMOPOLITAN HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/327
+#EXTINF:-1 tvg-id="COSMO" tvg-name="COSMOPOLITAN SD" tvg-logo="" group-title="España",COSMOPOLITAN SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/326
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD 1080" tvg-logo="" group-title="España",AMC FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/325
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD 720" tvg-logo="" group-title="España",AMC HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/324
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="" group-title="España",AMC SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/323
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX LIFE FHD 1080" tvg-logo="" group-title="España",FOX LIFE FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/322
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX LIFE HD 720" tvg-logo="" group-title="España",FOX LIFE HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/321
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX LIFE SD" tvg-logo="" group-title="España",FOX LIFE SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/320
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY FHD 1080" tvg-logo="" group-title="España",SYFY FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/319
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY HD 720" tvg-logo="" group-title="España",SYFY HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/318
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY SD" tvg-logo="" group-title="España",SYFY SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/317
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM FHD 1080" tvg-logo="" group-title="España",TCM FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/316
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD 720" tvg-logo="" group-title="España",TCM HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/315
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD" tvg-logo="" group-title="España",TCM SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/314
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="HOLLYWOOD FHD 1080" tvg-logo="" group-title="España",HOLLYWOOD FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/313
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="HOLLYWOOD HD 720" tvg-logo="" group-title="España",HOLLYWOOD HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/312
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="HOLLYWOOD SD" tvg-logo="" group-title="España",HOLLYWOOD SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/311
+#EXTINF:-1 tvg-id="" tvg-name="DARK (RED) FHD 1080" tvg-logo="" group-title="España",DARK (RED) FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1065
+#EXTINF:-1 tvg-id="" tvg-name="DARK FHD 1080" tvg-logo="" group-title="España",DARK FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1066
+#EXTINF:-1 tvg-id="" tvg-name="DARK HD 720" tvg-logo="" group-title="España",DARK HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1064
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK SD" tvg-logo="" group-title="España",DARK SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/308
+#EXTINF:-1 tvg-id="Sundance" tvg-name="SUNDANCE FHD 1080" tvg-logo="" group-title="España",SUNDANCE FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/307
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE HD 720" tvg-logo="" group-title="España",SUNDANCE HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1063
+#EXTINF:-1 tvg-id="Sundance" tvg-name="SUNDANCE SD" tvg-logo="" group-title="España",SUNDANCE SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/306
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT CHANNEL HD 720" tvg-logo="" group-title="España",PARAMOUNT CHANNEL HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/305
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="" group-title="España",PARAMOUNT CHANNEL SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/304
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="NATIONAL GEOGRAPHIC FHD 1080" tvg-logo="" group-title="España",NATIONAL GEOGRAPHIC FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/303
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="NATIONAL GEOGRAPHIC HD 720" tvg-logo="" group-title="España",NATIONAL GEOGRAPHIC HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/302
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="" group-title="España",NATIONAL GEOGRAPHIC SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/301
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="NAT GEO WILD FHD 1080" tvg-logo="" group-title="España",NAT GEO WILD FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/300
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="NAT GEO WILD HD 720" tvg-logo="" group-title="España",NAT GEO WILD HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/299
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="NAT GEO WILD SD" tvg-logo="" group-title="España",NAT GEO WILD SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/298
+#EXTINF:-1 tvg-id="Historia" tvg-name="HISTORIA FHD 1080" tvg-logo="" group-title="España",HISTORIA FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/296
+#EXTINF:-1 tvg-id="Historia" tvg-name="HISTORIA SD" tvg-logo="" group-title="España",HISTORIA SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/295
+#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY CHANNEL FHD 1080" tvg-logo="" group-title="España",DISCOVERY CHANNEL FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/294
+#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="" group-title="España",DISCOVERY CHANNEL SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/293
+#EXTINF:-1 tvg-id="" tvg-name="Canal Odisea 4K UHD (EN PRUEBAS)" tvg-logo="" group-title="España",Canal Odisea 4K UHD (EN PRUEBAS)
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/601
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ODISEA FHD 1080" tvg-logo="" group-title="España",ODISEA FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/292
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ODISEA SD" tvg-logo="" group-title="España",ODISEA SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/291
+#EXTINF:-1 tvg-id="Blaze" tvg-name="BLAZE SD" tvg-logo="" group-title="España",BLAZE SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/290
+#EXTINF:-1 tvg-id="Viajar" tvg-name="VIAJAR FHD 1080" tvg-logo="" group-title="España",VIAJAR FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/289
+#EXTINF:-1 tvg-id="Viajar" tvg-name="VIAJAR HD 720" tvg-logo="" group-title="España",VIAJAR HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/288
+#EXTINF:-1 tvg-id="Viajar" tvg-name="VIAJAR SD" tvg-logo="" group-title="España",VIAJAR SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/287
+#EXTINF:-1 tvg-id="Discovery Max" tvg-name="DISCOVERY MAX SD" tvg-logo="" group-title="España",DISCOVERY MAX SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/286
+#EXTINF:-1 tvg-id="Crimen Investigacion" tvg-name="CRIMEN + INVESTIGACION SD" tvg-logo="" group-title="España",CRIMEN + INVESTIGACION SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/285
+#EXTINF:-1 tvg-id="" tvg-name="Canal Cocina 4K UHD (EN PRUEBAS)" tvg-logo="" group-title="España",Canal Cocina 4K UHD (EN PRUEBAS)
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/602
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="COCINA SD" tvg-logo="" group-title="España",COCINA SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/284
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="DECASA SD" tvg-logo="" group-title="España",DECASA SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/283
+#EXTINF:-1 tvg-id="" tvg-name="Canal Decasa FHD (EN PRUEBAS)" tvg-logo="" group-title="España",Canal Decasa FHD (EN PRUEBAS)
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/599
+#EXTINF:-1 tvg-id="" tvg-name="Canal Decasa HD" tvg-logo="" group-title="España",Canal Decasa HD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/598
+#EXTINF:-1 tvg-id="" tvg-name="BADABUN TV" tvg-logo="" group-title="España",BADABUN TV
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/282
+#EXTINF:-1 tvg-id="" tvg-name="Canal Argentina UHD 4K (EN PRUEBAS)" tvg-logo="" group-title="España",Canal Argentina UHD 4K (EN PRUEBAS)
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/518
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 1 FHD 1080" tvg-logo="" group-title="España",ALQUILER 1 FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/277
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 2 FHD 1080" tvg-logo="" group-title="España",ALQUILER 2 FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/276
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 3 FHD 1080" tvg-logo="" group-title="España",ALQUILER 3 FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/275
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 4 FHD 1080" tvg-logo="" group-title="España",ALQUILER 4 FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/274
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 5 FHD 1080" tvg-logo="" group-title="España",ALQUILER 5 FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/273
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 6 UHD (4K EN PRUEBAS)" tvg-logo="" group-title="España",Alquiler 6 UHD (4K EN PRUEBAS)
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/514
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE SD" tvg-logo="" group-title="España",MULTIDEPORTE SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/271
+#EXTINF:-1 tvg-id="Canal Fútbol Replay" tvg-name="FUTBOL REPLAY SD" tvg-logo="" group-title="España",FUTBOL REPLAY SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/270
+#EXTINF:-1 tvg-id="Vamos" tvg-name="#VAMOS FHD 1080" tvg-logo="" group-title="España",#VAMOS FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/269
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS HD 720" tvg-logo="" group-title="España",#VAMOS HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1059
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS BAR" tvg-logo="" group-title="España",#VAMOS BAR
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/638
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS BAR 1" tvg-logo="" group-title="España",#VAMOS BAR 1
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/637
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS BAR 2" tvg-logo="" group-title="España",#VAMOS BAR 2
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/636
+#EXTINF:-1 tvg-id="Movistar Deportes" tvg-name="MOVISTAR DEPORTES FHD 1080" tvg-logo="" group-title="España",MOVISTAR DEPORTES FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/267
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 FHD 1080" tvg-logo="" group-title="España",MOVISTAR DEPORTES 1 FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/265
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 720" tvg-logo="" group-title="España",MOVISTAR DEPORTES 1 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/264
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 2 SD" tvg-logo="" group-title="España",MOVISTAR DEPORTES 2 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/263
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 3 SD" tvg-logo="" group-title="España",MOVISTAR DEPORTES 3 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/261
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 4 SD" tvg-logo="" group-title="España",MOVISTAR DEPORTES 4 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/259
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 5 SD" tvg-logo="" group-title="España",MOVISTAR DEPORTES 5 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/257
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 6 SD" tvg-logo="" group-title="España",MOVISTAR DEPORTES 6 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/256
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 7 SD" tvg-logo="" group-title="España",MOVISTAR DEPORTES 7 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/255
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 8 SD" tvg-logo="" group-title="España",MOVISTAR DEPORTES 8 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/254
+#EXTINF:-1 tvg-id="M. LaLiga UHD" tvg-name="Movistar LaLiga 4K UHD" tvg-logo="" group-title="España",Movistar LaLiga 4K UHD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/640
+#EXTINF:-1 tvg-id="M. LaLiga" tvg-name="Movistar LaLiga FHD" tvg-logo="" group-title="España",Movistar LaLiga FHD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/618
+#EXTINF:-1 tvg-id="M. LaLiga" tvg-name="Movistar LaLiga HD" tvg-logo="" group-title="España",Movistar LaLiga HD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/619
+#EXTINF:-1 tvg-id="M. LaLiga" tvg-name="Movistar LaLiga SD" tvg-logo="" group-title="España",Movistar LaLiga SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/620
+#EXTINF:-1 tvg-id="M. LaLiga 1" tvg-name="Movistar LaLiga MULTI 1 FHD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 1 FHD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1056
+#EXTINF:-1 tvg-id="M. LaLiga 1" tvg-name="Movistar LaLiga MULTI 1 HD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 1 HD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1055
+#EXTINF:-1 tvg-id="M. LaLiga 1" tvg-name="Movistar LaLiga MULTI 1 SD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 1 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1054
+#EXTINF:-1 tvg-id="M. LaLiga 2" tvg-name="Movistar LaLiga MULTI 2 FHD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 2 FHD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1053
+#EXTINF:-1 tvg-id="M. LaLiga 2" tvg-name="Movistar LaLiga MULTI 2 HD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 2 HD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1052
+#EXTINF:-1 tvg-id="M. LaLiga 2" tvg-name="Movistar LaLiga MULTI 2 SD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 2 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1051
+#EXTINF:-1 tvg-id="M. LaLiga 3" tvg-name="Movistar LaLiga MULTI 3 FHD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 3 FHD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1050
+#EXTINF:-1 tvg-id="M. LaLiga 3" tvg-name="Movistar LaLiga MULTI 3 HD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 3 HD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1049
+#EXTINF:-1 tvg-id="M. LaLiga 3" tvg-name="Movistar LaLiga MULTI 3 SD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 3 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1048
+#EXTINF:-1 tvg-id="M. LaLiga 4" tvg-name="Movistar LaLiga MULTI 4 FHD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 4 FHD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1047
+#EXTINF:-1 tvg-id="M. LaLiga 4" tvg-name="Movistar LaLiga MULTI 4 HD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 4 HD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1046
+#EXTINF:-1 tvg-id="M. LaLiga 4" tvg-name="Movistar LaLiga MULTI 4 SD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 4 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1045
+#EXTINF:-1 tvg-id="M. LaLiga 5" tvg-name="Movistar LaLiga MULTI 5 FHD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 5 FHD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1044
+#EXTINF:-1 tvg-id="M. LaLiga 5" tvg-name="Movistar LaLiga MULTI 5 HD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 5 HD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1043
+#EXTINF:-1 tvg-id="M. LaLiga 5" tvg-name="Movistar LaLiga MULTI 5 SD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 5 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1042
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga MULTI 6 FHD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 6 FHD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1041
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga MULTI 6 HD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 6 HD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1040
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga MULTI 6 SD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 6 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1039
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga MULTI 7 FHD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 7 FHD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1038
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga MULTI 7 HD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 7 HD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1037
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga MULTI 7 SD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 7 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1036
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga MULTI 8 SD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 8 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1033
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga MULTI 9 SD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 9 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1030
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga MULTI 10 SD" tvg-logo="" group-title="España",Movistar LaLiga MULTI 10 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1027
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR FHD 1080" tvg-logo="" group-title="España",LALIGA TV BAR FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/224
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR HD 720" tvg-logo="" group-title="España",LALIGA TV BAR HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/222
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR SD" tvg-logo="" group-title="España",LALIGA TV BAR SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/221
+#EXTINF:-1 tvg-id="M. Liga de Campeones" tvg-name="MOVISTAR LIGA DE CAMPEONES FHD 1080" tvg-logo="" group-title="España",MOVISTAR LIGA DE CAMPEONES FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/220
+#EXTINF:-1 tvg-id="M. Liga de Campeones" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 720" tvg-logo="" group-title="España",MOVISTAR LIGA DE CAMPEONES HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/217
+#EXTINF:-1 tvg-id="M. Liga de Campeones" tvg-name="MOVISTAR LIGA DE CAMPEONES SD" tvg-logo="" group-title="España",MOVISTAR LIGA DE CAMPEONES SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/216
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 4K UHD (EN PRUEBAS)" tvg-logo="" group-title="España",M. Liga de Campeones 4K UHD (EN PRUEBAS)
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/516
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 1 SD" tvg-logo="" group-title="España",MOVISTAR LIGA DE CAMPEONES 1 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/214
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 SD" tvg-logo="" group-title="España",MOVISTAR LIGA DE CAMPEONES 2 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/213
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 3 SD" tvg-logo="" group-title="España",MOVISTAR LIGA DE CAMPEONES 3 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/212
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 4 SD" tvg-logo="" group-title="España",MOVISTAR LIGA DE CAMPEONES 4 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/211
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 5 SD" tvg-logo="" group-title="España",MOVISTAR LIGA DE CAMPEONES 5 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/210
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 6 SD" tvg-logo="" group-title="España",MOVISTAR LIGA DE CAMPEONES 6 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/209
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 7 SD" tvg-logo="" group-title="España",MOVISTAR LIGA DE CAMPEONES 7 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/208
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 8 SD" tvg-logo="" group-title="España",MOVISTAR LIGA DE CAMPEONES 8 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/207
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 4K UHD (EN PRUEBAS)" tvg-logo="" group-title="España",Movistar F1 4K UHD (EN PRUEBAS)
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/515
+#EXTINF:-1 tvg-id="Movistar Fórmula 1" tvg-name="MOVISTAR FORMULA 1 FHD 1080" tvg-logo="" group-title="España",MOVISTAR FORMULA 1 FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/206
+#EXTINF:-1 tvg-id="Movistar Fórmula 1" tvg-name="MOVISTAR FORMULA 1 HD 720" tvg-logo="" group-title="España",MOVISTAR FORMULA 1 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/203
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 SD" tvg-logo="" group-title="España",Movistar F1 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/596
+#EXTINF:-1 tvg-id="" tvg-name="SKY MOTOGP 1 HD 720" tvg-logo="" group-title="España",SKY MOTOGP 1 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/200
+#EXTINF:-1 tvg-id="" tvg-name="SKY MOTOGP 2 HD 720" tvg-logo="" group-title="España",SKY MOTOGP 2 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/199
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Futbol" tvg-logo="" group-title="España",DAZN Futbol
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/631
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOTOGP HD 720" tvg-logo="" group-title="España",DAZN MOTOGP HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/198
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MotoGP (MULTIPANTALLA)" tvg-logo="" group-title="España",DAZN MotoGP (MULTIPANTALLA)
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/412
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD 720" tvg-logo="" group-title="España",DAZN 1 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/196
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD 720" tvg-logo="" group-title="España",DAZN 2 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/195
+#EXTINF:-1 tvg-id="" tvg-name="WRC RALLY LIVE HD 720" tvg-logo="" group-title="España",WRC RALLY LIVE HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/194
+#EXTINF:-1 tvg-id="Movistar Golf" tvg-name="MOVISTAR GOLF FHD 1080" tvg-logo="" group-title="España",MOVISTAR GOLF FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/192
+#EXTINF:-1 tvg-id="Movistar Golf" tvg-name="MOVISTAR GOLF HD 720" tvg-logo="" group-title="España",MOVISTAR GOLF HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/191
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 FHD 1080" tvg-logo="" group-title="España",EUROSPORT 1 FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/190
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD 720" tvg-logo="" group-title="España",EUROSPORT 1 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1069
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 SD" tvg-logo="" group-title="España",EUROSPORT 1 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/189
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 FHD 1080" tvg-logo="" group-title="España",EUROSPORT 2 FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/188
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD 720" tvg-logo="" group-title="España",EUROSPORT 2 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1068
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 SD" tvg-logo="" group-title="España",EUROSPORT 2 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/187
+#EXTINF:-1 tvg-id="GOL" tvg-name="GOL FHD 1080" tvg-logo="" group-title="España",GOL FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/186
+#EXTINF:-1 tvg-id="GOL" tvg-name="GOL HD 720" tvg-logo="" group-title="España",GOL HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/185
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="ESPORT 3 HD 720" tvg-logo="" group-title="España",ESPORT 3 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/183
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE FHD 1080" tvg-logo="" group-title="España",TELEDEPORTE FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/182
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE HD 720" tvg-logo="" group-title="España",TELEDEPORTE HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1058
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE SD" tvg-logo="" group-title="España",TELEDEPORTE SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/181
+#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION TV FHD 1080 (EN PRUEBAS)" tvg-logo="" group-title="España",CAZAVISION TV FHD 1080 (EN PRUEBAS)
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/180
+#EXTINF:-1 tvg-id="Caza Pesca" tvg-name="CAZA Y PESCA FHD 1080" tvg-logo="" group-title="España",CAZA Y PESCA FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/179
+#EXTINF:-1 tvg-id="Caza Pesca" tvg-name="CAZA Y PESCA HD 720" tvg-logo="" group-title="España",CAZA Y PESCA HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/178
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA SD" tvg-logo="" group-title="España",IBERALIA SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/177
+#EXTINF:-1 tvg-id="Toros" tvg-name="TOROS FHD 1080" tvg-logo="" group-title="España",TOROS FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/176
+#EXTINF:-1 tvg-id="Toros" tvg-name="TOROS HD 720" tvg-logo="" group-title="España",TOROS HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/175
+#EXTINF:-1 tvg-id="Toros" tvg-name="TOROS SD" tvg-logo="" group-title="España",TOROS SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/174
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID TV FHD 1080" tvg-logo="" group-title="España",REAL MADRID TV FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/173
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID TV HD 720" tvg-logo="" group-title="España",REAL MADRID TV HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/172
+#EXTINF:-1 tvg-id="Barça TV" tvg-name="BARÇA TV SD" tvg-logo="" group-title="España",BARÇA TV SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/171
+#EXTINF:-1 tvg-id="" tvg-name="SEVILLA FC SD" tvg-logo="" group-title="España",SEVILLA FC SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/170
+#EXTINF:-1 tvg-id="" tvg-name="BETIS TV HD 720" tvg-logo="" group-title="España",BETIS TV HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/169
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES HD 720" tvg-logo="" group-title="España",ESPN DEPORTES HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/168
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SD" tvg-logo="" group-title="España",ESPN 1 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/167
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="" group-title="España",ESPN 2 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/166
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SD" tvg-logo="" group-title="España",ESPN 3 SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/165
+#EXTINF:-1 tvg-id="" tvg-name="SUPER TENNIS SD" tvg-logo="" group-title="España",SUPER TENNIS SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/164
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 HD 720" tvg-logo="" group-title="España",ARENA SPORT 1 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/161
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 HD 720" tvg-logo="" group-title="España",ARENA SPORT 2 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/160
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 HD 720" tvg-logo="" group-title="España",ARENA SPORT 3 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/159
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 FHD 1080" tvg-logo="" group-title="España",ARENA SPORT 4 FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/158
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 HD 720" tvg-logo="" group-title="España",ARENA SPORT 5 HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/157
+#EXTINF:-1 tvg-id="" tvg-name="U-BEAT (ESPORTS) FHD 1080" tvg-logo="" group-title="España",U-BEAT (ESPORTS) FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/140
+#EXTINF:-1 tvg-id="" tvg-name="U-BEAT (ESPORTS) HD 720" tvg-logo="" group-title="España",U-BEAT (ESPORTS) HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1067
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV FHD 1080" tvg-logo="" group-title="España",RED BULL TV FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/136
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV HD 720" tvg-logo="" group-title="España",NASA TV HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/135
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD 720" tvg-logo="" group-title="España",WWE HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/133
+#EXTINF:-1 tvg-id="" tvg-name="KOMBAT SPORT HD 720" tvg-logo="" group-title="España",KOMBAT SPORT HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/132
+#EXTINF:-1 tvg-id="" tvg-name="BOXNATION HD 720" tvg-logo="" group-title="España",BOXNATION HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/131
+#EXTINF:-1 tvg-id="" tvg-name="UFC HD 720" tvg-logo="" group-title="España",UFC HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/130
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHTING SPORTS HD 720" tvg-logo="" group-title="España",UFC FIGHTING SPORTS HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/129
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD 720" tvg-logo="" group-title="España",NBA TV HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/128
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV PT HD 720" tvg-logo="" group-title="España",NBA TV PT HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/127
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS SD" tvg-logo="" group-title="España",FOX SPORTS SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/113
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION DEPORTES HD 720" tvg-logo="" group-title="España",UNIVISION DEPORTES HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/112
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV UHD 4K (EN PRUEBAS)" tvg-logo="" group-title="España",Sport TV UHD 4K (EN PRUEBAS)
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/513
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV UHD 4K EXTRA (EN PRUEBAS)" tvg-logo="" group-title="España",Sport TV UHD 4K EXTRA (EN PRUEBAS)
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/512
+#EXTINF:-1 tvg-id="Clan TVE" tvg-name="CLAN TVE FHD 1080" tvg-logo="" group-title="España",CLAN TVE FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/105
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE HD 720" tvg-logo="" group-title="España",CLAN TVE HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1062
+#EXTINF:-1 tvg-id="Clan TVE" tvg-name="CLAN TVE SD" tvg-logo="" group-title="España",CLAN TVE SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/104
+#EXTINF:-1 tvg-id="Boing" tvg-name="BOING SD" tvg-logo="" group-title="España",BOING SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/103
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV SD" tvg-logo="" group-title="España",BABY TV SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/102
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR SD" tvg-logo="" group-title="España",DISNEY JUNIOR SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/100
+#EXTINF:-1 tvg-id="Canal Panda" tvg-name="CANAL PANDA SD" tvg-logo="" group-title="España",CANAL PANDA SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/99
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR SD" tvg-logo="" group-title="España",NICK JR SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/98
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON FHD 1080" tvg-logo="" group-title="España",NICKELODEON FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/97
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD 720" tvg-logo="" group-title="España",NICKELODEON HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1061
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SD" tvg-logo="" group-title="España",Nickelodeon SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/597
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD SD" tvg-logo="" group-title="España",DISNEY XD SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/96
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL FHD 1080" tvg-logo="" group-title="España",DISNEY CHANNEL FHD 1080
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/95
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD 720" tvg-logo="" group-title="España",DISNEY CHANNEL HD 720
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1060
+#EXTINF:-1 tvg-id="" tvg-name="All Flamenco 4K UHD (EN PRUEBAS)" tvg-logo="" group-title="España",All Flamenco 4K UHD (EN PRUEBAS)
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/595
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV ESPAÑA SD" tvg-logo="" group-title="España",MTV ESPAÑA SD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/92
+#EXTINF:-1 tvg-id="" tvg-name="MTV Europe HD" tvg-logo="" group-title="España",MTV Europe HD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/91
+#EXTINF:-1 tvg-id="" tvg-name="MTV Base" tvg-logo="" group-title="España",MTV Base
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/90
+#EXTINF:-1 tvg-id="MTV ROCKS" tvg-name="MTV Rocks HD" tvg-logo="" group-title="España",MTV Rocks HD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/89
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance FHD" tvg-logo="" group-title="España",MTV Dance FHD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/88
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits HD" tvg-logo="" group-title="España",MTV Hits HD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/87
+#EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="" group-title="España",MTV Classic
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/84
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD" tvg-logo="" group-title="España",MTV Live FHD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/85
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits Europe" tvg-logo="" group-title="España",MTV Hits Europe
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/86
+#EXTINF:-1 tvg-id="" tvg-name="MTV Music 24" tvg-logo="" group-title="España",MTV Music 24
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/83
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1 Europe" tvg-logo="" group-title="España",VH1 Europe
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/82
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="" group-title="España",VH1 Classic
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/81
+#EXTINF:-1 tvg-id="" tvg-name="Sol Musica" tvg-logo="" group-title="España",Sol Musica
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/78
+#EXTINF:-1 tvg-id="" tvg-name="Radio 105 TV HD" tvg-logo="" group-title="España",Radio 105 TV HD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/77
+#EXTINF:-1 tvg-id="" tvg-name="Radio Monte Carlo TV" tvg-logo="" group-title="España",Radio Monte Carlo TV
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/76
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="" group-title="España",Mezzo Live HD
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/70
+#EXTINF:-1 tvg-id="Classica HD" tvg-name="Classica" tvg-logo="" group-title="España",Classica
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/69
+#EXTINF:-1 tvg-id="13 TV" tvg-name="TRECE" tvg-logo="" group-title="España",TRECE
