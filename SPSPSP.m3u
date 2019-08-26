@@ -55,3 +55,17 @@ https://5b38ce71f1f00.streamlock.net/8312/8312/master.m3u8
 http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/master.m3u8
 #EXTINF:-1,BOING HD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1,▓▓▓ «« ESPAÑA »» ▓▓▓
+http://fiberplayhd.com:25461/dario/dario/5811
+#EXTINF:-1,ESPAÑA: MOVISTAR 0#
+http://fiberplayhd.com:25461/dario/dario/5666
+#EXTINF:-1,ESPAÑA: MOVISTAR ACCION
+http://fiberplayhd.com:25461/dario/dario/5667
+#EXTINF:-1,ESPAÑA: MOVISTAR CINEDOC&ROLL
+http://fiberplayhd.com:25461/dario/dario/5668
+#EXTINF:-1,ESPAÑA: MOVISTAR COMEDIA
+http://fiberplayhd.com:25461/dario/dario/5669
+#EXTINF:-1,ESPAÑA: MOVISTAR DISNEY
+http://fiberplayhd.com:25461/dario/dario/5670
+#EXTINF:-1,ESPAÑA: MOVISTAR F1
+http://fiberplayhd.com:25461/dario/dario/5671
