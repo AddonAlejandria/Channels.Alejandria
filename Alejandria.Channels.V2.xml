@@ -33,7 +33,15 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
+	
+<item>
+        <title>>SPECIAL LAT</title>         
+        <link>http:>//ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/AddonAlejandria/Channels.Alejandria/master/LATLATLAT.m3u</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+	
 <item>
         <title>>TV regia</title>         
         <link>http:>//ignoreme</link>
