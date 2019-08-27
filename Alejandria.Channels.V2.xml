@@ -44,10 +44,13 @@
 
 	
 <item>
-        <title>>SPECIAL LAT</title>         
-        <link>https://raw.githubusercontent.com/AddonAlejandria/Channels.Alejandria/master/LATLATLAT2.m3u</link>
-        <externallink>
-<item>
+        <title>>SPECIAL LAT2</title>         
+        <link>https://raw.githubusercontent.com/AddonAlejandria/Channels.Alejandria/master/LATLATLAT2.m3u</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+	
+<item>	
         <title>>LAT PREMIUM</title>         
         <link>http:>//ignoreme</link>
         <externallink>http://tvpremiumhd.club/canales.m3u</externallink>
