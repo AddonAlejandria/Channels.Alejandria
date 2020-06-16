@@ -1,343 +1,2228 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ES: #0 SD" tvg-logo="" group-title="España - Paraguay",ES: #0 SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17294
-#EXTINF:-1 tvg-id="" tvg-name="ES: 24H" tvg-logo="" group-title="España - Paraguay",ES: 24H
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17251
-#EXTINF:-1 tvg-id="" tvg-name="ES: 3/24 CAT" tvg-logo="" group-title="España - Paraguay",ES: 3/24 CAT
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17215
-#EXTINF:-1 tvg-id="" tvg-name="ES: 33 CAT" tvg-logo="" group-title="España - Paraguay",ES: 33 CAT
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17214
-#EXTINF:-1 tvg-id="" tvg-name="ES: 7 TV Murcia" tvg-logo="" group-title="España - Paraguay",ES: 7 TV Murcia
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17250
-#EXTINF:-1 tvg-id="" tvg-name="ES: 8TV" tvg-logo="" group-title="España - Paraguay",ES: 8TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17213
-#EXTINF:-1 tvg-id="" tvg-name="ES: A3series HD" tvg-logo="" group-title="España - Paraguay",ES: A3series HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17249
-#EXTINF:-1 tvg-id="" tvg-name="ES: AE" tvg-logo="http://logos.iptv.wtf/iptv/ae.png" group-title="España - Paraguay",ES: AE
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17276
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC HD" tvg-logo="http://logos.iptv.wtf/iptv/amc.png" group-title="España - Paraguay",ES: AMC HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17293
-#EXTINF:-1 tvg-id="" tvg-name="ES: Andalucia TV" tvg-logo="" group-title="España - Paraguay",ES: Andalucia TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17212
-#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 Full HD" tvg-logo="" group-title="España - Paraguay",ES: Antena 3 Full HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17444
-#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 HD" tvg-logo="" group-title="España - Paraguay",ES: Antena 3 HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/11254
-#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 HQ" tvg-logo="" group-title="España - Paraguay",ES: Antena 3 HQ
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17442
-#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 SD" tvg-logo="" group-title="España - Paraguay",ES: Antena 3 SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17248
-#EXTINF:-1 tvg-id="" tvg-name="ES: Aragon TV" tvg-logo="" group-title="España - Paraguay",ES: Aragon TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17211
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN SD" tvg-logo="http://logos.iptv.wtf/iptv/axn.png" group-title="España - Paraguay",ES: AXN SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17292
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN White SD" tvg-logo="" group-title="España - Paraguay",ES: AXN White SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17291
-#EXTINF:-1 tvg-id="" tvg-name="ES: Baby TV" tvg-logo="" group-title="España - Paraguay",ES: Baby TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17260
-#EXTINF:-1 tvg-id="" tvg-name="ES: Barca TV" tvg-logo="" group-title="España - Paraguay",ES: Barca TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17338
-#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports LaLiga SD" tvg-logo="" group-title="España - Paraguay",ES: Bein Sports LaLiga SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17330
-#EXTINF:-1 tvg-id="" tvg-name="ES: BeMad TV HD" tvg-logo="" group-title="España - Paraguay",ES: BeMad TV HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17247
-#EXTINF:-1 tvg-id="" tvg-name="ES: Betis TV" tvg-logo="" group-title="España - Paraguay",ES: Betis TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17329
-#EXTINF:-1 tvg-id="" tvg-name="ES: Boing" tvg-logo="" group-title="España - Paraguay",ES: Boing
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17246
-#EXTINF:-1 tvg-id="" tvg-name="ES: Calle 13" tvg-logo="" group-title="España - Paraguay",ES: Calle 13
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17290
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Cocina" tvg-logo="" group-title="España - Paraguay",ES: Canal Cocina
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17265
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Costa TV" tvg-logo="" group-title="España - Paraguay",ES: Canal Costa TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17245
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal De Las Estrellas" tvg-logo="" group-title="España - Paraguay",ES: Canal De Las Estrellas
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17210
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Panda" tvg-logo="" group-title="España - Paraguay",ES: Canal Panda
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17259
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Parlamento" tvg-logo="" group-title="España - Paraguay",ES: Canal Parlamento
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17244
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Sur" tvg-logo="" group-title="España - Paraguay",ES: Canal Sur
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17209
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Sur Cocina" tvg-logo="" group-title="España - Paraguay",ES: Canal Sur Cocina
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17208
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Sur La Banda TV" tvg-logo="" group-title="España - Paraguay",ES: Canal Sur La Banda TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17207
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Sur Turismo" tvg-logo="" group-title="España - Paraguay",ES: Canal Sur Turismo
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17206
-#EXTINF:-1 tvg-id="" tvg-name="ES: Castilla La Mancha Media" tvg-logo="" group-title="España - Paraguay",ES: Castilla La Mancha Media
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17205
-#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca HD" tvg-logo="" group-title="España - Paraguay",ES: Caza y Pesca HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17337
-#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca" tvg-logo="" group-title="España - Paraguay",ES: Caza y Pesca
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/16759
-#EXTINF:-1 tvg-id="" tvg-name="ES: Cine 3D" tvg-logo="" group-title="España - Paraguay",ES: Cine 3D
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17336
-#EXTINF:-1 tvg-id="" tvg-name="ES: Clan TVE" tvg-logo="" group-title="España - Paraguay",ES: Clan TVE
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17243
-#EXTINF:-1 tvg-id="" tvg-name="ES: Classica" tvg-logo="" group-title="España - Paraguay",ES: Classica
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17335
-#EXTINF:-1 tvg-id="" tvg-name="ES: Comedy Central SD" tvg-logo="" group-title="España - Paraguay",ES: Comedy Central SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17289
-#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmo TV SD" tvg-logo="" group-title="España - Paraguay",ES: Cosmo TV SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17288
-#EXTINF:-1 tvg-id="" tvg-name="ES: Crime & Investigation" tvg-logo="" group-title="España - Paraguay",ES: Crime & Investigation
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17264
-#EXTINF:-1 tvg-id="" tvg-name="ES: Cuatro HD" tvg-logo="" group-title="España - Paraguay",ES: Cuatro HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17242
-#EXTINF:-1 tvg-id="" tvg-name="ES: Cuatro SD" tvg-logo="" group-title="España - Paraguay",ES: Cuatro SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17241
-#EXTINF:-1 tvg-id="" tvg-name="ES: Decasa" tvg-logo="" group-title="España - Paraguay",ES: Decasa
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17263
-#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Channel HD" tvg-logo="" group-title="España - Paraguay",ES: Discovery Channel HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17275
-#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Channel SD" tvg-logo="" group-title="España - Paraguay",ES: Discovery Channel SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17274
-#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Max" tvg-logo="" group-title="España - Paraguay",ES: Discovery Max
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17240
-#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Channel HD" tvg-logo="" group-title="España - Paraguay",ES: Disney Channel HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17258
-#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Channel SD" tvg-logo="" group-title="España - Paraguay",ES: Disney Channel SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17257
-#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Junior" tvg-logo="" group-title="España - Paraguay",ES: Disney Junior
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17256
-#EXTINF:-1 tvg-id="" tvg-name="ES: Disney XD" tvg-logo="" group-title="España - Paraguay",ES: Disney XD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17255
-#EXTINF:-1 tvg-id="" tvg-name="ES: Divinity" tvg-logo="" group-title="España - Paraguay",ES: Divinity
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17239
-#EXTINF:-1 tvg-id="" tvg-name="ES: Dkiss" tvg-logo="" group-title="España - Paraguay",ES: Dkiss
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17262
-#EXTINF:-1 tvg-id="" tvg-name="ES: DW en Español" tvg-logo="" group-title="España - Paraguay",ES: DW en Español
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17204
-#EXTINF:-1 tvg-id="" tvg-name="ES: El Garaje TV" tvg-logo="" group-title="España - Paraguay",ES: El Garaje TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17261
-#EXTINF:-1 tvg-id="" tvg-name="ES: Energy" tvg-logo="" group-title="España - Paraguay",ES: Energy
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17238
-#EXTINF:-1 tvg-id="" tvg-name="ES: Esport 3 CAT" tvg-logo="" group-title="España - Paraguay",ES: Esport 3 CAT
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17328
-#EXTINF:-1 tvg-id="" tvg-name="ES: ETB Sat" tvg-logo="" group-title="España - Paraguay",ES: ETB Sat
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17203
-#EXTINF:-1 tvg-id="" tvg-name="ES: Euronews HD en Español" tvg-logo="" group-title="España - Paraguay",ES: Euronews HD en Español
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17202
-#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1 HD" tvg-logo="" group-title="España - Paraguay",ES: Eurosport 1 HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17320
-#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1 SD" tvg-logo="" group-title="España - Paraguay",ES: Eurosport 1 SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17319
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1" tvg-logo="" group-title="España - Paraguay",ES: EUROSPORT 1
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/16758
-#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 2 HD" tvg-logo="" group-title="España - Paraguay",ES: Eurosport 2 HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17318
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2" tvg-logo="" group-title="España - Paraguay",ES: EUROSPORT 2
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/16757
-#EXTINF:-1 tvg-id="" tvg-name="ES: Extremadura TV" tvg-logo="" group-title="España - Paraguay",ES: Extremadura TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17201
-#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="" group-title="España - Paraguay",ES: FDF
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17237
-#EXTINF:-1 tvg-id="" tvg-name="ES: Fox HD" tvg-logo="http://logos.iptv.wtf/iptv/fox.png" group-title="España - Paraguay",ES: Fox HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17287
-#EXTINF:-1 tvg-id="" tvg-name="ES: Fox Life SD" tvg-logo="" group-title="España - Paraguay",ES: Fox Life SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17286
-#EXTINF:-1 tvg-id="" tvg-name="ES: Fox SD" tvg-logo="http://logos.iptv.wtf/iptv/fox.png" group-title="España - Paraguay",ES: Fox SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17285
-#EXTINF:-1 tvg-id="" tvg-name="ES: Galicia TV" tvg-logo="" group-title="España - Paraguay",ES: Galicia TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17200
-#EXTINF:-1 tvg-id="" tvg-name="ES: Gol HD" tvg-logo="" group-title="España - Paraguay",ES: Gol HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17236
-#EXTINF:-1 tvg-id="" tvg-name="ES: Gol SD" tvg-logo="" group-title="España - Paraguay",ES: Gol SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17235
-#EXTINF:-1 tvg-id="" tvg-name="ES: Gol TV" tvg-logo="http://logos.iptv.wtf/iptv/goltv.png" group-title="España - Paraguay",ES: Gol TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/16756
-#EXTINF:-1 tvg-id="" tvg-name="ES: Granada Channel TV" tvg-logo="" group-title="España - Paraguay",ES: Granada Channel TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17234
-#EXTINF:-1 tvg-id="" tvg-name="ES: Hispan TV" tvg-logo="" group-title="España - Paraguay",ES: Hispan TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17199
-#EXTINF:-1 tvg-id="" tvg-name="ES: Historia HD" tvg-logo="" group-title="España - Paraguay",ES: Historia HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17273
-#EXTINF:-1 tvg-id="" tvg-name="ES: Hollywood HD" tvg-logo="" group-title="España - Paraguay",ES: Hollywood HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17309
-#EXTINF:-1 tvg-id="" tvg-name="ES: IB3 HD" tvg-logo="" group-title="España - Paraguay",ES: IB3 HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/13198
-#EXTINF:-1 tvg-id="" tvg-name="ES: Iberalia" tvg-logo="" group-title="España - Paraguay",ES: Iberalia
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17334
-#EXTINF:-1 tvg-id="" tvg-name="ES: intereconomia" tvg-logo="" group-title="España - Paraguay",ES: intereconomia
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17233
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1 HD" tvg-logo="" group-title="España - Paraguay",ES: LA 1 HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17232
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1 SD" tvg-logo="" group-title="España - Paraguay",ES: LA 1 SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17231
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2" tvg-logo="" group-title="España - Paraguay",ES: LA 2
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17230
-#EXTINF:-1 tvg-id="" tvg-name="ES: La 8 Mediterráneo" tvg-logo="" group-title="España - Paraguay",ES: La 8 Mediterráneo
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17198
-#EXTINF:-1 tvg-id="" tvg-name="ES: La Liga TV BAR SD" tvg-logo="" group-title="España - Paraguay",ES: La Liga TV BAR SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17327
-#EXTINF:-1 tvg-id="" tvg-name="ES: La Liga TV HD" tvg-logo="" group-title="España - Paraguay",ES: La Liga TV HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/16755
-#EXTINF:-1 tvg-id="" tvg-name="ES: La Otra" tvg-logo="" group-title="España - Paraguay",ES: La Otra
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17197
-#EXTINF:-1 tvg-id="" tvg-name="ES: La Sexta Full HD" tvg-logo="" group-title="España - Paraguay",ES: La Sexta Full HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17437
-#EXTINF:-1 tvg-id="" tvg-name="ES: La Sexta HD" tvg-logo="" group-title="España - Paraguay",ES: La Sexta HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/4315
-#EXTINF:-1 tvg-id="" tvg-name="ES: La Sexta SD" tvg-logo="" group-title="España - Paraguay",ES: La Sexta SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17229
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga 1|2|3 TV HD" tvg-logo="" group-title="España - Paraguay",ES: LaLiga 1|2|3 TV HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17326
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga 123 TV" tvg-logo="" group-title="España - Paraguay",ES: LaLiga 123 TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/16754
-#EXTINF:-1 tvg-id="" tvg-name="ES: Lancelot TV" tvg-logo="" group-title="España - Paraguay",ES: Lancelot TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17196
-#EXTINF:-1 tvg-id="" tvg-name="ES: Levante TV" tvg-logo="" group-title="España - Paraguay",ES: Levante TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17195
-#EXTINF:-1 tvg-id="" tvg-name="ES: Libertad Digital" tvg-logo="" group-title="España - Paraguay",ES: Libertad Digital
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17228
-#EXTINF:-1 tvg-id="" tvg-name="ES: LTC" tvg-logo="" group-title="España - Paraguay",ES: LTC
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17227
-#EXTINF:-1 tvg-id="" tvg-name="ES: M Liga de Campeones HD" tvg-logo="" group-title="España - Paraguay",ES: M Liga de Campeones HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17332
-#EXTINF:-1 tvg-id="" tvg-name="ES: M Liga de Campeones SD" tvg-logo="" group-title="España - Paraguay",ES: M Liga de Campeones SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17331
-#EXTINF:-1 tvg-id="" tvg-name="ES: Mega SD" tvg-logo="" group-title="España - Paraguay",ES: Mega SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17226
-#EXTINF:-1 tvg-id="" tvg-name="ES: Mezzo Live HD" tvg-logo="" group-title="España - Paraguay",ES: Mezzo Live HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17190
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Accion HD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Accion HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17308
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Accion SD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Accion SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17307
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Cine N" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Cine N
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17306
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Comedia HD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Comedia HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17305
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Comedia SD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Comedia SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17304
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Dcine HD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Dcine HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17303
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Dcine SD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Dcine SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17302
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 1 HD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Deportes 1 HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17317
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 1 SD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Deportes 1 SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17316
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 2 HD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Deportes 2 HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17315
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 2 SD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Deportes 2 SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17314
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Disney" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Disney
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17301
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  eSports HD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  eSports HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17313
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Estrenos HD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Estrenos HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17300
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Estrenos SD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Estrenos SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17299
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Formula 1 SD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Formula 1 SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17312
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Futbol HD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Futbol HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17325
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Futbol SD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Futbol SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17324
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Golf" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Golf
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17311
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Series SD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Series SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17284
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Series Xtra SD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Series Xtra SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17283
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Xtra" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Xtra
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17298
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Xtra HD" tvg-logo="" group-title="España - Paraguay",ES: Movistar  Xtra HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17297
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar F1 FHD" tvg-logo="" group-title="España - Paraguay",ES: Movistar F1 FHD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/16753
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Futbol HD" tvg-logo="" group-title="España - Paraguay",ES: Movistar Futbol HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/16752
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Golf FHD" tvg-logo="" group-title="España - Paraguay",ES: Movistar Golf FHD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/16751
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Partidazo FHD" tvg-logo="" group-title="España - Paraguay",ES: Movistar Partidazo FHD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/16750
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV Espana" tvg-logo="" group-title="España - Paraguay",ES: MTV Espana
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17282
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild HD" tvg-logo="" group-title="España - Paraguay",ES: Nat Geo Wild HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17272
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild SD" tvg-logo="" group-title="España - Paraguay",ES: Nat Geo Wild SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17271
-#EXTINF:-1 tvg-id="" tvg-name="ES: National Geoghraphic HD" tvg-logo="" group-title="España - Paraguay",ES: National Geoghraphic HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17270
-#EXTINF:-1 tvg-id="" tvg-name="ES: National Geoghraphic SD" tvg-logo="" group-title="España - Paraguay",ES: National Geoghraphic SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17269
-#EXTINF:-1 tvg-id="" tvg-name="ES: Neox" tvg-logo="" group-title="España - Paraguay",ES: Neox
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17225
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nick JR" tvg-logo="" group-title="España - Paraguay",ES: Nick JR
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17254
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nickelodeon" tvg-logo="" group-title="España - Paraguay",ES: Nickelodeon
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17253
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nonstopeople" tvg-logo="" group-title="España - Paraguay",ES: Nonstopeople
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17281
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nova" tvg-logo="" group-title="España - Paraguay",ES: Nova
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17224
-#EXTINF:-1 tvg-id="" tvg-name="ES: Odisea SD" tvg-logo="" group-title="España - Paraguay",ES: Odisea SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17268
-#EXTINF:-1 tvg-id="" tvg-name="ES: Onda Azul" tvg-logo="" group-title="España - Paraguay",ES: Onda Azul
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17194
-#EXTINF:-1 tvg-id="" tvg-name="ES: Paramount Channel" tvg-logo="" group-title="España - Paraguay",ES: Paramount Channel
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17223
-#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid HD" tvg-logo="" group-title="España - Paraguay",ES: Real Madrid HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17323
-#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid SD" tvg-logo="" group-title="España - Paraguay",ES: Real Madrid SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17322
-#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid TV FHD" tvg-logo="" group-title="España - Paraguay",ES: Real Madrid TV FHD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/16749
-#EXTINF:-1 tvg-id="" tvg-name="ES: RT HD en Español" tvg-logo="" group-title="España - Paraguay",ES: RT HD en Español
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17193
-#EXTINF:-1 tvg-id="" tvg-name="ES: Sevilla FC" tvg-logo="" group-title="España - Paraguay",ES: Sevilla FC
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17321
-#EXTINF:-1 tvg-id="" tvg-name="ES: Sundance TV" tvg-logo="" group-title="España - Paraguay",ES: Sundance TV
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17296
-#EXTINF:-1 tvg-id="" tvg-name="ES: Super3" tvg-logo="" group-title="España - Paraguay",ES: Super3
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17252
-#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY HD" tvg-logo="" group-title="España - Paraguay",ES: SYFY HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17280
-#EXTINF:-1 tvg-id="" tvg-name="ES: SyFy SD" tvg-logo="" group-title="España - Paraguay",ES: SyFy SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17279
-#EXTINF:-1 tvg-id="" tvg-name="ES: TCM SD" tvg-logo="" group-title="España - Paraguay",ES: TCM SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17295
-#EXTINF:-1 tvg-id="" tvg-name="ES: Telecinco SD" tvg-logo="" group-title="España - Paraguay",ES: Telecinco SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17222
-#EXTINF:-1 tvg-id="" tvg-name="ES: Teledeporte" tvg-logo="" group-title="España - Paraguay",ES: Teledeporte
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17221
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE HD" tvg-logo="" group-title="España - Paraguay",ES: TELEDEPORTE HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/16748
-#EXTINF:-1 tvg-id="" tvg-name="ES: Teledeporte SD" tvg-logo="" group-title="España - Paraguay",ES: Teledeporte SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17220
-#EXTINF:-1 tvg-id="" tvg-name="ES: TeleMadrid" tvg-logo="" group-title="España - Paraguay",ES: TeleMadrid
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17192
-#EXTINF:-1 tvg-id="" tvg-name="ES: Telesur HD" tvg-logo="" group-title="España - Paraguay",ES: Telesur HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17219
-#EXTINF:-1 tvg-id="" tvg-name="ES: TEN" tvg-logo="" group-title="España - Paraguay",ES: TEN
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17218
-#EXTINF:-1 tvg-id="" tvg-name="ES: TNT HD" tvg-logo="" group-title="España - Paraguay",ES: TNT HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17278
-#EXTINF:-1 tvg-id="" tvg-name="ES: TNT SD" tvg-logo="" group-title="España - Paraguay",ES: TNT SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17277
-#EXTINF:-1 tvg-id="" tvg-name="ES: Toros" tvg-logo="" group-title="España - Paraguay",ES: Toros
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17333
-#EXTINF:-1 tvg-id="" tvg-name="ES: Toros *" tvg-logo="" group-title="España - Paraguay",ES: Toros *
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/13065
-#EXTINF:-1 tvg-id="" tvg-name="ES: TOROS TV HD" tvg-logo="" group-title="España - Paraguay",ES: TOROS TV HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/16747
-#EXTINF:-1 tvg-id="" tvg-name="ES: Trece" tvg-logo="" group-title="España - Paraguay",ES: Trece
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17217
-#EXTINF:-1 tvg-id="" tvg-name="ES: TV Canaria" tvg-logo="" group-title="España - Paraguay",ES: TV Canaria
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17216
-#EXTINF:-1 tvg-id="" tvg-name="ES: TV3. CAT HD" tvg-logo="" group-title="España - Paraguay",ES: TV3. CAT HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/13190
-#EXTINF:-1 tvg-id="" tvg-name="ES: VH1" tvg-logo="" group-title="España - Paraguay",ES: VH1
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17189
-#EXTINF:-1 tvg-id="" tvg-name="ES: VH1 Classic" tvg-logo="" group-title="España - Paraguay",ES: VH1 Classic
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17188
-#EXTINF:-1 tvg-id="" tvg-name="ES: Viajar HD" tvg-logo="" group-title="España - Paraguay",ES: Viajar HD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17267
-#EXTINF:-1 tvg-id="" tvg-name="ES: Viajar SD" tvg-logo="" group-title="España - Paraguay",ES: Viajar SD
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17266
-#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM" tvg-logo="" group-title="España - Paraguay",ES: XTRM
-http://iptv.wtf:80/arqxoxjd/ba6626FuzH/17191
+#EXTINF:-1,LA1 FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16288
+#EXTINF:-1,LA1 HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8782
+#EXTINF:-1,LA1 ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7215
+#EXTINF:-1,LA2 FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8781
+#EXTINF:-1,LA2 HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7214
+#EXTINF:-1,LA Sexta FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16260
+#EXTINF:-1,LA Sexta HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7213
+#EXTINF:-1,LA Sexta ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/6671
+#EXTINF:-1,Antena 3 FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7253
+#EXTINF:-1,Antena 3 HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8779
+#EXTINF:-1,Cuatro FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7228
+#EXTINF:-1,Telecinco FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/14022
+#EXTINF:-1,Telecinco HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/11488
+#EXTINF:-1,Canal #0 HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16283
+#EXTINF:-1,Canal #0 ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13539
+#EXTINF:-1,Viajar FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7170
+#EXTINF:-1,Toros HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13548
+#EXTINF:-1,Toros HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7176
+#EXTINF:-1,A&E ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7256
+#EXTINF:-1,AXN HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7252
+#EXTINF:-1,AXN ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13543
+#EXTINF:-1,AXN White FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7251
+#EXTINF:-1,AXN White ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13542
+#EXTINF:-1,Movistar Series FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7191
+#EXTINF:-1,Movistar Series HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16282
+#EXTINF:-1,Movistar Series ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8767
+#EXTINF:-1,Movistar Series Xtra FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7190
+#EXTINF:-1,Movistar Series Xtra HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16281
+#EXTINF:-1,Movistar Series Xtra ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7234
+#EXTINF:-1,Movistar Xtra ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7189
+#EXTINF:-1,Movistar Xtra HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7233
+#EXTINF:-1,Movistar Accion FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7245
+#EXTINF:-1,Movistar Accion HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16280
+#EXTINF:-1,Movistar Accion ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7195
+#EXTINF:-1,Movistar Comedia FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7243
+#EXTINF:-1,Movistar Comedia HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7194
+#EXTINF:-1,Movistar Esternos FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7192
+#EXTINF:-1,Movistar Estrenos FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16262
+#EXTINF:-1,Movistar Estrenos HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8771
+#EXTINF:-1,Movistar Estrenos ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7222
+#EXTINF:-1,AMC FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7255
+#EXTINF:-1,SyFy FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13522
+#EXTINF:-1,SyFy HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13523
+#EXTINF:-1,FOX FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16267
+#EXTINF:-1,Fox ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7220
+#EXTINF:-1,FOX Life FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16266
+#EXTINF:-1,Fox Life ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7219
+#EXTINF:-1,TNT FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7177
+#EXTINF:-1,Neox TV FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16264
+#EXTINF:-1,Neox TV ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8762
+#EXTINF:-1,Neox TV HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7186
+#EXTINF:-1,Dkiss HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13533
+#EXTINF:-1,Mega FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16263
+#EXTINF:-1,Mega HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13824
+#EXTINF:-1,Mega ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8760
+#EXTINF:-1,Cosmo FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7229
+#EXTINF:-1,Cosmopolitan HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13537
+#EXTINF:-1,Calle 13 ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7247
+#EXTINF:-1,Comedy Central HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7230
+#EXTINF:-1,MTV Espana ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8759
+#EXTINF:-1,A3 Series ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13544
+#EXTINF:-1,24 Horas ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7174
+#EXTINF:-1,Non Stop People ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7184
+#EXTINF:-1,Nova ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7183
+#EXTINF:-1,Canal Sur HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8770
+#EXTINF:-1,Divinity ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13534
+#EXTINF:-1,FDF ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7221
+#EXTINF:-1,Energy ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8765
+#EXTINF:-1,Taquilla 1 HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7211
+#EXTINF:-1,Taquilla 1 ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8756
+#EXTINF:-1,Taquilla 2 HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7210
+#EXTINF:-1,Taquilla 2 ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8755
+#EXTINF:-1,Taquilla 3 HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7209
+#EXTINF:-1,Taquilla 3 ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8754
+#EXTINF:-1,Taquilla 4 HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7208
+#EXTINF:-1,Taquilla 5 HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7207
+#EXTINF:-1,Taquilla 5 ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8752
+#EXTINF:-1,Taquilla 6 HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7206
+#EXTINF:-1,Taquilla 6 ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8751
+#EXTINF:-1,Taquilla 7 HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7205
+#EXTINF:-1,Taquilla 7 ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8750
+#EXTINF:-1,Taquilla 8 HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7204
+#EXTINF:-1,Taquilla 8 ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13520
+#EXTINF:-1,Paramount Channel ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8769
+#EXTINF:-1,Hollywood FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8768
+#EXTINF:-1,Hollywood ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7216
+#EXTINF:-1,TCM HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7180
+#EXTINF:-1,Ten ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13518
+#EXTINF:-1,bein Sports Espana FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7248
+#EXTINF:-1,bein Sports Espana HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8745
+#EXTINF:-1,beIN Sports Espana ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13540
+#EXTINF:-1,La Liga TV BAR HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/669971
+#EXTINF:-1,Movistar La Liga FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16274
+#EXTINF:-1,Movistar Liga De Campeones FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/620686
+#EXTINF:-1,Movistar Liga De Campeones ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/620685
+#EXTINF:-1,Movistar Deportes FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16278
+#EXTINF:-1,Movistar Deportes HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7240
+#EXTINF:-1,Movistar Deportes 2 FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7200
+#EXTINF:-1,Movistar Deportes 2 HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16277
+#EXTINF:-1,Movistar Deportes 2 ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7239
+#EXTINF:-1,Movistar Futbol FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13551
+#EXTINF:-1,Movistar Futbol HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8783
+#EXTINF:-1,Movistar Futbol ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7238
+#EXTINF:-1,Movistar MotoGP FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7196
+#EXTINF:-1,Movistar MotoGP HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16271
+#EXTINF:-1,Movistar MotoGP ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13529
+#EXTINF:-1,Movistar F1 FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7246
+#EXTINF:-1,Movistar F1 HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13549
+#EXTINF:-1,Movistar F1 ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/71971
+#EXTINF:-1,Movistar Golf FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7237
+#EXTINF:-1,Movistar Golf HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13550
+#EXTINF:-1,Movistar Golf ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16273
+#EXTINF:-1,Gol TV ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13457
+#EXTINF:-1,Teledeporte ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7178
+#EXTINF:-1,Real Madrid Channel ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7182
+#EXTINF:-1,Barca TV ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7250
+#EXTINF:-1,Eurosport 1 ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8746
+#EXTINF:-1,Eurosport 2 ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13531
+#EXTINF:-1,Caza y Pesca ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7232
+#EXTINF:-1,Iberalia ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7171
+#EXTINF:-1,Discovery Channel ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7226
+#EXTINF:-1,National Geographic HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13528
+#EXTINF:-1,National Geographic ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16270
+#EXTINF:-1,Nat Geo Wild ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7188
+#EXTINF:-1,Historia ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7217
+#EXTINF:-1,DeCasa ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7241
+#EXTINF:-1,Canal Cocina ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7244
+#EXTINF:-1,Crime & Investigation ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8757
+#EXTINF:-1,Discovery Dmax ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13535
+#EXTINF:-1,DW ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13532
+#EXTINF:-1,Disney Channel FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16287
+#EXTINF:-1,Disney Channel HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7225
+#EXTINF:-1,Disney Junior ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7224
+#EXTINF:-1,Disney XD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7223
+#EXTINF:-1,Nickelodeon HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16268
+#EXTINF:-1,Nickelodeon ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7185
+#EXTINF:-1,Nick Jr. ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13526
+#EXTINF:-1,Mezzo HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7212
+#EXTINF:-1,Baby TV ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8774
+#EXTINF:-1,BOING ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8773
+#EXTINF:-1,Clan TVE ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7231
+#EXTINF:-1,TV Galicia ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7218
+#EXTINF:-1,TV3 Catalunya HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8780
+#EXTINF:-1,TV 3 Catalunya ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7175
+#EXTINF:-1,Andalucia ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7254
+#EXTINF:-1,13 TV ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13547
+#EXTINF:-1,8TV Madrid ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13545
+#EXTINF:-1,RTVA ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8775
+#EXTINF:-1,Navarra TV ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13527
+#EXTINF:-1,Red Advenir ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13524
+#EXTINF:-1,Movistar DCine FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16279
+#EXTINF:-1,Movistar DCine HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7193
+#EXTINF:-1,Movistar DCine ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/7242
+#EXTINF:-1,Movistar Cine ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13530
+#EXTINF:-1,M.Partidazo HD [Event Only] ES 
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13220
+#EXTINF:-1,De Casa ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/13536
+#EXTINF:-1,Cuatro HD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8777
+#EXTINF:-1,Odisea TV ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8761
+#EXTINF:-1,Sundance TV ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/14121
+#EXTINF:-1,TVE Clan ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/8764
+#EXTINF:-1,Caza y Pesca FHD ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/16269
+#EXTINF:-1,Canal Panda ES
+http://mypanel.tv:8080/uqty2wwe1t/m80xefh3a/53156
+#EXTINF:-1,LA1 FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16288
+#EXTINF:-1,LA1 HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8782
+#EXTINF:-1,LA1 ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7215
+#EXTINF:-1,LA2 FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8781
+#EXTINF:-1,LA2 HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7214
+#EXTINF:-1,LA Sexta FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16260
+#EXTINF:-1,LA Sexta HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7213
+#EXTINF:-1,LA Sexta ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/6671
+#EXTINF:-1,Antena 3 FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7253
+#EXTINF:-1,Antena 3 HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8779
+#EXTINF:-1,Cuatro FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7228
+#EXTINF:-1,Telecinco FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/14022
+#EXTINF:-1,Telecinco HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/11488
+#EXTINF:-1,Canal #0 HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16283
+#EXTINF:-1,Canal #0 ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13539
+#EXTINF:-1,Viajar FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7170
+#EXTINF:-1,Toros HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13548
+#EXTINF:-1,Toros HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7176
+#EXTINF:-1,A&E ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7256
+#EXTINF:-1,AXN HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7252
+#EXTINF:-1,AXN ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13543
+#EXTINF:-1,AXN White FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7251
+#EXTINF:-1,AXN White ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13542
+#EXTINF:-1,Movistar Series FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7191
+#EXTINF:-1,Movistar Series HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16282
+#EXTINF:-1,Movistar Series ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8767
+#EXTINF:-1,Movistar Series Xtra FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7190
+#EXTINF:-1,Movistar Series Xtra HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16281
+#EXTINF:-1,Movistar Series Xtra ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7234
+#EXTINF:-1,Movistar Xtra ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7189
+#EXTINF:-1,Movistar Xtra HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7233
+#EXTINF:-1,Movistar Accion FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7245
+#EXTINF:-1,Movistar Accion HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16280
+#EXTINF:-1,Movistar Accion ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7195
+#EXTINF:-1,Movistar Comedia FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7243
+#EXTINF:-1,Movistar Comedia HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7194
+#EXTINF:-1,Movistar Esternos FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7192
+#EXTINF:-1,Movistar Estrenos FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16262
+#EXTINF:-1,Movistar Estrenos HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8771
+#EXTINF:-1,Movistar Estrenos ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7222
+#EXTINF:-1,AMC FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7255
+#EXTINF:-1,SyFy FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13522
+#EXTINF:-1,SyFy HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13523
+#EXTINF:-1,FOX FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16267
+#EXTINF:-1,Fox ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7220
+#EXTINF:-1,FOX Life FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16266
+#EXTINF:-1,Fox Life ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7219
+#EXTINF:-1,TNT FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7177
+#EXTINF:-1,Neox TV FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16264
+#EXTINF:-1,Neox TV ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8762
+#EXTINF:-1,Neox TV HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7186
+#EXTINF:-1,Dkiss HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13533
+#EXTINF:-1,Mega FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16263
+#EXTINF:-1,Mega HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13824
+#EXTINF:-1,Mega ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8760
+#EXTINF:-1,Cosmo FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7229
+#EXTINF:-1,Cosmopolitan HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13537
+#EXTINF:-1,Calle 13 ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7247
+#EXTINF:-1,Comedy Central HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7230
+#EXTINF:-1,MTV Espana ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8759
+#EXTINF:-1,A3 Series ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13544
+#EXTINF:-1,24 Horas ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7174
+#EXTINF:-1,Non Stop People ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7184
+#EXTINF:-1,Nova ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7183
+#EXTINF:-1,Canal Sur HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8770
+#EXTINF:-1,Divinity ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13534
+#EXTINF:-1,FDF ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7221
+#EXTINF:-1,Energy ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8765
+#EXTINF:-1,Taquilla 1 HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7211
+#EXTINF:-1,Taquilla 1 ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8756
+#EXTINF:-1,Taquilla 2 HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7210
+#EXTINF:-1,Taquilla 2 ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8755
+#EXTINF:-1,Taquilla 3 HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7209
+#EXTINF:-1,Taquilla 3 ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8754
+#EXTINF:-1,Taquilla 4 HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7208
+#EXTINF:-1,Taquilla 5 HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7207
+#EXTINF:-1,Taquilla 5 ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8752
+#EXTINF:-1,Taquilla 6 HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7206
+#EXTINF:-1,Taquilla 6 ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8751
+#EXTINF:-1,Taquilla 7 HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7205
+#EXTINF:-1,Taquilla 7 ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8750
+#EXTINF:-1,Taquilla 8 HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7204
+#EXTINF:-1,Taquilla 8 ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13520
+#EXTINF:-1,Paramount Channel ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8769
+#EXTINF:-1,Hollywood FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8768
+#EXTINF:-1,Hollywood ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7216
+#EXTINF:-1,TCM HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7180
+#EXTINF:-1,Ten ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13518
+#EXTINF:-1,bein Sports Espana FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7248
+#EXTINF:-1,bein Sports Espana HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8745
+#EXTINF:-1,beIN Sports Espana ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13540
+#EXTINF:-1,La Liga TV BAR HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/669971
+#EXTINF:-1,Movistar La Liga FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16274
+#EXTINF:-1,Movistar Liga De Campeones FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/620686
+#EXTINF:-1,Movistar Liga De Campeones ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/620685
+#EXTINF:-1,Movistar Deportes FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16278
+#EXTINF:-1,Movistar Deportes HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7240
+#EXTINF:-1,Movistar Deportes 2 FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7200
+#EXTINF:-1,Movistar Deportes 2 HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16277
+#EXTINF:-1,Movistar Deportes 2 ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7239
+#EXTINF:-1,Movistar Futbol FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13551
+#EXTINF:-1,Movistar Futbol HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8783
+#EXTINF:-1,Movistar Futbol ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7238
+#EXTINF:-1,Movistar MotoGP FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7196
+#EXTINF:-1,Movistar MotoGP HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16271
+#EXTINF:-1,Movistar MotoGP ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13529
+#EXTINF:-1,Movistar F1 FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7246
+#EXTINF:-1,Movistar F1 HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13549
+#EXTINF:-1,Movistar F1 ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/71971
+#EXTINF:-1,Movistar Golf FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7237
+#EXTINF:-1,Movistar Golf HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13550
+#EXTINF:-1,Movistar Golf ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16273
+#EXTINF:-1,Gol TV ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13457
+#EXTINF:-1,Teledeporte ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7178
+#EXTINF:-1,Real Madrid Channel ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7182
+#EXTINF:-1,Barca TV ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7250
+#EXTINF:-1,Eurosport 1 ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8746
+#EXTINF:-1,Eurosport 2 ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13531
+#EXTINF:-1,Caza y Pesca ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7232
+#EXTINF:-1,Iberalia ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7171
+#EXTINF:-1,Discovery Channel ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7226
+#EXTINF:-1,National Geographic HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13528
+#EXTINF:-1,National Geographic ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16270
+#EXTINF:-1,Nat Geo Wild ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7188
+#EXTINF:-1,Historia ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7217
+#EXTINF:-1,DeCasa ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7241
+#EXTINF:-1,Canal Cocina ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7244
+#EXTINF:-1,Crime & Investigation ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8757
+#EXTINF:-1,Discovery Dmax ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13535
+#EXTINF:-1,DW ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13532
+#EXTINF:-1,Disney Channel FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16287
+#EXTINF:-1,Disney Channel HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7225
+#EXTINF:-1,Disney Junior ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7224
+#EXTINF:-1,Disney XD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7223
+#EXTINF:-1,Nickelodeon HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16268
+#EXTINF:-1,Nickelodeon ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7185
+#EXTINF:-1,Nick Jr. ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13526
+#EXTINF:-1,Mezzo HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7212
+#EXTINF:-1,Baby TV ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8774
+#EXTINF:-1,BOING ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8773
+#EXTINF:-1,Clan TVE ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7231
+#EXTINF:-1,TV Galicia ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7218
+#EXTINF:-1,TV3 Catalunya HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8780
+#EXTINF:-1,TV 3 Catalunya ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7175
+#EXTINF:-1,Andalucia ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7254
+#EXTINF:-1,13 TV ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13547
+#EXTINF:-1,8TV Madrid ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13545
+#EXTINF:-1,RTVA ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8775
+#EXTINF:-1,Navarra TV ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13527
+#EXTINF:-1,Red Advenir ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13524
+#EXTINF:-1,Movistar DCine FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16279
+#EXTINF:-1,Movistar DCine HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7193
+#EXTINF:-1,Movistar DCine ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/7242
+#EXTINF:-1,Movistar Cine ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13530
+#EXTINF:-1,M.Partidazo HD [Event Only] ES 
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13220
+#EXTINF:-1,De Casa ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/13536
+#EXTINF:-1,Cuatro HD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8777
+#EXTINF:-1,Odisea TV ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8761
+#EXTINF:-1,Sundance TV ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/14121
+#EXTINF:-1,TVE Clan ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/8764
+#EXTINF:-1,Caza y Pesca FHD ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/16269
+#EXTINF:-1,Canal Panda ES
+http://mypanel.tv:8080/00:1a:79:01:cc:3a/t5jf4Qdrerzb0/53156
+#EXTINF:-1,LA1 FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16288
+#EXTINF:-1,LA1 HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8782
+#EXTINF:-1,LA1 ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7215
+#EXTINF:-1,LA2 FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8781
+#EXTINF:-1,LA2 HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7214
+#EXTINF:-1,LA Sexta FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16260
+#EXTINF:-1,LA Sexta HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7213
+#EXTINF:-1,LA Sexta ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/6671
+#EXTINF:-1,Antena 3 FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7253
+#EXTINF:-1,Antena 3 HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8779
+#EXTINF:-1,Cuatro FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7228
+#EXTINF:-1,Telecinco FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/14022
+#EXTINF:-1,Telecinco HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/11488
+#EXTINF:-1,Canal #0 HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16283
+#EXTINF:-1,Canal #0 ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13539
+#EXTINF:-1,Viajar FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7170
+#EXTINF:-1,Toros HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13548
+#EXTINF:-1,Toros HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7176
+#EXTINF:-1,A&E ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7256
+#EXTINF:-1,AXN HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7252
+#EXTINF:-1,AXN ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13543
+#EXTINF:-1,AXN White FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7251
+#EXTINF:-1,AXN White ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13542
+#EXTINF:-1,Movistar Series FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7191
+#EXTINF:-1,Movistar Series HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16282
+#EXTINF:-1,Movistar Series ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8767
+#EXTINF:-1,Movistar Series Xtra FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7190
+#EXTINF:-1,Movistar Series Xtra HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16281
+#EXTINF:-1,Movistar Series Xtra ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7234
+#EXTINF:-1,Movistar Xtra ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7189
+#EXTINF:-1,Movistar Xtra HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7233
+#EXTINF:-1,Movistar Accion FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7245
+#EXTINF:-1,Movistar Accion HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16280
+#EXTINF:-1,Movistar Accion ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7195
+#EXTINF:-1,Movistar Comedia FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7243
+#EXTINF:-1,Movistar Comedia HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7194
+#EXTINF:-1,Movistar Esternos FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7192
+#EXTINF:-1,Movistar Estrenos FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16262
+#EXTINF:-1,Movistar Estrenos HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8771
+#EXTINF:-1,Movistar Estrenos ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7222
+#EXTINF:-1,AMC FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7255
+#EXTINF:-1,SyFy FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13522
+#EXTINF:-1,SyFy HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13523
+#EXTINF:-1,FOX FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16267
+#EXTINF:-1,Fox ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7220
+#EXTINF:-1,FOX Life FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16266
+#EXTINF:-1,Fox Life ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7219
+#EXTINF:-1,TNT FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7177
+#EXTINF:-1,Neox TV FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16264
+#EXTINF:-1,Neox TV ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8762
+#EXTINF:-1,Neox TV HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7186
+#EXTINF:-1,Dkiss HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13533
+#EXTINF:-1,Mega FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16263
+#EXTINF:-1,Mega HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13824
+#EXTINF:-1,Mega ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8760
+#EXTINF:-1,Cosmo FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7229
+#EXTINF:-1,Cosmopolitan HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13537
+#EXTINF:-1,Calle 13 ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7247
+#EXTINF:-1,Comedy Central HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7230
+#EXTINF:-1,MTV Espana ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8759
+#EXTINF:-1,A3 Series ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13544
+#EXTINF:-1,24 Horas ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7174
+#EXTINF:-1,Non Stop People ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7184
+#EXTINF:-1,Nova ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7183
+#EXTINF:-1,Canal Sur HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8770
+#EXTINF:-1,Divinity ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13534
+#EXTINF:-1,FDF ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7221
+#EXTINF:-1,Energy ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8765
+#EXTINF:-1,Taquilla 1 HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7211
+#EXTINF:-1,Taquilla 1 ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8756
+#EXTINF:-1,Taquilla 2 HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7210
+#EXTINF:-1,Taquilla 2 ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8755
+#EXTINF:-1,Taquilla 3 HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7209
+#EXTINF:-1,Taquilla 3 ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8754
+#EXTINF:-1,Taquilla 4 HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7208
+#EXTINF:-1,Taquilla 5 HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7207
+#EXTINF:-1,Taquilla 5 ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8752
+#EXTINF:-1,Taquilla 6 HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7206
+#EXTINF:-1,Taquilla 6 ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8751
+#EXTINF:-1,Taquilla 7 HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7205
+#EXTINF:-1,Taquilla 7 ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8750
+#EXTINF:-1,Taquilla 8 HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7204
+#EXTINF:-1,Taquilla 8 ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13520
+#EXTINF:-1,Paramount Channel ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8769
+#EXTINF:-1,Hollywood FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8768
+#EXTINF:-1,Hollywood ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7216
+#EXTINF:-1,TCM HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7180
+#EXTINF:-1,Ten ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13518
+#EXTINF:-1,bein Sports Espana FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7248
+#EXTINF:-1,bein Sports Espana HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8745
+#EXTINF:-1,beIN Sports Espana ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13540
+#EXTINF:-1,La Liga TV BAR HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/669971
+#EXTINF:-1,Movistar La Liga FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16274
+#EXTINF:-1,Movistar Liga De Campeones FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/620686
+#EXTINF:-1,Movistar Liga De Campeones ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/620685
+#EXTINF:-1,Movistar Deportes FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16278
+#EXTINF:-1,Movistar Deportes HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7240
+#EXTINF:-1,Movistar Deportes 2 FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7200
+#EXTINF:-1,Movistar Deportes 2 HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16277
+#EXTINF:-1,Movistar Deportes 2 ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7239
+#EXTINF:-1,Movistar Futbol FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13551
+#EXTINF:-1,Movistar Futbol HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8783
+#EXTINF:-1,Movistar Futbol ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7238
+#EXTINF:-1,Movistar MotoGP FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7196
+#EXTINF:-1,Movistar MotoGP HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16271
+#EXTINF:-1,Movistar MotoGP ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13529
+#EXTINF:-1,Movistar F1 FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7246
+#EXTINF:-1,Movistar F1 HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13549
+#EXTINF:-1,Movistar F1 ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/71971
+#EXTINF:-1,Movistar Golf FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7237
+#EXTINF:-1,Movistar Golf HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13550
+#EXTINF:-1,Movistar Golf ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16273
+#EXTINF:-1,Gol TV ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13457
+#EXTINF:-1,Teledeporte ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7178
+#EXTINF:-1,Real Madrid Channel ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7182
+#EXTINF:-1,Barca TV ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7250
+#EXTINF:-1,Eurosport 1 ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8746
+#EXTINF:-1,Eurosport 2 ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13531
+#EXTINF:-1,Caza y Pesca ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7232
+#EXTINF:-1,Iberalia ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7171
+#EXTINF:-1,Discovery Channel ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7226
+#EXTINF:-1,National Geographic HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13528
+#EXTINF:-1,National Geographic ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16270
+#EXTINF:-1,Nat Geo Wild ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7188
+#EXTINF:-1,Historia ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7217
+#EXTINF:-1,DeCasa ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7241
+#EXTINF:-1,Canal Cocina ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7244
+#EXTINF:-1,Crime & Investigation ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8757
+#EXTINF:-1,Discovery Dmax ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13535
+#EXTINF:-1,DW ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13532
+#EXTINF:-1,Disney Channel FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16287
+#EXTINF:-1,Disney Channel HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7225
+#EXTINF:-1,Disney Junior ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7224
+#EXTINF:-1,Disney XD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7223
+#EXTINF:-1,Nickelodeon HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16268
+#EXTINF:-1,Nickelodeon ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7185
+#EXTINF:-1,Nick Jr. ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13526
+#EXTINF:-1,Mezzo HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7212
+#EXTINF:-1,Baby TV ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8774
+#EXTINF:-1,BOING ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8773
+#EXTINF:-1,Clan TVE ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7231
+#EXTINF:-1,TV Galicia ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7218
+#EXTINF:-1,TV3 Catalunya HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8780
+#EXTINF:-1,TV 3 Catalunya ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7175
+#EXTINF:-1,Andalucia ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7254
+#EXTINF:-1,13 TV ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13547
+#EXTINF:-1,8TV Madrid ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13545
+#EXTINF:-1,RTVA ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8775
+#EXTINF:-1,Navarra TV ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13527
+#EXTINF:-1,Red Advenir ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13524
+#EXTINF:-1,Movistar DCine FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16279
+#EXTINF:-1,Movistar DCine HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7193
+#EXTINF:-1,Movistar DCine ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/7242
+#EXTINF:-1,Movistar Cine ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13530
+#EXTINF:-1,M.Partidazo HD [Event Only] ES 
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13220
+#EXTINF:-1,De Casa ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/13536
+#EXTINF:-1,Cuatro HD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8777
+#EXTINF:-1,Odisea TV ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8761
+#EXTINF:-1,Sundance TV ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/14121
+#EXTINF:-1,TVE Clan ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/8764
+#EXTINF:-1,Caza y Pesca FHD ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/16269
+#EXTINF:-1,Canal Panda ES
+http://mypanel.tv:8080/od88kj1i2d/jgrziymcns/53156
+#EXTINF:-1,LA1 FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16288
+#EXTINF:-1,LA1 HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8782
+#EXTINF:-1,LA1 ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7215
+#EXTINF:-1,LA2 FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8781
+#EXTINF:-1,LA2 HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7214
+#EXTINF:-1,LA Sexta FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16260
+#EXTINF:-1,LA Sexta HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7213
+#EXTINF:-1,LA Sexta ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/6671
+#EXTINF:-1,Antena 3 FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7253
+#EXTINF:-1,Antena 3 HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8779
+#EXTINF:-1,Cuatro FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7228
+#EXTINF:-1,Telecinco FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/14022
+#EXTINF:-1,Telecinco HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/11488
+#EXTINF:-1,Canal #0 HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16283
+#EXTINF:-1,Canal #0 ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13539
+#EXTINF:-1,Viajar FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7170
+#EXTINF:-1,Toros HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13548
+#EXTINF:-1,Toros HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7176
+#EXTINF:-1,A&E ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7256
+#EXTINF:-1,AXN HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7252
+#EXTINF:-1,AXN ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13543
+#EXTINF:-1,AXN White FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7251
+#EXTINF:-1,AXN White ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13542
+#EXTINF:-1,Movistar Series FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7191
+#EXTINF:-1,Movistar Series HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16282
+#EXTINF:-1,Movistar Series ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8767
+#EXTINF:-1,Movistar Series Xtra FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7190
+#EXTINF:-1,Movistar Series Xtra HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16281
+#EXTINF:-1,Movistar Series Xtra ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7234
+#EXTINF:-1,Movistar Xtra ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7189
+#EXTINF:-1,Movistar Xtra HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7233
+#EXTINF:-1,Movistar Accion FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7245
+#EXTINF:-1,Movistar Accion HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16280
+#EXTINF:-1,Movistar Accion ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7195
+#EXTINF:-1,Movistar Comedia FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7243
+#EXTINF:-1,Movistar Comedia HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7194
+#EXTINF:-1,Movistar Esternos FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7192
+#EXTINF:-1,Movistar Estrenos FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16262
+#EXTINF:-1,Movistar Estrenos HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8771
+#EXTINF:-1,Movistar Estrenos ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7222
+#EXTINF:-1,AMC FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7255
+#EXTINF:-1,SyFy FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13522
+#EXTINF:-1,SyFy HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13523
+#EXTINF:-1,FOX FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16267
+#EXTINF:-1,Fox ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7220
+#EXTINF:-1,FOX Life FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16266
+#EXTINF:-1,Fox Life ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7219
+#EXTINF:-1,TNT FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7177
+#EXTINF:-1,Neox TV FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16264
+#EXTINF:-1,Neox TV ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8762
+#EXTINF:-1,Neox TV HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7186
+#EXTINF:-1,Dkiss HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13533
+#EXTINF:-1,Mega FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16263
+#EXTINF:-1,Mega HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13824
+#EXTINF:-1,Mega ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8760
+#EXTINF:-1,Cosmo FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7229
+#EXTINF:-1,Cosmopolitan HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13537
+#EXTINF:-1,Calle 13 ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7247
+#EXTINF:-1,Comedy Central HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7230
+#EXTINF:-1,MTV Espana ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8759
+#EXTINF:-1,A3 Series ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13544
+#EXTINF:-1,24 Horas ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7174
+#EXTINF:-1,Non Stop People ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7184
+#EXTINF:-1,Nova ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7183
+#EXTINF:-1,Canal Sur HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8770
+#EXTINF:-1,Divinity ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13534
+#EXTINF:-1,FDF ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7221
+#EXTINF:-1,Energy ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8765
+#EXTINF:-1,Taquilla 1 HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7211
+#EXTINF:-1,Taquilla 1 ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8756
+#EXTINF:-1,Taquilla 2 HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7210
+#EXTINF:-1,Taquilla 2 ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8755
+#EXTINF:-1,Taquilla 3 HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7209
+#EXTINF:-1,Taquilla 3 ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8754
+#EXTINF:-1,Taquilla 4 HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7208
+#EXTINF:-1,Taquilla 5 HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7207
+#EXTINF:-1,Taquilla 5 ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8752
+#EXTINF:-1,Taquilla 6 HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7206
+#EXTINF:-1,Taquilla 6 ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8751
+#EXTINF:-1,Taquilla 7 HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7205
+#EXTINF:-1,Taquilla 7 ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8750
+#EXTINF:-1,Taquilla 8 HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7204
+#EXTINF:-1,Taquilla 8 ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13520
+#EXTINF:-1,Paramount Channel ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8769
+#EXTINF:-1,Hollywood FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8768
+#EXTINF:-1,Hollywood ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7216
+#EXTINF:-1,TCM HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7180
+#EXTINF:-1,Ten ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13518
+#EXTINF:-1,bein Sports Espana FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7248
+#EXTINF:-1,bein Sports Espana HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8745
+#EXTINF:-1,beIN Sports Espana ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13540
+#EXTINF:-1,La Liga TV BAR HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/669971
+#EXTINF:-1,Movistar La Liga FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16274
+#EXTINF:-1,Movistar Liga De Campeones FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/620686
+#EXTINF:-1,Movistar Liga De Campeones ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/620685
+#EXTINF:-1,Movistar Deportes FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16278
+#EXTINF:-1,Movistar Deportes HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7240
+#EXTINF:-1,Movistar Deportes 2 FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7200
+#EXTINF:-1,Movistar Deportes 2 HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16277
+#EXTINF:-1,Movistar Deportes 2 ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7239
+#EXTINF:-1,Movistar Futbol FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13551
+#EXTINF:-1,Movistar Futbol HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8783
+#EXTINF:-1,Movistar Futbol ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7238
+#EXTINF:-1,Movistar MotoGP FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7196
+#EXTINF:-1,Movistar MotoGP HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16271
+#EXTINF:-1,Movistar MotoGP ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13529
+#EXTINF:-1,Movistar F1 FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7246
+#EXTINF:-1,Movistar F1 HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13549
+#EXTINF:-1,Movistar F1 ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/71971
+#EXTINF:-1,Movistar Golf FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7237
+#EXTINF:-1,Movistar Golf HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13550
+#EXTINF:-1,Movistar Golf ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16273
+#EXTINF:-1,Gol TV ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13457
+#EXTINF:-1,Teledeporte ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7178
+#EXTINF:-1,Real Madrid Channel ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7182
+#EXTINF:-1,Barca TV ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7250
+#EXTINF:-1,Eurosport 1 ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8746
+#EXTINF:-1,Eurosport 2 ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13531
+#EXTINF:-1,Caza y Pesca ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7232
+#EXTINF:-1,Iberalia ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7171
+#EXTINF:-1,Discovery Channel ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7226
+#EXTINF:-1,National Geographic HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13528
+#EXTINF:-1,National Geographic ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16270
+#EXTINF:-1,Nat Geo Wild ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7188
+#EXTINF:-1,Historia ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7217
+#EXTINF:-1,DeCasa ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7241
+#EXTINF:-1,Canal Cocina ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7244
+#EXTINF:-1,Crime & Investigation ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8757
+#EXTINF:-1,Discovery Dmax ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13535
+#EXTINF:-1,DW ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13532
+#EXTINF:-1,Disney Channel FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16287
+#EXTINF:-1,Disney Channel HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7225
+#EXTINF:-1,Disney Junior ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7224
+#EXTINF:-1,Disney XD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7223
+#EXTINF:-1,Nickelodeon HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16268
+#EXTINF:-1,Nickelodeon ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7185
+#EXTINF:-1,Nick Jr. ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13526
+#EXTINF:-1,Mezzo HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7212
+#EXTINF:-1,Baby TV ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8774
+#EXTINF:-1,BOING ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8773
+#EXTINF:-1,Clan TVE ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7231
+#EXTINF:-1,TV Galicia ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7218
+#EXTINF:-1,TV3 Catalunya HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8780
+#EXTINF:-1,TV 3 Catalunya ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7175
+#EXTINF:-1,Andalucia ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7254
+#EXTINF:-1,13 TV ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13547
+#EXTINF:-1,8TV Madrid ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13545
+#EXTINF:-1,RTVA ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8775
+#EXTINF:-1,Navarra TV ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13527
+#EXTINF:-1,Red Advenir ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13524
+#EXTINF:-1,Movistar DCine FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16279
+#EXTINF:-1,Movistar DCine HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7193
+#EXTINF:-1,Movistar DCine ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/7242
+#EXTINF:-1,Movistar Cine ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13530
+#EXTINF:-1,M.Partidazo HD [Event Only] ES 
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13220
+#EXTINF:-1,De Casa ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/13536
+#EXTINF:-1,Cuatro HD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8777
+#EXTINF:-1,Odisea TV ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8761
+#EXTINF:-1,Sundance TV ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/14121
+#EXTINF:-1,TVE Clan ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/8764
+#EXTINF:-1,Caza y Pesca FHD ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/16269
+#EXTINF:-1,Canal Panda ES
+http://103.194.169.52:8080/Pete-colatorti/lps3nfjl/53156
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="SPAIN",Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.informaciontv.es/elementosWeb/version5_20090902/mediaweb/images/logoInfTV.jpg" group-title="SPAIN",Informacion TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png", TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://canal7televalencia.es/wp-content/uploads/2017/03/Logo_A_vertical-242x300.png", TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png", Vega Baja TV
+http://185.29.68.24/tvb.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/jl1Nnd4.png", TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/jl1Nnd4.png", TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1693" tvg-logo="http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg", Levante TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:0 type="stream" channelId="352", DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="1683" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png", Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:0 type="stream" channelId="1685" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png", FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,SPAIN:(ONLINE) Calle 13
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:-1,SPAIN:(ONLINE) 13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1,SPAIN:(ONLINE) FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
+#EXTINF:-1,SPAIN:(ONLINE) Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1,SPAIN:(ONLINE) Informacion TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
+#EXTINF:-1,SPAIN:(ONLINE) La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1,TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:-1,Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
+#EXTINF:-1,RetroTV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+#EXTINF:-1,Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:-1,SPAIN:(ONLINE) La Otra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:0,TVE 24H
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1, FDF | HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1,SPAIN:BOING
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1,NOTICIAS:CGTN 1
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0,HDFashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+#EXTINF:0,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0,Deutsche Welle Latino | SD
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1,ESPAÑA:TeleSafor | HD
+http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:0,La Otra
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:0,7TV Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+#EXTINF:0,Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:0,Canal Parlamento
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+#EXTINF:0,Canal 13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:0,ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:0,Lasuper TV
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+#EXTINF:0,Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:0,Teleritmo | SD
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0,M2O TV | SD
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:0,Radio 105 Network | HD
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:0,Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:0,RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,ESPAÑA DIVINITY
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-twjWLzywppo/VnBHIEtqgRI/AAAAAAAABOY/ZiwcFOt-rcg/s1600/rtvce.jpeg" group-title="SPAIN",RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png" group-title="SPAIN",TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canal7televalencia.es/wp-content/uploads/2017/03/Logo_A_vertical-242x300.png" group-title="SPAIN",TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="SPAIN",TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="SPAIN",TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png" group-title="SPAIN",Vega Baja TV
+http://185.29.68.24/tvb.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kgnflq9.png" group-title="Canales Españoles", FDF | HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WmMGr10.png" group-title="Canales Españoles", Divinity | HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Yn0uJRH.png" group-title="Canales Españoles", La Otra | SD
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hHaTdZk.png" group-title="Canales Españoles", La Xarxa | SD
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hwKVf82.png" group-title="Canales Españoles", Telemadrid | SD
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VlMzpJH.png" group-title="Canales Españoles", Canal 13 España | SD
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OKXbIr9.png" group-title="Canales Españoles", Lebrija TV | SD
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7C9rreQ.png" group-title="Canales Españoles", Calle 13 | SD
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PrhB3SI.jpg" group-title="Canales Españoles", TeleSafor | HD
+http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/V4ig3Hn.png" group-title="Canales Españoles", 7TV | SD
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ROPlvzc.png" group-title="Canales Españoles", A Punt | SD
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJTCoH8.png" group-title="ESPA&Ntilde;A", Levante TV | SD
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg" group-title="SPAIN",13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1 tvg-logo="http://bgtop100.net/wp-content/uploads/2016/03/Boing-tv.jpg" group-title="SPAIN",Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ptvtelecom.com/ficheros/imagennoticia311_0.jpg" group-title="SPAIN",Canal Parlamento
+http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="SPAIN",Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1,ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+#EXTINF:-1,España:13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.tvalacarta.info/canales/256x256/trecetves.png", Canal 13 España | SD
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
+#EXTINF:0 type="stream" channelId="736" tvg-logo="https://yt3.ggpht.com/a-/ACSszfFBVcVBVuU9re2ZwpqZD9sGJPlCDiPEARLOGg=s900-mo-c-c0xffffffff-rj-k-no", CGTN Español
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://7tvregiondemurcia.es/wp-content/uploads/2015/04/LOGO.jpg", 7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png", Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://1.bp.blogspot.com/-twjWLzywppo/VnBHIEtqgRI/AAAAAAAABOY/ZiwcFOt-rcg/s1600/rtvce.jpeg", RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.lancelot.tv/lancelot.jpg", Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1,LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1, 13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1, Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1, Informacion TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
+#EXTINF:-1, La Otra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1, La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1, Levante TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:-1   group-title= "PAISES", tvg-logo="MXJPXNd.png" , Canal 9 Salta[SD]
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1, La 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1,La 2
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1,Antena 3
+https://livestartover.atresmedia.com/antena3/master.m3u8
+#EXTINF:-1,Antena 3 Opc.2
+https://livestartover.atresmedia.com/geoantena3/master.m3u8
+#EXTINF:-1,Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+#EXTINF:-1,Cuatro HD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1,Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
+#EXTINF:-1,Telecinco HD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1,La Sexta
+https://livestartover.atresmedia.com/lasexta/master.m3u8
+#EXTINF:-1,La Sexta Opc.2
+https://livestartover.atresmedia.com/geolasexta/master.m3u8
+#EXTINF:-1,Ten
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+#EXTINF:-1,DKISS HD"
+http://kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8
+#EXTINF:-1,COSMO
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+#EXTINF:-1,ES: mtmad 24h HD
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+#EXTINF:-1,ES: Yu HD
+https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8
+#EXTINF:-1,Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1,TELECINCO
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1,ANDALUCIA COCINA TV
+https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
+#EXTINF:-1,ANDALUCIA TV FLAMENCO
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/chunklist_w726089066.m3u8
+#EXTINF:-1, TV GALICIA
+http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:-1,TVG America
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:-1,XABARIN TV
+http://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1, À Punt HD
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae.m3u8
+#EXTINF:-1,TV3 CATALUNYA
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b548000_DVR.m3u8
+#EXTINF:-1,GESTIONA TV
+http://37.187.7.106/gestionatv/live.m3u8
+#EXTINF:-1,Notícies 3/24
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:324_web/chunklist_b1296000.m3u8
+#EXTINF:-1, Rtv ce
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/chunklist_w1082072722.m3u8
+#EXTINF:-1,CCM
+http://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/protocol/http/format/applehttp/a.m3u8
+#EXTINF:-1,Imas TV
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+#EXTINF:-1,25 TV
+http://cdnlive.shooowit.net/25televisiolive/25tv.smil/chunklist_b300000.m3u8
+#EXTINF:-1,Canal 4 Tenerife
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w490302057.m3u8
+#EXTINF:-1,Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1,TELECINCO
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1,ANDALUCIA COCINA TV
+https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
+#EXTINF:-1,ANDALUCIA TV FLAMENCO
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/chunklist_w726089066.m3u8
+#EXTINF:-1, TV GALICIA
+http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:-1,TVG America
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:-1,XABARIN TV
+http://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1, À Punt HD
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae.m3u8
+#EXTINF:-1,TV3 CATALUNYA
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b548000_DVR.m3u8
+#EXTINF:-1,GESTIONA TV
+http://37.187.7.106/gestionatv/live.m3u8
+#EXTINF:-1,Notícies 3/24
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:324_web/chunklist_b1296000.m3u8
+#EXTINF:-1, Rtv ce
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/chunklist_w1082072722.m3u8
+#EXTINF:-1,CCM
+http://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/protocol/http/format/applehttp/a.m3u8
+#EXTINF:-1,Imas TV
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+#EXTINF:-1,25 TV
+http://cdnlive.shooowit.net/25televisiolive/25tv.smil/chunklist_b300000.m3u8
+#EXTINF:-1,Canal 4 Tenerife
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w490302057.m3u8
+
+#EXTINF:-1 tvg-id="A&E HD***" tvg-name="A&E FHD***" tvg-logo="https://imgur.com/ygCAVPo.png" group-title="CANAIS FILMES/SERIES - BR",A&E FHD***
+http://data.m2pj.ml:80/bode/1234/45268
+#EXTINF:-1 tvg-id="A&E HD***" tvg-name="A&E HD***" tvg-logo="https://imgur.com/ygCAVPo.png" group-title="CANAIS FILMES/SERIES - BR",A&E HD***
+http://data.m2pj.ml:80/bode/1234/29823
+#EXTINF:-1 tvg-id="A&E***" tvg-name="A&E***" tvg-logo="https://imgur.com/ygCAVPo.png" group-title="CANAIS FILMES/SERIES - BR",A&E***
+http://data.m2pj.ml:80/bode/1234/29824
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD***" tvg-logo="https://i.imgur.com/WEQLm7b.png" group-title="CANAIS FILMES/SERIES - BR",AMC FHD***
+http://data.m2pj.ml:80/bode/1234/45269
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD***" tvg-logo="https://i.imgur.com/WEQLm7b.png" group-title="CANAIS FILMES/SERIES - BR",AMC HD***
+http://data.m2pj.ml:80/bode/1234/29821
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.imgur.com/WEQLm7b.png" group-title="CANAIS FILMES/SERIES - BR",AMC
+http://data.m2pj.ml:80/bode/1234/29822
+#EXTINF:-1 tvg-id="ANIMAL PLANET FHD***" tvg-name="ANIMAL PLANET FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT47a0Qu1cyqdz0q1-AKBxu4Z4ohVLYex2jU1VOJiCIduoLH09D&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",ANIMAL PLANET FHD***
+http://data.m2pj.ml:80/bode/1234/29840
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD***" tvg-name="ANIMAL PLANET HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT47a0Qu1cyqdz0q1-AKBxu4Z4ohVLYex2jU1VOJiCIduoLH09D&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",ANIMAL PLANET HD***
+http://data.m2pj.ml:80/bode/1234/29819
+#EXTINF:-1 tvg-id="ANIMAL PLANET***" tvg-name="ANIMAL PLANET***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT47a0Qu1cyqdz0q1-AKBxu4Z4ohVLYex2jU1VOJiCIduoLH09D&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",ANIMAL PLANET***
+http://data.m2pj.ml:80/bode/1234/29820
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgRQCssqDKlegL-fTwcVG2mTuEbnXf0iXGhqwejl9xLR2UwB9a&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",ARTE 1 FHD***
+http://data.m2pj.ml:80/bode/1234/45270
+#EXTINF:-1 tvg-id="ARTE 1 HD***" tvg-name="ARTE 1 HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgRQCssqDKlegL-fTwcVG2mTuEbnXf0iXGhqwejl9xLR2UwB9a&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",ARTE 1 HD***
+http://data.m2pj.ml:80/bode/1234/29817
+#EXTINF:-1 tvg-id="ARTE 1***" tvg-name="ARTE 1***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgRQCssqDKlegL-fTwcVG2mTuEbnXf0iXGhqwejl9xLR2UwB9a&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",ARTE 1***
+http://data.m2pj.ml:80/bode/1234/29818
+#EXTINF:-1 tvg-id="AXN FHD***" tvg-name="AXN FHD***" tvg-logo="https://imgur.com/MfwZEPu.png" group-title="CANAIS FILMES/SERIES - BR",AXN FHD***
+http://data.m2pj.ml:80/bode/1234/45271
+#EXTINF:-1 tvg-id="AXN HD***" tvg-name="AXN HD***" tvg-logo="https://imgur.com/MfwZEPu.png" group-title="CANAIS FILMES/SERIES - BR",AXN HD***
+http://data.m2pj.ml:80/bode/1234/29815
+#EXTINF:-1 tvg-id="AXN***" tvg-name="AXN***" tvg-logo="https://imgur.com/MfwZEPu.png" group-title="CANAIS FILMES/SERIES - BR",AXN***
+http://data.m2pj.ml:80/bode/1234/29816
+#EXTINF:-1 tvg-id="BABY TV***" tvg-name="BABY TV***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqjcHJtfuFmGX9A90xQrUf0yIcqC6EQAZWk8R1UmmBkNnLCEtW&usqp=CAU" group-title="CANAIS INFANTIL - BR",BABY TV***
+http://data.m2pj.ml:80/bode/1234/29814
+#EXTINF:-1 tvg-id="" tvg-name="BAND FULLHD***" tvg-logo="https://abrilveja.files.wordpress.com/2016/11/band.jpg" group-title="CANAIS ABERTOS - BR",BAND FULLHD***
+http://data.m2pj.ml:80/bode/1234/32753
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/GPmNkVj.png" group-title="CANAIS ABERTOS - BR",BAND HD
+http://data.m2pj.ml:80/bode/1234/29812
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND***" tvg-logo="https://i.imgur.com/GPmNkVj.png" group-title="CANAIS ABERTOS - BR",BAND***
+http://data.m2pj.ml:80/bode/1234/29813
+#EXTINF:-1 tvg-id="BAND NEWS FHD***" tvg-name="BAND NEWS FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1zTdswHfktWgqYYhvj3QwAwP3wwuYDdImBC5CrIKKdndzdS39&usqp=CAU" group-title="CANAIS NOTICIAS - BR",BAND NEWS FHD***
+http://data.m2pj.ml:80/bode/1234/29839
+#EXTINF:-1 tvg-id="BAND NEWS HD***" tvg-name="BAND NEWS HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1zTdswHfktWgqYYhvj3QwAwP3wwuYDdImBC5CrIKKdndzdS39&usqp=CAU" group-title="CANAIS NOTICIAS - BR",BAND NEWS HD***
+http://data.m2pj.ml:80/bode/1234/29810
+#EXTINF:-1 tvg-id="BAND NEWS***" tvg-name="BAND NEWS***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1zTdswHfktWgqYYhvj3QwAwP3wwuYDdImBC5CrIKKdndzdS39&usqp=CAU" group-title="CANAIS NOTICIAS - BR",BAND NEWS***
+http://data.m2pj.ml:80/bode/1234/29811
+#EXTINF:-1 tvg-id="BAND SPORTS HD***" tvg-name="BAND SPORTS HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSu2jBmO7ZC5YVSPVc0PxeBYrweF4YybQhvizpyl7VR5mGQOQ3A&usqp=CAU" group-title="CANAIS ESPORTES - BR",BAND SPORTS HD***
+http://data.m2pj.ml:80/bode/1234/29808
+#EXTINF:-1 tvg-id="BAND SPORTS***" tvg-name="BAND SPORTS***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSu2jBmO7ZC5YVSPVc0PxeBYrweF4YybQhvizpyl7VR5mGQOQ3A&usqp=CAU" group-title="CANAIS ESPORTES - BR",BAND SPORTS***
+http://data.m2pj.ml:80/bode/1234/29809
+#EXTINF:-1 tvg-id="BIS FULLHD***" tvg-name="BIS FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoUDRNrsAu2AfytNf2QHs7M1fUHAa9sB1c2htAnTrZbs5Kgfo6&usqp=CAU" group-title="CANAIS VARIEDADES - BR",BIS FULLHD***
+http://data.m2pj.ml:80/bode/1234/29851
+#EXTINF:-1 tvg-id="BIS***" tvg-name="BIS***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoUDRNrsAu2AfytNf2QHs7M1fUHAa9sB1c2htAnTrZbs5Kgfo6&usqp=CAU" group-title="CANAIS VARIEDADES - BR",BIS***
+http://data.m2pj.ml:80/bode/1234/29807
+#EXTINF:-1 tvg-id="BOA VONTADE***" tvg-name="BOA VONTADE***" tvg-logo="https://imgur.com/2Yk9JTu.png" group-title="CANAIS RELIGIOSOS - BR",BOA VONTADE***
+http://data.m2pj.ml:80/bode/1234/29805
+#EXTINF:-1 tvg-id="BOOMERANG FHD***" tvg-name="BOOMERANG FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRF0oSOI-OnkMf-gQaOm5S3ICsXeOspXDLCxBWyEvV8pEbxA_1K&usqp=CAU" group-title="CANAIS INFANTIL - BR",BOOMERANG FHD***
+http://data.m2pj.ml:80/bode/1234/29838
+#EXTINF:-1 tvg-id="BOOMERANG HD***" tvg-name="BOOMERANG HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRF0oSOI-OnkMf-gQaOm5S3ICsXeOspXDLCxBWyEvV8pEbxA_1K&usqp=CAU" group-title="CANAIS INFANTIL - BR",BOOMERANG HD***
+http://data.m2pj.ml:80/bode/1234/29803
+#EXTINF:-1 tvg-id="BOOMERANG***" tvg-name="BOOMERANG***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRF0oSOI-OnkMf-gQaOm5S3ICsXeOspXDLCxBWyEvV8pEbxA_1K&usqp=CAU" group-title="CANAIS INFANTIL - BR",BOOMERANG***
+http://data.m2pj.ml:80/bode/1234/29804
+#EXTINF:-1 tvg-id="CANAL BRASIL***" tvg-name="CANAL BRASIL***" tvg-logo="https://imgur.com/CqwNPqh.png" group-title="CANAIS FILMES/SERIES - BR",CANAL BRASIL***
+http://data.m2pj.ml:80/bode/1234/29802
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3ahARnpNI1n20t9c1Py5YXBDK-BfmkBismF5-nQ8aJewVnKSI&usqp=CAU" group-title="CANAIS INFANTIL - BR",CARTOON NETWORK FHD***
+http://data.m2pj.ml:80/bode/1234/45274
+#EXTINF:-1 tvg-id="CARTOON NETWORK HD***" tvg-name="CARTOON NETWORK HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3ahARnpNI1n20t9c1Py5YXBDK-BfmkBismF5-nQ8aJewVnKSI&usqp=CAU" group-title="CANAIS INFANTIL - BR",CARTOON NETWORK HD***
+http://data.m2pj.ml:80/bode/1234/29796
+#EXTINF:-1 tvg-id="CARTOON NETWORK***" tvg-name="CARTOON NETWORK***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3ahARnpNI1n20t9c1Py5YXBDK-BfmkBismF5-nQ8aJewVnKSI&usqp=CAU" group-title="CANAIS INFANTIL - BR",CARTOON NETWORK***
+http://data.m2pj.ml:80/bode/1234/29797
+#EXTINF:-1 tvg-id="CINEMAX HD***" tvg-name="CINEMAX FHD***" tvg-logo="https://imgur.com/KScJqcL.png" group-title="CANAIS FILMES/SERIES - BR",CINEMAX FHD***
+http://data.m2pj.ml:80/bode/1234/45275
+#EXTINF:-1 tvg-id="CINEMAX HD***" tvg-name="CINEMAX HD***" tvg-logo="https://imgur.com/KScJqcL.png" group-title="CANAIS FILMES/SERIES - BR",CINEMAX HD***
+http://data.m2pj.ml:80/bode/1234/29794
+#EXTINF:-1 tvg-id="CINEMAX***" tvg-name="CINEMAX***" tvg-logo="https://imgur.com/KScJqcL.png" group-title="CANAIS FILMES/SERIES - BR",CINEMAX***
+http://data.m2pj.ml:80/bode/1234/29795
+#EXTINF:-1 tvg-id="COMBATE FHD***" tvg-name="COMBATE FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbDzcBWK0P0EOt-YL1XEJjTSee3UDHFB7yw8We8ZyEIfBU1deJ&usqp=CAU" group-title="CANAIS ESPORTES - BR",COMBATE FHD***
+http://data.m2pj.ml:80/bode/1234/29876
+#EXTINF:-1 tvg-id="COMBATE HD***" tvg-name="COMBATE HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbDzcBWK0P0EOt-YL1XEJjTSee3UDHFB7yw8We8ZyEIfBU1deJ&usqp=CAU" group-title="CANAIS ESPORTES - BR",COMBATE HD***
+http://data.m2pj.ml:80/bode/1234/29792
+#EXTINF:-1 tvg-id="COMBATE***" tvg-name="COMBATE***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbDzcBWK0P0EOt-YL1XEJjTSee3UDHFB7yw8We8ZyEIfBU1deJ&usqp=CAU" group-title="CANAIS ESPORTES - BR",COMBATE***
+http://data.m2pj.ml:80/bode/1234/29793
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOOoscTUA60lPlpdWrpVmGUaY8-CWiWjt0v5M1i7rERk4Mu-BK&usqp=CAU" group-title="CANAIS VARIEDADES - BR",COMEDY CENTRAL FHD***
+http://data.m2pj.ml:80/bode/1234/45276
+#EXTINF:-1 tvg-id="COMEDY CENTRAL HD***" tvg-name="COMEDY CENTRAL HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOOoscTUA60lPlpdWrpVmGUaY8-CWiWjt0v5M1i7rERk4Mu-BK&usqp=CAU" group-title="CANAIS VARIEDADES - BR",COMEDY CENTRAL HD***
+http://data.m2pj.ml:80/bode/1234/29790
+#EXTINF:-1 tvg-id="COMEDY CENTRAL***" tvg-name="COMEDY CENTRAL***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOOoscTUA60lPlpdWrpVmGUaY8-CWiWjt0v5M1i7rERk4Mu-BK&usqp=CAU" group-title="CANAIS VARIEDADES - BR",COMEDY CENTRAL***
+http://data.m2pj.ml:80/bode/1234/29791
+#EXTINF:-1 tvg-id="CURTA! HD***" tvg-name="CURTA! HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfKywSxtrCFSXdY3GlcINi15F3opBTpAujLRG3MQKco10KvYsS&usqp=CAU" group-title="CANAIS VARIEDADES - BR",CURTA! HD***
+http://data.m2pj.ml:80/bode/1234/29788
+#EXTINF:-1 tvg-id="Curta!***" tvg-name="Curta!***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfKywSxtrCFSXdY3GlcINi15F3opBTpAujLRG3MQKco10KvYsS&usqp=CAU" group-title="CANAIS VARIEDADES - BR",Curta!***
+http://data.m2pj.ml:80/bode/1234/29789
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD***" tvg-logo="https://tinyurl.com/y55s9yxy" group-title="CANAIS ESPORTES - BR",DAZN 1 HD***
+http://data.m2pj.ml:80/bode/1234/40378
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD***" tvg-logo="https://tinyurl.com/y55s9yxy" group-title="CANAIS ESPORTES - BR",DAZN 2 HD***
+http://data.m2pj.ml:80/bode/1234/40380
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD***" tvg-logo="https://tinyurl.com/y55s9yxy" group-title="CANAIS ESPORTES - BR",DAZN 3 HD***
+http://data.m2pj.ml:80/bode/1234/40381
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL FULLHD***" tvg-name="DISCOVERY CHANNEL FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7tZW3gIytpRLYRUIXf62r4WawYhK1n2kY8L1in5U727IdtLme&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY CHANNEL FULLHD***
+http://data.m2pj.ml:80/bode/1234/29852
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD***" tvg-name="DISCOVERY CHANNEL HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7tZW3gIytpRLYRUIXf62r4WawYhK1n2kY8L1in5U727IdtLme&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY CHANNEL HD***
+http://data.m2pj.ml:80/bode/1234/29786
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL***" tvg-name="DISCOVERY CHANNEL***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7tZW3gIytpRLYRUIXf62r4WawYhK1n2kY8L1in5U727IdtLme&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY CHANNEL***
+http://data.m2pj.ml:80/bode/1234/29787
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSv1592mc_rhwAC3WG7qlSPZnvRhQKFWk2r7XOVkkuQ02KQsdYB&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY CIVILIZATION FHD***
+http://data.m2pj.ml:80/bode/1234/45278
+#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION HD***" tvg-name="DISCOVERY CIVILIZATION HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSv1592mc_rhwAC3WG7qlSPZnvRhQKFWk2r7XOVkkuQ02KQsdYB&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY CIVILIZATION HD***
+http://data.m2pj.ml:80/bode/1234/29784
+#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION***" tvg-name="DISCOVERY CIVILIZATION***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSv1592mc_rhwAC3WG7qlSPZnvRhQKFWk2r7XOVkkuQ02KQsdYB&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY CIVILIZATION***
+http://data.m2pj.ml:80/bode/1234/29785
+#EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH FHD***" tvg-name="DISCOVERY HOME & HEALTH FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRx8UXAJqC-wVxehqPVLGU3zlIODmBZ8Slx3bD4f-K-FNq1D-yJ&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY HOME & HEALTH FHD***
+http://data.m2pj.ml:80/bode/1234/29837
+#EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH HD***" tvg-name="DISCOVERY HOME & HEALTH HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRx8UXAJqC-wVxehqPVLGU3zlIODmBZ8Slx3bD4f-K-FNq1D-yJ&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY HOME & HEALTH HD***
+http://data.m2pj.ml:80/bode/1234/29782
+#EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH***" tvg-name="DISCOVERY HOME & HEALTH***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRx8UXAJqC-wVxehqPVLGU3zlIODmBZ8Slx3bD4f-K-FNq1D-yJ&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY HOME & HEALTH***
+http://data.m2pj.ml:80/bode/1234/29783
+#EXTINF:-1 tvg-id="DISCOVERY KIDS HD***" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://goo.gl/W16vy3" group-title="CANAIS INFANTIL - BR",DISCOVERY KIDS FHD
+http://data.m2pj.ml:80/bode/1234/32754
+#EXTINF:-1 tvg-id="DISCOVERY KIDS HD***" tvg-name="DISCOVERY KIDS HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBfeazFNsKOjHq0x9Ct_qYRlgU76H4OKRU5ECTBAMBirfbj6MI&usqp=CAU" group-title="CANAIS INFANTIL - BR",DISCOVERY KIDS HD***
+http://data.m2pj.ml:80/bode/1234/29780
+#EXTINF:-1 tvg-id="DISCOVERY KIDS***" tvg-name="DISCOVERY KIDS***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBfeazFNsKOjHq0x9Ct_qYRlgU76H4OKRU5ECTBAMBirfbj6MI&usqp=CAU" group-title="CANAIS INFANTIL - BR",DISCOVERY KIDS***
+http://data.m2pj.ml:80/bode/1234/29781
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFJVp4MUyCIKv-02PiZ4lnuWF-osbgJWWahPVyIeoWv_3Dp3g-&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY SCIENCE FHD***
+http://data.m2pj.ml:80/bode/1234/45279
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE HD***" tvg-name="DISCOVERY SCIENCE HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFJVp4MUyCIKv-02PiZ4lnuWF-osbgJWWahPVyIeoWv_3Dp3g-&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY SCIENCE HD***
+http://data.m2pj.ml:80/bode/1234/29778
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE***" tvg-name="DISCOVERY SCIENCE***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFJVp4MUyCIKv-02PiZ4lnuWF-osbgJWWahPVyIeoWv_3Dp3g-&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY SCIENCE***
+http://data.m2pj.ml:80/bode/1234/29779
+#EXTINF:-1 tvg-id="DISCOVERY THEATER HD***" tvg-name="DISCOVERY THEATER FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5PMqgmb3NpS4Usce9Xnf0jHg1FKJw20yIaTNagEEA0oRqg-5F&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY THEATER FHD***
+http://data.m2pj.ml:80/bode/1234/45280
+#EXTINF:-1 tvg-id="DISCOVERY THEATER HD***" tvg-name="DISCOVERY THEATER HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5PMqgmb3NpS4Usce9Xnf0jHg1FKJw20yIaTNagEEA0oRqg-5F&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY THEATER HD***
+http://data.m2pj.ml:80/bode/1234/29776
+#EXTINF:-1 tvg-id="DISCOVERY THEATER***" tvg-name="DISCOVERY THEATER***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5PMqgmb3NpS4Usce9Xnf0jHg1FKJw20yIaTNagEEA0oRqg-5F&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY THEATER***
+http://data.m2pj.ml:80/bode/1234/29777
+#EXTINF:-1 tvg-id="DISCOVERY TURBO FHD***" tvg-name="DISCOVERY TURBO FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQlnQtRS7yB8PaKFeAqcbijBT8ydHTaQ46puog1CwDHJt1F9SG&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY TURBO FHD***
+http://data.m2pj.ml:80/bode/1234/29835
+#EXTINF:-1 tvg-id="DISCOVERY TURBO HD***" tvg-name="DISCOVERY TURBO HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQlnQtRS7yB8PaKFeAqcbijBT8ydHTaQ46puog1CwDHJt1F9SG&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY TURBO HD***
+http://data.m2pj.ml:80/bode/1234/29774
+#EXTINF:-1 tvg-id="DISCOVERY TURBO***" tvg-name="DISCOVERY TURBO***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQlnQtRS7yB8PaKFeAqcbijBT8ydHTaQ46puog1CwDHJt1F9SG&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY TURBO***
+http://data.m2pj.ml:80/bode/1234/29775
+#EXTINF:-1 tvg-id="DISCOVERY WORLD FHD***" tvg-name="DISCOVERY WORLD FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThgSEnppcWFCYb2AnZ7S1H0c_lW2vgfVvIbPiAqIN7ucbhPkJx&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY WORLD FHD***
+http://data.m2pj.ml:80/bode/1234/29834
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD***" tvg-name="DISCOVERY WORLD HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThgSEnppcWFCYb2AnZ7S1H0c_lW2vgfVvIbPiAqIN7ucbhPkJx&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY WORLD HD***
+http://data.m2pj.ml:80/bode/1234/29772
+#EXTINF:-1 tvg-id="DISCOVERY WORLD***" tvg-name="DISCOVERY WORLD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThgSEnppcWFCYb2AnZ7S1H0c_lW2vgfVvIbPiAqIN7ucbhPkJx&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",DISCOVERY WORLD***
+http://data.m2pj.ml:80/bode/1234/29773
+#EXTINF:-1 tvg-id="DISNEY CHANNEL FULLHD***" tvg-name="DISNEY CHANNEL FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYXDxvXym5n2OAGm0GlWxLtOqZx7xTiEPiR-UV41GP0MUybUVX&usqp=CAU" group-title="CANAIS INFANTIL - BR",DISNEY CHANNEL FULLHD***
+http://data.m2pj.ml:80/bode/1234/29850
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD***" tvg-name="DISNEY CHANNEL HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYXDxvXym5n2OAGm0GlWxLtOqZx7xTiEPiR-UV41GP0MUybUVX&usqp=CAU" group-title="CANAIS INFANTIL - BR",DISNEY CHANNEL HD***
+http://data.m2pj.ml:80/bode/1234/29770
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL***" tvg-name="DISNEY CHANNEL***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYXDxvXym5n2OAGm0GlWxLtOqZx7xTiEPiR-UV41GP0MUybUVX&usqp=CAU" group-title="CANAIS INFANTIL - BR",DISNEY CHANNEL***
+http://data.m2pj.ml:80/bode/1234/29771
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR FHD***" tvg-logo="https://tinyurl.com/y3cdnrdu" group-title="CANAIS INFANTIL - BR",DISNEY JR FHD***
+http://data.m2pj.ml:80/bode/1234/45323
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD***" tvg-logo="https://tinyurl.com/y3cdnrdu" group-title="CANAIS INFANTIL - BR",DISNEY JR HD***
+http://data.m2pj.ml:80/bode/1234/43188
+#EXTINF:-1 tvg-id="DISNEY JUNIOR***" tvg-name="DISNEY JUNIOR***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5ddZYQp-uUQ7jYW7wXu1Aj-76Xhw0EbqHdjL4UcHPUq8BQdzM&usqp=CAU" group-title="CANAIS INFANTIL - BR",DISNEY JUNIOR***
+http://data.m2pj.ml:80/bode/1234/29769
+#EXTINF:-1 tvg-id="DISNEY XD***" tvg-name="DISNEY XD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQTmBauZ2l0P6QB3WRm0fty6t_bISGyxhMM3uvBhDYB1Gk0_Qy&usqp=CAU" group-title="CANAIS INFANTIL - BR",DISNEY XD***
+http://data.m2pj.ml:80/bode/1234/29768
+#EXTINF:-1 tvg-id="" tvg-name="E! FHD***" tvg-logo="https://goo.gl/9c7nJs" group-title="CANAIS VARIEDADES - BR",E! FHD***
+http://data.m2pj.ml:80/bode/1234/45281
+#EXTINF:-1 tvg-id="E! HD***" tvg-name="E! HD***" tvg-logo="https://goo.gl/9c7nJs" group-title="CANAIS VARIEDADES - BR",E! HD***
+http://data.m2pj.ml:80/bode/1234/29764
+#EXTINF:-1 tvg-id="E!***" tvg-name="E!***" tvg-logo="https://goo.gl/9c7nJs" group-title="CANAIS VARIEDADES - BR",E!***
+http://data.m2pj.ml:80/bode/1234/29765
+#EXTINF:-1 tvg-id="ESPN BRASIL FULLHD***" tvg-name="ESPN BRASIL FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6_CI4SMHFTVBv3CgCBjq6X91wzUeHwkRkQA2GKRCqlAqk9f22&usqp=CAU" group-title="CANAIS ESPORTES - BR",ESPN BRASIL FULLHD***
+http://data.m2pj.ml:80/bode/1234/29861
+#EXTINF:-1 tvg-id="ESPN BRASIL HD***" tvg-name="ESPN BRASIL HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6_CI4SMHFTVBv3CgCBjq6X91wzUeHwkRkQA2GKRCqlAqk9f22&usqp=CAU" group-title="CANAIS ESPORTES - BR",ESPN BRASIL HD***
+http://data.m2pj.ml:80/bode/1234/29759
+#EXTINF:-1 tvg-id="ESPN BRASIL***" tvg-name="ESPN BRASIL***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6_CI4SMHFTVBv3CgCBjq6X91wzUeHwkRkQA2GKRCqlAqk9f22&usqp=CAU" group-title="CANAIS ESPORTES - BR",ESPN BRASIL***
+http://data.m2pj.ml:80/bode/1234/29760
+#EXTINF:-1 tvg-id="ESPN FULLHD***" tvg-name="ESPN FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtMUg8AqWHD45v-NBULea7DFyB3upPAHMvX2pX_1dSU7t6zAWP&usqp=CAU" group-title="CANAIS ESPORTES - BR",ESPN FULLHD***
+http://data.m2pj.ml:80/bode/1234/29849
+#EXTINF:-1 tvg-id="RECORD" tvg-name="ESPN EXTRA HD***" tvg-logo="https://goo.gl/92vBdx" group-title="CANAIS ESPORTES - BR",ESPN EXTRA HD***
+http://data.m2pj.ml:80/bode/1234/29757
+#EXTINF:-1 tvg-id="RECORD" tvg-name="ESPN EXTRA***" tvg-logo="https://goo.gl/92vBdx" group-title="CANAIS ESPORTES - BR",ESPN EXTRA***
+http://data.m2pj.ml:80/bode/1234/29758
+#EXTINF:-1 tvg-id="RECORD" tvg-name="ESPN HD***" tvg-logo="https://goo.gl/z7wwiF" group-title="CANAIS ESPORTES - BR",ESPN HD***
+http://data.m2pj.ml:80/bode/1234/29756
+#EXTINF:-1 tvg-id="ESPN***" tvg-name="ESPN***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSPHshudwA2fp6hPOVghP02WQ_saYVZrBauB3MFv2lcbqsfyl6B&usqp=CAU" group-title="CANAIS ESPORTES - BR",ESPN***
+http://data.m2pj.ml:80/bode/1234/29763
+#EXTINF:-1 tvg-id="FISH TV HD***" tvg-name="FISH TV HD***" tvg-logo="https://goo.gl/zpkgBU" group-title="CANAIS ESPORTES - BR",FISH TV HD***
+http://data.m2pj.ml:80/bode/1234/29748
+#EXTINF:-1 tvg-id="FISH TV***" tvg-name="FISH TV***" tvg-logo="https://goo.gl/zpkgBU" group-title="CANAIS ESPORTES - BR",FISH TV***
+http://data.m2pj.ml:80/bode/1234/29749
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK FHD***" tvg-logo="https://goo.gl/JMzYVP" group-title="CANAIS VARIEDADES - BR",FOOD NETWORK FHD***
+http://data.m2pj.ml:80/bode/1234/45284
+#EXTINF:-1 tvg-id="FOOD NETWORK HD***" tvg-name="FOOD NETWORK HD***" tvg-logo="https://goo.gl/JMzYVP" group-title="CANAIS VARIEDADES - BR",FOOD NETWORK HD***
+http://data.m2pj.ml:80/bode/1234/29746
+#EXTINF:-1 tvg-id="FOOD NETWORK***" tvg-name="FOOD NETWORK***" tvg-logo="https://goo.gl/JMzYVP" group-title="CANAIS VARIEDADES - BR",FOOD NETWORK***
+http://data.m2pj.ml:80/bode/1234/29747
+#EXTINF:-1 tvg-id="FOX FULLHD***" tvg-name="FOX FULLHD***" tvg-logo="https://i.imgur.com/PuQSqtu.png" group-title="CANAIS FILMES/SERIES - BR",FOX FULLHD***
+http://data.m2pj.ml:80/bode/1234/29875
+#EXTINF:-1 tvg-id="FOX HD***" tvg-name="FOX HD***" tvg-logo="https://goo.gl/Q2XmB3" group-title="CANAIS FILMES/SERIES - BR",FOX HD***
+http://data.m2pj.ml:80/bode/1234/29744
+#EXTINF:-1 tvg-id="A&E HD***" tvg-name="FX FHD***" tvg-logo="https://goo.gl/mChYZP" group-title="CANAIS FILMES/SERIES - BR",FX FHD***
+http://data.m2pj.ml:80/bode/1234/45288
+#EXTINF:-1 tvg-id="FOX***" tvg-name="FOX***" tvg-logo="https://goo.gl/bQk4sf" group-title="CANAIS FILMES/SERIES - BR",FOX***
+http://data.m2pj.ml:80/bode/1234/29745
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE FHD***" tvg-logo="https://goo.gl/vVLgNy" group-title="CANAIS VARIEDADES - BR",FOX LIFE FHD***
+http://data.m2pj.ml:80/bode/1234/45285
+#EXTINF:-1 tvg-id="FOX LIFE HD***" tvg-name="FOX LIFE HD***" tvg-logo="https://goo.gl/vVLgNy" group-title="CANAIS VARIEDADES - BR",FOX LIFE HD***
+http://data.m2pj.ml:80/bode/1234/29742
+#EXTINF:-1 tvg-id="FOX LIFE***" tvg-name="FOX LIFE***" tvg-logo="https://goo.gl/RgbPnz" group-title="CANAIS VARIEDADES - BR",FOX LIFE***
+http://data.m2pj.ml:80/bode/1234/29743
+#EXTINF:-1 tvg-id="RECORD" tvg-name="FOX PREMIUM 1 FHD***" tvg-logo="https://goo.gl/2zSGxG" group-title="CANAIS FILMES/SERIES - BR",FOX PREMIUM 1 FHD***
+http://data.m2pj.ml:80/bode/1234/45286
+#EXTINF:-1 tvg-id="FOX PREMIUM 1 HD" tvg-name="FOX PREMIUM 1 HD***" tvg-logo="https://goo.gl/2zSGxG" group-title="CANAIS FILMES/SERIES - BR",FOX PREMIUM 1 HD***
+http://data.m2pj.ml:80/bode/1234/29740
+#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="FOX PREMIUM 1***" tvg-logo="https://goo.gl/2zSGxG" group-title="CANAIS FILMES/SERIES - BR",FOX PREMIUM 1***
+http://data.m2pj.ml:80/bode/1234/29741
+#EXTINF:-1 tvg-id="FOX PREMIUM 2 HD" tvg-name="FOX PREMIUM 2 FHD***" tvg-logo="https://goo.gl/LRohp3" group-title="CANAIS FILMES/SERIES - BR",FOX PREMIUM 2 FHD***
+http://data.m2pj.ml:80/bode/1234/29833
+#EXTINF:-1 tvg-id="FOX PREMIUM 2 HD" tvg-name="FOX PREMIUM 2 HD***" tvg-logo="https://goo.gl/LRohp3" group-title="CANAIS FILMES/SERIES - BR",FOX PREMIUM 2 HD***
+http://data.m2pj.ml:80/bode/1234/29738
+#EXTINF:-1 tvg-id="FOX SPORTS 2 HD***" tvg-name="FOX SPORTS 2 HD***" tvg-logo="https://goo.gl/Ff9c6B" group-title="CANAIS ESPORTES - BR",FOX SPORTS 2 HD***
+http://data.m2pj.ml:80/bode/1234/29734
+#EXTINF:-1 tvg-id="FOX SPORTS 2***" tvg-name="FOX SPORTS 2***" tvg-logo="https://goo.gl/TL3CNo" group-title="CANAIS ESPORTES - BR",FOX SPORTS 2***
+http://data.m2pj.ml:80/bode/1234/29735
+#EXTINF:-1 tvg-id="FOX PREMIUM 2" tvg-name="FOX PREMIUM 2***" tvg-logo="https://goo.gl/LRohp3" group-title="CANAIS FILMES/SERIES - BR",FOX PREMIUM 2***
+http://data.m2pj.ml:80/bode/1234/29739
+#EXTINF:-1 tvg-id="FOX SPORTS 2 FULLHD***" tvg-name="FOX SPORTS 2 FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQybZ1NZozdGKo7msqrLN28OGQU483juTi5wG3LucC_JjBUE9wG&usqp=CAU" group-title="CANAIS ESPORTES - BR",FOX SPORTS 2 FULLHD***
+http://data.m2pj.ml:80/bode/1234/29846
+#EXTINF:-1 tvg-id="FOX SPORTS FULLHD***" tvg-name="FOX SPORTS FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWC3ZAJMsHk4m7WW7MKyWtbu2VNgMhY0VvpXtUcoVMZ6KglKqI&usqp=CAU" group-title="CANAIS ESPORTES - BR",FOX SPORTS FULLHD***
+http://data.m2pj.ml:80/bode/1234/29860
+#EXTINF:-1 tvg-id="FOX SPORTS HD***" tvg-name="FOX SPORTS HD***" tvg-logo="https://goo.gl/5trnbM" group-title="CANAIS ESPORTES - BR",FOX SPORTS HD***
+http://data.m2pj.ml:80/bode/1234/29736
+#EXTINF:-1 tvg-id="FOX SPORTS***" tvg-name="FOX SPORTS***" tvg-logo="https://goo.gl/5trnbM" group-title="CANAIS ESPORTES - BR",FOX SPORTS***
+http://data.m2pj.ml:80/bode/1234/29737
+#EXTINF:-1 tvg-id="FUTURA HD***" tvg-name="FUTURA HD***" tvg-logo="https://goo.gl/t4JECy" group-title="CANAIS ABERTOS - BR",FUTURA HD***
+http://data.m2pj.ml:80/bode/1234/29732
+#EXTINF:-1 tvg-id="FUTURA***" tvg-name="FUTURA***" tvg-logo="https://goo.gl/t4JECy" group-title="CANAIS ABERTOS - BR",FUTURA***
+http://data.m2pj.ml:80/bode/1234/29733
+#EXTINF:-1 tvg-id="FX HD***" tvg-name="FX HD***" tvg-logo="https://goo.gl/mChYZP" group-title="CANAIS FILMES/SERIES - BR",FX HD***
+http://data.m2pj.ml:80/bode/1234/29730
+#EXTINF:-1 tvg-id="FX***" tvg-name="FX***" tvg-logo="https://goo.gl/Zbuwg4" group-title="CANAIS FILMES/SERIES - BR",FX***
+http://data.m2pj.ml:80/bode/1234/29731
+#EXTINF:-1 tvg-id="MAIS GLOBOSAT HD***" tvg-name="MAIS GLOBOSAT HD***" tvg-logo="https://goo.gl/tvMCS9" group-title="CANAIS REDE GLOBO",MAIS GLOBOSAT HD***
+http://data.m2pj.ml:80/bode/1234/29673
+#EXTINF:-1 tvg-id="MAIS GLOBOSAT***" tvg-name="MAIS GLOBOSAT***" tvg-logo="https://goo.gl/tvMCS9" group-title="CANAIS REDE GLOBO",MAIS GLOBOSAT***
+http://data.m2pj.ml:80/bode/1234/29674
+#EXTINF:-1 tvg-id="GLOBO NEWS FULLHD***" tvg-name="GLOBO NEWS FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXhvehhikrZb-53ncnYrhsjXmit5H3X-EcZILFNOLOZveKmk1O&usqp=CAU" group-title="CANAIS NOTICIAS - BR",GLOBO NEWS FULLHD***
+http://data.m2pj.ml:80/bode/1234/29845
+#EXTINF:-1 tvg-id="GLOBO NEWS FULLHD***" tvg-name="GLOBO NEWS HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXhvehhikrZb-53ncnYrhsjXmit5H3X-EcZILFNOLOZveKmk1O&usqp=CAU" group-title="CANAIS NOTICIAS - BR",GLOBO NEWS HD***
+http://data.m2pj.ml:80/bode/1234/29720
+#EXTINF:-1 tvg-id="GLOBO NEWS***" tvg-name="GLOBO NEWS***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXhvehhikrZb-53ncnYrhsjXmit5H3X-EcZILFNOLOZveKmk1O&usqp=CAU" group-title="CANAIS NOTICIAS - BR",GLOBO NEWS***
+http://data.m2pj.ml:80/bode/1234/29721
+#EXTINF:-1 tvg-id="GLOBO BRASILIA ***" tvg-name="GLOBO BRASILIA HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpZPZKxCMjhCUftq7kJOSVHSgeeU_RfC-y5KURCPnvDdjrOS92&usqp=CAU" group-title="CANAIS REDE GLOBO",GLOBO BRASILIA HD***
+http://data.m2pj.ml:80/bode/1234/29728
+#EXTINF:-1 tvg-id="GLOBO BRASILIA***" tvg-name="GLOBO BRASILIA***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpZPZKxCMjhCUftq7kJOSVHSgeeU_RfC-y5KURCPnvDdjrOS92&usqp=CAU" group-title="CANAIS REDE GLOBO",GLOBO BRASILIA***
+http://data.m2pj.ml:80/bode/1234/29729
+#EXTINF:-1 tvg-id="GLOBO EPTV HD CAMPINAS***" tvg-name="GLOBO EPTV HD CAMPINAS***" tvg-logo="https://goo.gl/YKLiiH" group-title="CANAIS REDE GLOBO",GLOBO EPTV HD CAMPINAS***
+http://data.m2pj.ml:80/bode/1234/29726
+#EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS***" tvg-name="GLOBO EPTV CAMPINAS***" tvg-logo="https://goo.gl/YKLiiH" group-title="CANAIS REDE GLOBO",GLOBO EPTV CAMPINAS***
+http://data.m2pj.ml:80/bode/1234/29727
+#EXTINF:-1 tvg-id="GLOBO MINAS HD***" tvg-name="GLOBO MINAS HD***" tvg-logo="https://goo.gl/fCEzce" group-title="CANAIS REDE GLOBO",GLOBO MINAS HD***
+http://data.m2pj.ml:80/bode/1234/29722
+#EXTINF:-1 tvg-id="GLOBO MINAS***" tvg-name="GLOBO MINAS***" tvg-logo="https://goo.gl/fCEzce" group-title="CANAIS REDE GLOBO",GLOBO MINAS***
+http://data.m2pj.ml:80/bode/1234/29723
+#EXTINF:-1 tvg-id="GLOBO NORDESTE***" tvg-name="GLOBO NORDESTE***" tvg-logo="https://goo.gl/WHhG2P" group-title="CANAIS REDE GLOBO",GLOBO NORDESTE***
+http://data.m2pj.ml:80/bode/1234/29719
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV FLORIANOPOLIS***" tvg-logo="https://goo.gl/8VKPkt" group-title="CANAIS REDE GLOBO",GLOBO NSC TV FLORIANOPOLIS***
+http://data.m2pj.ml:80/bode/1234/29717
+#EXTINF:-1 tvg-id="GLOBO NSC TV FLORIANOPOLIS***" tvg-name="GLOBO NSC TV HD FLORIANOPOLIS***" tvg-logo="https://goo.gl/8VKPkt" group-title="CANAIS REDE GLOBO",GLOBO NSC TV HD FLORIANOPOLIS***
+http://data.m2pj.ml:80/bode/1234/29716
+#EXTINF:-1 tvg-id="GLOBO RBS HD TV PORTO ALEGRE***" tvg-name="GLOBO RBS HD TV PORTO ALEGRE***" tvg-logo="https://goo.gl/h49NnH" group-title="CANAIS REDE GLOBO",GLOBO RBS HD TV PORTO ALEGRE***
+http://data.m2pj.ml:80/bode/1234/29714
+#EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE***" tvg-name="GLOBO RBS TV PORTO ALEGRE***" tvg-logo="https://goo.gl/h49NnH" group-title="CANAIS REDE GLOBO",GLOBO RBS TV PORTO ALEGRE***
+http://data.m2pj.ml:80/bode/1234/29715
+#EXTINF:-1 tvg-id="GLOBO RJ FULLHD***" tvg-name="GLOBO RJ FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpZPZKxCMjhCUftq7kJOSVHSgeeU_RfC-y5KURCPnvDdjrOS92&usqp=CAU" group-title="CANAIS REDE GLOBO",GLOBO RJ FULLHD***
+http://data.m2pj.ml:80/bode/1234/29873
+#EXTINF:-1 tvg-id="GLOBO SP***" tvg-name="GLOBO RJ HD***" tvg-logo="https://goo.gl/dLLBDy" group-title="CANAIS REDE GLOBO",GLOBO RJ HD***
+http://data.m2pj.ml:80/bode/1234/29712
+#EXTINF:-1 tvg-id="GLOBO RJ***" tvg-name="GLOBO RJ***" tvg-logo="https://goo.gl/dLLBDy" group-title="CANAIS REDE GLOBO",GLOBO RJ***
+http://data.m2pj.ml:80/bode/1234/29713
+#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA FHD***" tvg-name="GLOBO RPC CURITIBA HD***" tvg-logo="https://goo.gl/ieVUit" group-title="CANAIS REDE GLOBO",GLOBO RPC CURITIBA HD***
+http://data.m2pj.ml:80/bode/1234/29710
+#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA***" tvg-name="GLOBO RPC CURITIBA***" tvg-logo="https://goo.gl/ieVUit" group-title="CANAIS REDE GLOBO",GLOBO RPC CURITIBA***
+http://data.m2pj.ml:80/bode/1234/29711
+#EXTINF:-1 tvg-id="GLOBO SP FULLHD***" tvg-name="GLOBO SP FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpZPZKxCMjhCUftq7kJOSVHSgeeU_RfC-y5KURCPnvDdjrOS92&usqp=CAU" group-title="CANAIS REDE GLOBO",GLOBO SP FULLHD***
+http://data.m2pj.ml:80/bode/1234/29872
+#EXTINF:-1 tvg-id="GLOBO SP HD***" tvg-name="GLOBO SP HD***" tvg-logo="https://goo.gl/CdZ1AX" group-title="CANAIS REDE GLOBO",GLOBO SP HD***
+http://data.m2pj.ml:80/bode/1234/29708
+#EXTINF:-1 tvg-id="GLOBO SP***" tvg-name="GLOBO SP***" tvg-logo="https://goo.gl/CdZ1AX" group-title="CANAIS REDE GLOBO",GLOBO SP***
+http://data.m2pj.ml:80/bode/1234/29709
+#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA***" tvg-name="GLOBO TV ANHANGUERA***" tvg-logo="https://goo.gl/ukVhFD" group-title="CANAIS REDE GLOBO",GLOBO TV ANHANGUERA***
+http://data.m2pj.ml:80/bode/1234/29707
+#EXTINF:-1 tvg-id="GLOBO TV BAHIA***" tvg-name="GLOBO TV BAHIA***" tvg-logo="https://goo.gl/ZLe6mV" group-title="CANAIS REDE GLOBO",GLOBO TV BAHIA***
+http://data.m2pj.ml:80/bode/1234/29705
+#EXTINF:-1 tvg-id="GLOBO TV TEM SOROCABA***" tvg-name="GLOBO TV TEM SOROCABA***" tvg-logo="https://goo.gl/pHyzoz" group-title="CANAIS REDE GLOBO",GLOBO TV TEM SOROCABA***
+http://data.m2pj.ml:80/bode/1234/29700
+#EXTINF:-1 tvg-id="GLOBO TV TRIBUNA SANTOS-[FONTE 2]" tvg-name="GLOBO TV TRIBUNA SANTOS SD***" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_TV_Tribuna_%28Santos%29.png" group-title="CANAIS REDE GLOBO",GLOBO TV TRIBUNA SANTOS SD***
+http://data.m2pj.ml:80/bode/1234/45966
+#EXTINF:-1 tvg-id="GLOOB FULLHD***" tvg-name="GLOOB FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDjpbg_EB8X-vHXBAMjqy-oLKK-SO68lCig4X0MW_-7R8vAH7U&usqp=CAU" group-title="CANAIS INFANTIL - BR",GLOOB FULLHD***
+http://data.m2pj.ml:80/bode/1234/29844
+#EXTINF:-1 tvg-id="GLOOB HD***" tvg-name="GLOOB HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDjpbg_EB8X-vHXBAMjqy-oLKK-SO68lCig4X0MW_-7R8vAH7U&usqp=CAU" group-title="CANAIS INFANTIL - BR",GLOOB HD***
+http://data.m2pj.ml:80/bode/1234/29698
+#EXTINF:-1 tvg-id="GLOOB***" tvg-name="GLOOB***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDjpbg_EB8X-vHXBAMjqy-oLKK-SO68lCig4X0MW_-7R8vAH7U&usqp=CAU" group-title="CANAIS INFANTIL - BR",GLOOB***
+http://data.m2pj.ml:80/bode/1234/29699
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO HD***" tvg-logo="https://goo.gl/h4j82K" group-title="CANAIS INFANTIL - BR",GLOOBINHO HD***
+http://data.m2pj.ml:80/bode/1234/29697
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO***" tvg-logo="https://goo.gl/h4j82K" group-title="CANAIS INFANTIL - BR",GLOOBINHO***
+http://data.m2pj.ml:80/bode/1234/29696
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Movie TV" tvg-logo="https://imgur.com/2fT45Pq.png" group-title="CANAIS RELIGIOSOS - BR",Gospel Movie TV
+http://data.m2pj.ml:80/bode/1234/22499
+#EXTINF:-1 tvg-id="" tvg-name="GNT FHD***" tvg-logo="https://goo.gl/EaqvNr" group-title="CANAIS VARIEDADES - BR",GNT FHD***
+http://data.m2pj.ml:80/bode/1234/45290
+#EXTINF:-1 tvg-id="GNT HD***" tvg-name="GNT HD***" tvg-logo="https://goo.gl/EaqvNr" group-title="CANAIS VARIEDADES - BR",GNT HD***
+http://data.m2pj.ml:80/bode/1234/29694
+#EXTINF:-1 tvg-id="GNT***" tvg-name="GNT***" tvg-logo="https://goo.gl/YYJf8e" group-title="CANAIS VARIEDADES - BR",GNT***
+http://data.m2pj.ml:80/bode/1234/29695
+#EXTINF:-1 tvg-id="" tvg-name="H2 FHD***" tvg-logo="https://goo.gl/RcauvU" group-title="CANAIS DOCUMENTARIO - BR",H2 FHD***
+http://data.m2pj.ml:80/bode/1234/45291
+#EXTINF:-1 tvg-id="H2 HD***" tvg-name="H2 HD***" tvg-logo="https://goo.gl/RcauvU" group-title="CANAIS DOCUMENTARIO - BR",H2 HD***
+http://data.m2pj.ml:80/bode/1234/29692
+#EXTINF:-1 tvg-id="H2 SD***" tvg-name="H2***" tvg-logo="https://goo.gl/RcauvU" group-title="CANAIS DOCUMENTARIO - BR",H2***
+http://data.m2pj.ml:80/bode/1234/29693
+#EXTINF:-1 tvg-id="HBO 2 FULLHD***" tvg-name="HBO 2 FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4xgvWm6rDvx1c84zxZNXroK9LiOYa2POJi3tkJWM5ffr775Eq&usqp=CAU" group-title="CANAIS  HBO",HBO 2 FULLHD***
+http://data.m2pj.ml:80/bode/1234/29871
+#EXTINF:-1 tvg-id="HBO 2 HD***" tvg-name="HBO 2 HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaXc8VhLc_zi72jysEIqKaFzlPnRPyvmwTChiSy3BeDfWreCEt&usqp=CAU" group-title="CANAIS  HBO",HBO 2 HD***
+http://data.m2pj.ml:80/bode/1234/29689
+#EXTINF:-1 tvg-id="HBO 2***" tvg-name="HBO 2***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaXc8VhLc_zi72jysEIqKaFzlPnRPyvmwTChiSy3BeDfWreCEt&usqp=CAU" group-title="CANAIS  HBO",HBO 2***
+http://data.m2pj.ml:80/bode/1234/29690
+#EXTINF:-1 tvg-id="HBO FAMILY HD***" tvg-name="HBO FAMILY HD***" tvg-logo="https://goo.gl/deXLt6" group-title="CANAIS  HBO",HBO FAMILY HD***
+http://data.m2pj.ml:80/bode/1234/29687
+#EXTINF:-1 tvg-id="HBO FAMILY***" tvg-name="HBO FAMILY***" tvg-logo="https://goo.gl/deXLt6" group-title="CANAIS  HBO",HBO FAMILY***
+http://data.m2pj.ml:80/bode/1234/29688
+#EXTINF:-1 tvg-id="HBO FULLHD***" tvg-name="HBO FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaTgHceU33bSf_iwo0r0f3CsZZMfaQyQZFKWHe51HYTcVWv1Df&usqp=CAU" group-title="CANAIS  HBO",HBO FULLHD***
+http://data.m2pj.ml:80/bode/1234/29870
+#EXTINF:-1 tvg-id="HBO HD***" tvg-name="HBO HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaTgHceU33bSf_iwo0r0f3CsZZMfaQyQZFKWHe51HYTcVWv1Df&usqp=CAU" group-title="CANAIS  HBO",HBO HD***
+http://data.m2pj.ml:80/bode/1234/29686
+#EXTINF:-1 tvg-id="HBO***" tvg-name="HBO***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaTgHceU33bSf_iwo0r0f3CsZZMfaQyQZFKWHe51HYTcVWv1Df&usqp=CAU" group-title="CANAIS  HBO",HBO***
+http://data.m2pj.ml:80/bode/1234/29691
+#EXTINF:-1 tvg-id="HBO PLUS FULLHD***" tvg-name="HBO PLUS FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaXc8VhLc_zi72jysEIqKaFzlPnRPyvmwTChiSy3BeDfWreCEt&usqp=CAU" group-title="CANAIS  HBO",HBO PLUS FHD***
+http://data.m2pj.ml:80/bode/1234/45293
+#EXTINF:-1 tvg-id="HBO PLUS HD***" tvg-name="HBO PLUS HD***" tvg-logo="https://goo.gl/txTxDx" group-title="CANAIS  HBO",HBO PLUS HD***
+http://data.m2pj.ml:80/bode/1234/29683
+#EXTINF:-1 tvg-id="HBO PLUS***" tvg-name="HBO PLUS***" tvg-logo="https://goo.gl/q9pFmk" group-title="CANAIS  HBO",HBO PLUS***
+http://data.m2pj.ml:80/bode/1234/29685
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FHD***" tvg-logo="https://goo.gl/PSk8fX" group-title="CANAIS  HBO",HBO SIGNATURE FHD***
+http://data.m2pj.ml:80/bode/1234/45294
+#EXTINF:-1 tvg-id="HBO SIGNATURE HD***" tvg-name="HBO SIGNATURE HD***" tvg-logo="https://goo.gl/PSk8fX" group-title="CANAIS  HBO",HBO SIGNATURE HD***
+http://data.m2pj.ml:80/bode/1234/29681
+#EXTINF:-1 tvg-id="HBO SIGNATURE***" tvg-name="HBO SIGNATURE***" tvg-logo="https://goo.gl/dmN3hR" group-title="CANAIS  HBO",HBO SIGNATURE***
+http://data.m2pj.ml:80/bode/1234/29682
+#EXTINF:-1 tvg-id="HISTORY FHD***" tvg-name="HISTORY CHANNEL FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLzFMbkRqq8778IXV7ucmtBjW8GVBizzp4lI8oQX6WR5IRD2hO&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",HISTORY CHANNEL FHD***
+http://data.m2pj.ml:80/bode/1234/29828
+#EXTINF:-1 tvg-id="HISTORY HD***" tvg-name="HISTORY CHANNEL HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLzFMbkRqq8778IXV7ucmtBjW8GVBizzp4lI8oQX6WR5IRD2hO&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",HISTORY CHANNEL HD***
+http://data.m2pj.ml:80/bode/1234/29679
+#EXTINF:-1 tvg-id="RECORD" tvg-name="HISTORY CHANNEL***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLzFMbkRqq8778IXV7ucmtBjW8GVBizzp4lI8oQX6WR5IRD2hO&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",HISTORY CHANNEL***
+http://data.m2pj.ml:80/bode/1234/29680
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY FHD***" tvg-logo="https://goo.gl/LG82oq" group-title="CANAIS DOCUMENTARIO - BR",INVESTIGATION DISCOVERY FHD***
+http://data.m2pj.ml:80/bode/1234/45295
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY HD***" tvg-name="INVESTIGATION DISCOVERY HD***" tvg-logo="https://goo.gl/LG82oq" group-title="CANAIS DOCUMENTARIO - BR",INVESTIGATION DISCOVERY HD***
+http://data.m2pj.ml:80/bode/1234/29677
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY***" tvg-name="INVESTIGATION DISCOVERY***" tvg-logo="https://goo.gl/LG82oq" group-title="CANAIS DOCUMENTARIO - BR",INVESTIGATION DISCOVERY***
+http://data.m2pj.ml:80/bode/1234/29678
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME FHD***" tvg-logo="https://goo.gl/yJEr4L" group-title="CANAIS VARIEDADES - BR",LIFETIME FHD***
+http://data.m2pj.ml:80/bode/1234/45296
+#EXTINF:-1 tvg-id="LIFETIME HD***" tvg-name="LIFETIME HD***" tvg-logo="https://goo.gl/yJEr4L" group-title="CANAIS VARIEDADES - BR",LIFETIME HD***
+http://data.m2pj.ml:80/bode/1234/29675
+#EXTINF:-1 tvg-id="LIFETIME***" tvg-name="LIFETIME***" tvg-logo="https://goo.gl/yJEr4L" group-title="CANAIS VARIEDADES - BR",LIFETIME***
+http://data.m2pj.ml:80/bode/1234/29676
+#EXTINF:-1 tvg-id="MAX HD***" tvg-name="HBO POP HD***" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CANAIS  HBO",HBO POP HD***
+http://data.m2pj.ml:80/bode/1234/29671
+#EXTINF:-1 tvg-id="MAX***" tvg-name="HBO POP***" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CANAIS  HBO",HBO POP***
+http://data.m2pj.ml:80/bode/1234/29672
+#EXTINF:-1 tvg-id="MAX PRIME HD***" tvg-name="HBO MUNDI HD***" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CANAIS  HBO",HBO MUNDI HD***
+http://data.m2pj.ml:80/bode/1234/29668
+#EXTINF:-1 tvg-id="MAX PRIME***" tvg-name="HBO MUNDI***" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CANAIS  HBO",HBO MUNDI***
+http://data.m2pj.ml:80/bode/1234/29670
+#EXTINF:-1 tvg-id="MAX UP HD***" tvg-name="HBO XTREME HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTR7lnP5HF1-1jdq0-dLNBGPyztELY4PtkesLVkkRL0mCk6Y_Jv&usqp=CAU" group-title="CANAIS  HBO",HBO XTREME HD***
+http://data.m2pj.ml:80/bode/1234/29666
+#EXTINF:-1 tvg-id="MAX UP***" tvg-name="HBO XTREME***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTR7lnP5HF1-1jdq0-dLNBGPyztELY4PtkesLVkkRL0mCk6Y_Jv&usqp=CAU" group-title="CANAIS  HBO",HBO XTREME***
+http://data.m2pj.ml:80/bode/1234/29667
+#EXTINF:-1 tvg-id="MEGA PIX HD***" tvg-name="MEGAPIX FHD***" tvg-logo="https://goo.gl/CqiQWx" group-title="CANAIS FILMES/SERIES - BR",MEGAPIX FHD***
+http://data.m2pj.ml:80/bode/1234/45300
+#EXTINF:-1 tvg-id="MEGA PIX HD***" tvg-name="MEGAPIX HD***" tvg-logo="https://goo.gl/CqiQWx" group-title="CANAIS FILMES/SERIES - BR",MEGAPIX HD***
+http://data.m2pj.ml:80/bode/1234/29664
+#EXTINF:-1 tvg-id="MEGAPIX***" tvg-name="MEGAPIX***" tvg-logo="https://goo.gl/CqiQWx" group-title="CANAIS FILMES/SERIES - BR",MEGAPIX***
+http://data.m2pj.ml:80/bode/1234/29665
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD***" tvg-logo="https://tinyurl.com/y4dafjn5" group-title="CANAIS VARIEDADES - BR",MTV LIVE HD***
+http://data.m2pj.ml:80/bode/1234/43186
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD***" tvg-logo="https://goo.gl/4228Pv" group-title="CANAIS VARIEDADES - BR",MTV FHD***
+http://data.m2pj.ml:80/bode/1234/45301
+#EXTINF:-1 tvg-id="MTV HD***" tvg-name="MTV HD***" tvg-logo="https://goo.gl/4228Pv" group-title="CANAIS VARIEDADES - BR",MTV HD***
+http://data.m2pj.ml:80/bode/1234/29662
+#EXTINF:-1 tvg-id="MTV***" tvg-name="MTV***" tvg-logo="https://goo.gl/4228Pv" group-title="CANAIS VARIEDADES - BR",MTV***
+http://data.m2pj.ml:80/bode/1234/29663
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW FHD***" tvg-logo="https://goo.gl/ZDuJrJ" group-title="CANAIS VARIEDADES - BR",MULTISHOW FHD***
+http://data.m2pj.ml:80/bode/1234/45303
+#EXTINF:-1 tvg-id="MULTISHOW HD***" tvg-name="MULTISHOW HD***" tvg-logo="https://goo.gl/ZDuJrJ" group-title="CANAIS VARIEDADES - BR",MULTISHOW HD***
+http://data.m2pj.ml:80/bode/1234/29660
+#EXTINF:-1 tvg-id="MULTISHOW***" tvg-name="MULTISHOW***" tvg-logo="https://goo.gl/x1EzaQ" group-title="CANAIS VARIEDADES - BR",MULTISHOW***
+http://data.m2pj.ml:80/bode/1234/29661
+#EXTINF:-1 tvg-id="MUSIC BOX BRASIL HD***" tvg-name="MUSIC BOX BRASIL HD***" tvg-logo="https://goo.gl/H9ZL6L" group-title="CANAIS VARIEDADES - BR",MUSIC BOX BRASIL HD***
+http://data.m2pj.ml:80/bode/1234/29658
+#EXTINF:-1 tvg-id="MUSIC BOX BRASIL***" tvg-name="MUSIC BOX BRASIL***" tvg-logo="https://goo.gl/H9ZL6L" group-title="CANAIS VARIEDADES - BR",MUSIC BOX BRASIL***
+http://data.m2pj.ml:80/bode/1234/29659
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS FHD***" tvg-logo="https://goo.gl/4kQJR4" group-title="CANAIS INFANTIL - BR",NAT GEO KIDS FHD***
+http://data.m2pj.ml:80/bode/1234/45306
+#EXTINF:-1 tvg-id="RECORD" tvg-name="NAT GEO KIDS HD***" tvg-logo="https://goo.gl/4kQJR4" group-title="CANAIS INFANTIL - BR",NAT GEO KIDS HD***
+http://data.m2pj.ml:80/bode/1234/29654
+#EXTINF:-1 tvg-id="RECORD" tvg-name="NAT GEO KIDS***" tvg-logo="https://goo.gl/4kQJR4" group-title="CANAIS INFANTIL - BR",NAT GEO KIDS***
+http://data.m2pj.ml:80/bode/1234/29655
+#EXTINF:-1 tvg-id="NAT GEO WILD FHD***" tvg-name="NAT GEO WILD FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdWGZHVq5Hi5n0Kx0ii4URSEOjnE-JyIaOrc25xZRNUYaBMd9T&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",NAT GEO WILD FHD***
+http://data.m2pj.ml:80/bode/1234/29832
+#EXTINF:-1 tvg-id="NAT GEO WILD HD***" tvg-name="NAT GEO WILD HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdWGZHVq5Hi5n0Kx0ii4URSEOjnE-JyIaOrc25xZRNUYaBMd9T&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",NAT GEO WILD HD***
+http://data.m2pj.ml:80/bode/1234/29653
+#EXTINF:-1 tvg-id="NAT GEO WILD***" tvg-name="NAT GEO WILD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdWGZHVq5Hi5n0Kx0ii4URSEOjnE-JyIaOrc25xZRNUYaBMd9T&usqp=CAU" group-title="CANAIS DOCUMENTARIO - BR",NAT GEO WILD***
+http://data.m2pj.ml:80/bode/1234/29652
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO FHD***" tvg-logo="https://goo.gl/DCcEFs" group-title="CANAIS DOCUMENTARIO - BR",NAT GEO FHD***
+http://data.m2pj.ml:80/bode/1234/45305
+#EXTINF:-1 tvg-id="NAT GEO HD***" tvg-name="NAT GEO HD***" tvg-logo="https://goo.gl/DCcEFs" group-title="CANAIS DOCUMENTARIO - BR",NAT GEO HD***
+http://data.m2pj.ml:80/bode/1234/29656
+#EXTINF:-1 tvg-id="NAT GEO***" tvg-name="NAT GEO***" tvg-logo="https://goo.gl/91GKoR" group-title="CANAIS DOCUMENTARIO - BR",NAT GEO***
+http://data.m2pj.ml:80/bode/1234/29657
+#EXTINF:-1 tvg-id="NICK JR FHD***" tvg-name="NICK JR FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKHfaBzg1aEQkuVedPp3QDrzn3lZcgmTqI8Ty2HB6VFKklESi9&usqp=CAU" group-title="CANAIS INFANTIL - BR",NICK JR FHD***
+http://data.m2pj.ml:80/bode/1234/29831
+#EXTINF:-1 tvg-id="NICK JR HD***" tvg-name="NICK JR HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKHfaBzg1aEQkuVedPp3QDrzn3lZcgmTqI8Ty2HB6VFKklESi9&usqp=CAU" group-title="CANAIS INFANTIL - BR",NICK JR HD***
+http://data.m2pj.ml:80/bode/1234/29649
+#EXTINF:-1 tvg-id="NICK JR***" tvg-name="NICK JR***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKHfaBzg1aEQkuVedPp3QDrzn3lZcgmTqI8Ty2HB6VFKklESi9&usqp=CAU" group-title="CANAIS INFANTIL - BR",NICK JR***
+http://data.m2pj.ml:80/bode/1234/29650
+#EXTINF:-1 tvg-id="NICKELODEON FHD***" tvg-name="NICKELODEON FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxvPTNg95QlKaRtR4DxFHU6f6rti5uNENbLA4QoXEvjcHlYBUW&usqp=CAU" group-title="CANAIS INFANTIL - BR",NICKELODEON FHD***
+http://data.m2pj.ml:80/bode/1234/29830
+#EXTINF:-1 tvg-id="NICKELODEON HD***" tvg-name="NICKELODEON HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxvPTNg95QlKaRtR4DxFHU6f6rti5uNENbLA4QoXEvjcHlYBUW&usqp=CAU" group-title="CANAIS INFANTIL - BR",NICKELODEON HD***
+http://data.m2pj.ml:80/bode/1234/29647
+#EXTINF:-1 tvg-id="NICKELODEON***" tvg-name="NICKELODEN***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxvPTNg95QlKaRtR4DxFHU6f6rti5uNENbLA4QoXEvjcHlYBUW&usqp=CAU" group-title="CANAIS INFANTIL - BR",NICKELODEN***
+http://data.m2pj.ml:80/bode/1234/29648
+#EXTINF:-1 tvg-id="OFF HD***" tvg-name="OFF HD***" tvg-logo="https://goo.gl/QhQ3cQ" group-title="CANAIS ESPORTES - BR",OFF HD***
+http://data.m2pj.ml:80/bode/1234/29645
+#EXTINF:-1 tvg-id="OFF***" tvg-name="OFF***" tvg-logo="https://goo.gl/QhQ3cQ" group-title="CANAIS ESPORTES - BR",OFF***
+http://data.m2pj.ml:80/bode/1234/29646
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL HD***" tvg-name="PARAMOUNT CHANNEL FHD***" tvg-logo="https://goo.gl/PbTVSz" group-title="CANAIS FILMES/SERIES - BR",PARAMOUNT CHANNEL FHD***
+http://data.m2pj.ml:80/bode/1234/45308
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL HD***" tvg-name="PARAMOUNT CHANNEL HD***" tvg-logo="https://goo.gl/PbTVSz" group-title="CANAIS FILMES/SERIES - BR",PARAMOUNT CHANNEL HD***
+http://data.m2pj.ml:80/bode/1234/29643
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL***" tvg-name="PARAMOUNT CHANNEL***" tvg-logo="https://goo.gl/9JSVNn" group-title="CANAIS FILMES/SERIES - BR",PARAMOUNT CHANNEL***
+http://data.m2pj.ml:80/bode/1234/29644
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE 2 FULLHD***
+http://data.m2pj.ml:80/bode/1234/29858
+#EXTINF:-1 tvg-id="PREMIERE 2 HD***" tvg-name="PREMIERE 2 HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE 2 HD***
+http://data.m2pj.ml:80/bode/1234/29641
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE 2***
+http://data.m2pj.ml:80/bode/1234/29642
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE 3 FULLHD***
+http://data.m2pj.ml:80/bode/1234/29857
+#EXTINF:-1 tvg-id="PREMIERE 3 HD***" tvg-name="PREMIERE 3 HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE 3 HD***
+http://data.m2pj.ml:80/bode/1234/29639
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE 3***
+http://data.m2pj.ml:80/bode/1234/29640
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE 4 FULLHD***
+http://data.m2pj.ml:80/bode/1234/29856
+#EXTINF:-1 tvg-id="PREMIERE 4 HD***" tvg-name="PREMIERE 4 HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE 4 HD***
+http://data.m2pj.ml:80/bode/1234/29637
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE 4***
+http://data.m2pj.ml:80/bode/1234/29638
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE 5 FULLHD***
+http://data.m2pj.ml:80/bode/1234/29855
+#EXTINF:-1 tvg-id="PREMIERE 5 HD***" tvg-name="PREMIERE 5 HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE 5 HD***
+http://data.m2pj.ml:80/bode/1234/29635
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE 5***
+http://data.m2pj.ml:80/bode/1234/29636
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgB9rpqTtiv05tf0rf4AN6U9DyAsN6u1m54FH5LRwW-OMK_8_y&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE 6 FULLHD***
+http://data.m2pj.ml:80/bode/1234/29854
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE 6***
+http://data.m2pj.ml:80/bode/1234/29634
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE 7***
+http://data.m2pj.ml:80/bode/1234/29632
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE CLUBES FULLHD***
+http://data.m2pj.ml:80/bode/1234/29859
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE CLUBES HD***
+http://data.m2pj.ml:80/bode/1234/29629
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo_ju_noa1IBKWAXX_cU9kIWv4U6SbRCdyO4whQL9FSD7QQHUF&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",PREMIERE CLUBES***
+http://data.m2pj.ml:80/bode/1234/29630
+#EXTINF:-1 tvg-id="PRIME BOX BRASIL HD***" tvg-name="PRIME BOX BRASIL HD***" tvg-logo="https://goo.gl/ZXhxeg" group-title="CANAIS VARIEDADES - BR",PRIME BOX BRASIL HD***
+http://data.m2pj.ml:80/bode/1234/29627
+#EXTINF:-1 tvg-id="PRIME BOX BRASIL***" tvg-name="PRIME BOX BRASIL***" tvg-logo="https://goo.gl/ZXhxeg" group-title="CANAIS VARIEDADES - BR",PRIME BOX BRASIL***
+http://data.m2pj.ml:80/bode/1234/29628
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FHD***" tvg-logo="https://goo.gl/A729Q5" group-title="CANAIS NOTICIAS - BR",RECORD NEWS FHD***
+http://data.m2pj.ml:80/bode/1234/45310
+#EXTINF:-1 tvg-id="RECORD NEWS HD***" tvg-name="RECORD NEWS HD***" tvg-logo="https://goo.gl/A729Q5" group-title="CANAIS NOTICIAS - BR",RECORD NEWS HD***
+http://data.m2pj.ml:80/bode/1234/29623
+#EXTINF:-1 tvg-id="RECORD NEWS***" tvg-name="RECORD NEWS***" tvg-logo="https://goo.gl/A729Q5" group-title="CANAIS NOTICIAS - BR",RECORD NEWS***
+http://data.m2pj.ml:80/bode/1234/29624
+#EXTINF:-1 tvg-id="" tvg-name="RECORD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwDdY3xkA1b8vYwjwk9PS3BK3V8L0Z_tIxKoGFJQA5BBnitr4P&usqp=CAU" group-title="CANAIS ABERTOS - BR",RECORD***
+http://data.m2pj.ml:80/bode/1234/29622
+#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwDdY3xkA1b8vYwjwk9PS3BK3V8L0Z_tIxKoGFJQA5BBnitr4P&usqp=CAU" group-title="CANAIS ABERTOS - BR",RECORD HD
+http://data.m2pj.ml:80/bode/1234/29621
+#EXTINF:-1 tvg-id="RECORD" tvg-name="REDE TV HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnH0b-T1qk0qT_tVQq68VWmYBv_tK7a472Jx3FrqKuyhQLsNMa&usqp=CAU" group-title="CANAIS ABERTOS - BR",REDE TV HD***
+http://data.m2pj.ml:80/bode/1234/29618
+#EXTINF:-1 tvg-id="RECORD" tvg-name="REDE TV***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnH0b-T1qk0qT_tVQq68VWmYBv_tK7a472Jx3FrqKuyhQLsNMa&usqp=CAU" group-title="CANAIS ABERTOS - BR",REDE TV***
+http://data.m2pj.ml:80/bode/1234/29619
+#EXTINF:-1 tvg-id="REDE VIDA***" tvg-name="REDE VIDA***" tvg-logo="https://goo.gl/6Ufq5b" group-title="CANAIS RELIGIOSOS - BR",REDE VIDA***
+http://data.m2pj.ml:80/bode/1234/29617
+#EXTINF:-1 tvg-id="SONY FHD***" tvg-name="SONY FHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRT812B29gDm_5ntb42iqdmWSwB6AD68a62bK9pdvcciRL5FqZW&usqp=CAU" group-title="CANAIS FILMES/SERIES - BR",SONY FHD***
+http://data.m2pj.ml:80/bode/1234/45273
+#EXTINF:-1 tvg-id="SONY HD***" tvg-name="SONY HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRT812B29gDm_5ntb42iqdmWSwB6AD68a62bK9pdvcciRL5FqZW&usqp=CAU" group-title="CANAIS FILMES/SERIES - BR",SONY HD***
+http://data.m2pj.ml:80/bode/1234/29799
+#EXTINF:-1 tvg-id="SONY***" tvg-name="SONY***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFKSBGQnwQrEt3eJ8NUkpejLqB2riTxLWLrA8dO12KYF6DoPTS&usqp=CAU" group-title="CANAIS FILMES/SERIES - BR",SONY***
+http://data.m2pj.ml:80/bode/1234/29800
+#EXTINF:-1 tvg-id="SBT FULLHD***" tvg-name="SBT FULLHD***" tvg-logo="http://i.imgur.com/ezXGs0B.jpg" group-title="CANAIS ABERTOS - BR",SBT FULLHD***
+http://data.m2pj.ml:80/bode/1234/29868
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD***" tvg-logo="http://i.imgur.com/ezXGs0B.jpg" group-title="CANAIS ABERTOS - BR",SBT HD***
+http://data.m2pj.ml:80/bode/1234/29615
+#EXTINF:-1 tvg-id="RECORD" tvg-name="SBT***" tvg-logo="http://i.imgur.com/ezXGs0B.jpg" group-title="CANAIS ABERTOS - BR",SBT***
+http://data.m2pj.ml:80/bode/1234/29616
+#EXTINF:-1 tvg-id="SPACE HD***" tvg-name="SPACE FHD***" tvg-logo="https://goo.gl/wUSGbf" group-title="CANAIS FILMES/SERIES - BR",SPACE FHD***
+http://data.m2pj.ml:80/bode/1234/45311
+#EXTINF:-1 tvg-id="SPACE HD***" tvg-name="SPACE HD***" tvg-logo="https://goo.gl/wUSGbf" group-title="CANAIS FILMES/SERIES - BR",SPACE HD***
+http://data.m2pj.ml:80/bode/1234/29610
+#EXTINF:-1 tvg-id="SPACE***" tvg-name="SPACE***" tvg-logo="https://goo.gl/wUSGbf" group-title="CANAIS FILMES/SERIES - BR",SPACE***
+http://data.m2pj.ml:80/bode/1234/29611
+#EXTINF:-1 tvg-id="SPORTV 2 FULLHD***" tvg-name="SPORTV 2 FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxFbEn7g-iaIKejw6YZDVm6M-erZDyA-e5lnuaYreP9rFI-cYB&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",SPORTV 2 FULLHD***
+http://data.m2pj.ml:80/bode/1234/29843
+#EXTINF:-1 tvg-id="SPORTV 2 HD***" tvg-name="SPORTV 2 HD***" tvg-logo="https://goo.gl/RW8NCS" group-title="CANAIS  PREMIERE / SPORTV",SPORTV 2 HD***
+http://data.m2pj.ml:80/bode/1234/29607
+#EXTINF:-1 tvg-id="SPORTV 2***" tvg-name="SPORTV 2***" tvg-logo="https://goo.gl/RW8NCS" group-title="CANAIS  PREMIERE / SPORTV",SPORTV 2***
+http://data.m2pj.ml:80/bode/1234/29608
+#EXTINF:-1 tvg-id="SPORTV 3 FULLHD***" tvg-name="SPORTV 3 FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvXBMsWJQ91k1dmpvsS4uWgL3JZpUzYum86xFOyUNvT01DM2lz&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",SPORTV 3 FULLHD***
+http://data.m2pj.ml:80/bode/1234/29842
+#EXTINF:-1 tvg-id="SPORTV 2 HD***" tvg-name="SPORTV 3 HD***" tvg-logo="https://goo.gl/mAeHfZ" group-title="CANAIS  PREMIERE / SPORTV",SPORTV 3 HD***
+http://data.m2pj.ml:80/bode/1234/29605
+#EXTINF:-1 tvg-id="SPORTV 3***" tvg-name="SPORTV 3***" tvg-logo="https://goo.gl/mAeHfZ" group-title="CANAIS  PREMIERE / SPORTV",SPORTV 3***
+http://data.m2pj.ml:80/bode/1234/29606
+#EXTINF:-1 tvg-id="SPORTV FULLHD***" tvg-name="SPORTV FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoef5nES9z18cWlQuGLZ4Oy2TZv-yJoVMSzw56mI8llBjCL-uR&usqp=CAU" group-title="CANAIS  PREMIERE / SPORTV",SPORTV FULLHD***
+http://data.m2pj.ml:80/bode/1234/29867
+#EXTINF:-1 tvg-id="SPORTV HD***" tvg-name="SPORTV HD***" tvg-logo="https://goo.gl/V4nEvo" group-title="CANAIS  PREMIERE / SPORTV",SPORTV HD***
+http://data.m2pj.ml:80/bode/1234/29604
+#EXTINF:-1 tvg-id="SPORTV***" tvg-name="SPORTV***" tvg-logo="https://goo.gl/V4nEvo" group-title="CANAIS  PREMIERE / SPORTV",SPORTV***
+http://data.m2pj.ml:80/bode/1234/29609
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL HD***" tvg-name="STUDIO UNIVERSAL FHD***" tvg-logo="https://goo.gl/Kpy7Rg" group-title="CANAIS FILMES/SERIES - BR",STUDIO UNIVERSAL FHD***
+http://data.m2pj.ml:80/bode/1234/45312
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL HD***" tvg-name="STUDIO UNIVERSAL HD***" tvg-logo="https://goo.gl/Kpy7Rg" group-title="CANAIS FILMES/SERIES - BR",STUDIO UNIVERSAL HD***
+http://data.m2pj.ml:80/bode/1234/29602
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL***" tvg-name="STUDIO UNIVERSAL***" tvg-logo="https://goo.gl/Kpy7Rg" group-title="CANAIS FILMES/SERIES - BR",STUDIO UNIVERSAL***
+http://data.m2pj.ml:80/bode/1234/29603
+#EXTINF:-1 tvg-id="SYFY HD***" tvg-name="SYFY FHD***" tvg-logo="https://goo.gl/asWk2X" group-title="CANAIS FILMES/SERIES - BR",SYFY FHD***
+http://data.m2pj.ml:80/bode/1234/45313
+#EXTINF:-1 tvg-id="SYFY HD***" tvg-name="SYFY HD***" tvg-logo="https://goo.gl/asWk2X" group-title="CANAIS FILMES/SERIES - BR",SYFY HD***
+http://data.m2pj.ml:80/bode/1234/29612
+#EXTINF:-1 tvg-id="SYFY***" tvg-name="SYFY***" tvg-logo="https://goo.gl/asWk2X" group-title="CANAIS FILMES/SERIES - BR",SYFY***
+http://data.m2pj.ml:80/bode/1234/29613
+#EXTINF:-1 tvg-id="TBS HD***" tvg-name="TBS FHD***" tvg-logo="https://goo.gl/Pbf3G1" group-title="CANAIS FILMES/SERIES - BR",TBS FHD***
+http://data.m2pj.ml:80/bode/1234/45314
+#EXTINF:-1 tvg-id="TBS HD***" tvg-name="TBS HD***" tvg-logo="https://goo.gl/Pbf3G1" group-title="CANAIS FILMES/SERIES - BR",TBS HD***
+http://data.m2pj.ml:80/bode/1234/29598
+#EXTINF:-1 tvg-id="TBS***" tvg-name="TBS***" tvg-logo="https://goo.gl/Pbf3G1" group-title="CANAIS FILMES/SERIES - BR",TBS***
+http://data.m2pj.ml:80/bode/1234/29599
+#EXTINF:-1 tvg-id="TCM***" tvg-name="TCM FULLHD***" tvg-logo="https://goo.gl/xMvBzr" group-title="CANAIS FILMES/SERIES - BR",TCM FULLHD***
+http://data.m2pj.ml:80/bode/1234/29597
+#EXTINF:-1 tvg-id="TELECINE ACTION FULLHD***" tvg-name="TELECINE ACTION FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRv0NGB28ga8nU_TOb0ERMx792eqXoNA8HutgNbDeK9qVC76Rlv&usqp=CAU" group-title="CANAIS REDE TELECINE",TELECINE ACTION FULLHD***
+http://data.m2pj.ml:80/bode/1234/29866
+#EXTINF:-1 tvg-id="TELECINE ACTION HD***" tvg-name="TELECINE ACTION HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRv0NGB28ga8nU_TOb0ERMx792eqXoNA8HutgNbDeK9qVC76Rlv&usqp=CAU" group-title="CANAIS REDE TELECINE",TELECINE ACTION HD***
+http://data.m2pj.ml:80/bode/1234/29595
+#EXTINF:-1 tvg-id="TELECINE ACTION***" tvg-name="TELECINE ACTION***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRv0NGB28ga8nU_TOb0ERMx792eqXoNA8HutgNbDeK9qVC76Rlv&usqp=CAU" group-title="CANAIS REDE TELECINE",TELECINE ACTION***
+http://data.m2pj.ml:80/bode/1234/29596
+#EXTINF:-1 tvg-id="TELECINE CULT HD***" tvg-name="TELECINE CULT HD***" tvg-logo="https://goo.gl/WupbuC" group-title="CANAIS REDE TELECINE",TELECINE CULT HD***
+http://data.m2pj.ml:80/bode/1234/29593
+#EXTINF:-1 tvg-id="TELECINE CULT***" tvg-name="TELECINE CULT***" tvg-logo="https://goo.gl/WupbuC" group-title="CANAIS REDE TELECINE",TELECINE CULT***
+http://data.m2pj.ml:80/bode/1234/29594
+#EXTINF:-1 tvg-id="TELECINE FUN FULLHD***" tvg-name="TELECINE FUN FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOiUW0UFDVap-bzUU5YqLXPggS1s2hH-zafhYv0OUTpcsQCnGE&usqp=CAU" group-title="CANAIS REDE TELECINE",TELECINE FUN FULLHD***
+http://data.m2pj.ml:80/bode/1234/29865
+#EXTINF:-1 tvg-id="TELECINE FUN HD***" tvg-name="TELECINE FUN HD***" tvg-logo="https://goo.gl/AMuj8b" group-title="CANAIS REDE TELECINE",TELECINE FUN HD***
+http://data.m2pj.ml:80/bode/1234/29591
+#EXTINF:-1 tvg-id="TELECINE FUN***" tvg-name="TELECINE FUN***" tvg-logo="https://goo.gl/AMuj8b" group-title="CANAIS REDE TELECINE",TELECINE FUN***
+http://data.m2pj.ml:80/bode/1234/29592
+#EXTINF:-1 tvg-id="TELECINE PIPOCA FULLHD***" tvg-name="TELECINE PIPOCA FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3WorUvjLowWw6bTworu1fYNDsr206h5JzFZpEKi7pV-K2UFLt&usqp=CAU" group-title="CANAIS REDE TELECINE",TELECINE PIPOCA FULLHD***
+http://data.m2pj.ml:80/bode/1234/29864
+#EXTINF:-1 tvg-id="TELECINE PIPOCA HD***" tvg-name="TELECINE PIPOCA HD***" tvg-logo="https://goo.gl/u4JCL9" group-title="CANAIS REDE TELECINE",TELECINE PIPOCA HD***
+http://data.m2pj.ml:80/bode/1234/29589
+#EXTINF:-1 tvg-id="RECORD" tvg-name="TELECINE PIPOCA***" tvg-logo="https://goo.gl/u4JCL9" group-title="CANAIS REDE TELECINE",TELECINE PIPOCA***
+http://data.m2pj.ml:80/bode/1234/29590
+#EXTINF:-1 tvg-id="TELECINE PREMIUM FULLHD***" tvg-name="TELECINE PREMIUM FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvqLH7DVGW4gPgEq4q-gw8p-ovdslp_fCCm9wjDXT2RDegSmH9&usqp=CAU" group-title="CANAIS REDE TELECINE",TELECINE PREMIUM FULLHD***
+http://data.m2pj.ml:80/bode/1234/29863
+#EXTINF:-1 tvg-id="TELECINE PREMIUM HD***" tvg-name="TELECINE PREMIUM HD***" tvg-logo="https://goo.gl/G23nKp" group-title="CANAIS REDE TELECINE",TELECINE PREMIUM HD***
+http://data.m2pj.ml:80/bode/1234/29587
+#EXTINF:-1 tvg-id="RECORD" tvg-name="TELECINE PREMIUM***" tvg-logo="https://goo.gl/G23nKp" group-title="CANAIS REDE TELECINE",TELECINE PREMIUM***
+http://data.m2pj.ml:80/bode/1234/29588
+#EXTINF:-1 tvg-id="TELECINE TOUCH FULLHD***" tvg-name="TELECINE TOUCH FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRloJi_LpQzdb3ituLm_U-Bk7vTGysTjNy4So_PrrLWADv89Ul&usqp=CAU" group-title="CANAIS REDE TELECINE",TELECINE TOUCH FULLHD***
+http://data.m2pj.ml:80/bode/1234/29862
+#EXTINF:-1 tvg-id="TELECINE TOUCH HD***" tvg-name="TELECINE TOUCH HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRloJi_LpQzdb3ituLm_U-Bk7vTGysTjNy4So_PrrLWADv89Ul&usqp=CAU" group-title="CANAIS REDE TELECINE",TELECINE TOUCH HD***
+http://data.m2pj.ml:80/bode/1234/29585
+#EXTINF:-1 tvg-id="RECORD" tvg-name="TELECINE TOUCH***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRloJi_LpQzdb3ituLm_U-Bk7vTGysTjNy4So_PrrLWADv89Ul&usqp=CAU" group-title="CANAIS REDE TELECINE",TELECINE TOUCH***
+http://data.m2pj.ml:80/bode/1234/29586
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD***" tvg-logo="https://goo.gl/7UyYar" group-title="CANAIS VARIEDADES - BR",TLC FHD***
+http://data.m2pj.ml:80/bode/1234/45315
+#EXTINF:-1 tvg-id="TLC HD***" tvg-name="TLC HD***" tvg-logo="https://goo.gl/7UyYar" group-title="CANAIS VARIEDADES - BR",TLC HD***
+http://data.m2pj.ml:80/bode/1234/29582
+#EXTINF:-1 tvg-id="TLC***" tvg-name="TLC***" tvg-logo="https://goo.gl/7UyYar" group-title="CANAIS VARIEDADES - BR",TLC***
+http://data.m2pj.ml:80/bode/1234/29583
+#EXTINF:-1 tvg-id="RECORD" tvg-name="TNT FHD***" tvg-logo="https://goo.gl/FbqNFx" group-title="CANAIS FILMES/SERIES - BR",TNT FHD***
+http://data.m2pj.ml:80/bode/1234/45316
+#EXTINF:-1 tvg-id="TNT HD***" tvg-name="TNT HD***" tvg-logo="https://goo.gl/FbqNFx" group-title="CANAIS FILMES/SERIES - BR",TNT HD***
+http://data.m2pj.ml:80/bode/1234/29580
+#EXTINF:-1 tvg-id="TNT***" tvg-name="TNT***" tvg-logo="https://goo.gl/FbqNFx" group-title="CANAIS FILMES/SERIES - BR",TNT***
+http://data.m2pj.ml:80/bode/1234/29581
+#EXTINF:-1 tvg-id="TNT SERIES HD***" tvg-name="TNT SERIES FHD***" tvg-logo="https://goo.gl/uzvhh3" group-title="CANAIS FILMES/SERIES - BR",TNT SERIES FHD***
+http://data.m2pj.ml:80/bode/1234/45317
+#EXTINF:-1 tvg-id="TNT SERIES HD***" tvg-name="TNT SERIES HD***" tvg-logo="https://goo.gl/uzvhh3" group-title="CANAIS FILMES/SERIES - BR",TNT SERIES HD***
+http://data.m2pj.ml:80/bode/1234/29578
+#EXTINF:-1 tvg-id="TNT SERIES***" tvg-name="TNT SERIES***" tvg-logo="https://goo.gl/uzvhh3" group-title="CANAIS FILMES/SERIES - BR",TNT SERIES***
+http://data.m2pj.ml:80/bode/1234/29579
+#EXTINF:-1 tvg-id="TOONCAST***" tvg-name="TOONCAST FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqUKSo8tqAhtCSzcvDvFE6oDrm-9_QBt3OCXRAoJVz9sqGyZx1&usqp=CAU" group-title="CANAIS INFANTIL - BR",TOONCAST FULLHD***
+http://data.m2pj.ml:80/bode/1234/29577
+#EXTINF:-1 tvg-id="TV APARECIDA***" tvg-name="TV APARECIDA***" tvg-logo="https://goo.gl/G2tdhY" group-title="CANAIS RELIGIOSOS - BR",TV APARECIDA***
+https://www.a12.com/tv/tv-ao-vivo/%20
+#EXTINF:-1 tvg-id="TV BRASIL***" tvg-name="TV BRASIL***" tvg-logo="https://goo.gl/ciLyQs" group-title="CANAIS ABERTOS - BR",TV BRASIL***
+http://data.m2pj.ml:80/bode/1234/29573
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6owuo8zW23y7HiS_X7edyMBQAgB3sMrIyIH84_vMA5baGQsCL&usqp=CAU" group-title="CANAIS RELIGIOSOS - BR",TV EVANGELIZAR
+http://data.m2pj.ml:80/bode/1234/32735
+#EXTINF:-1 tvg-id="" tvg-name="TV CANÇÃO NOVA" tvg-logo="https://static.cancaonova.com/images/marca.png" group-title="CANAIS RELIGIOSOS - BR",TV CANÇÃO NOVA
+http://data.m2pj.ml:80/bode/1234/32405
+#EXTINF:-1 tvg-id="RECORD" tvg-name="TV ESCOLA***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_wGyW3pPvYb4EGxe9DMo_nCQZX7FyWJY9iXcw-33kL2PGrhyk&usqp=CAU" group-title="CANAIS VARIEDADES - BR",TV ESCOLA***
+http://data.m2pj.ml:80/bode/1234/29571
+#EXTINF:-1 tvg-id="TV GAZETA SP HD***" tvg-name="TV GAZETA SP HD***" tvg-logo="https://goo.gl/MwoZL2" group-title="CANAIS ABERTOS - BR",TV GAZETA SP HD***
+http://data.m2pj.ml:80/bode/1234/29570
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA***" tvg-logo="https://goo.gl/LB3NZv" group-title="CANAIS ABERTOS - BR",TV CULTURA***
+http://data.m2pj.ml:80/bode/1234/32786
+#EXTINF:-1 tvg-id="TV RA TIM BUM HD***" tvg-name="TV RA TIM BUM HD***" tvg-logo="https://goo.gl/BX16SU" group-title="CANAIS INFANTIL - BR",TV RA TIM BUM HD***
+http://data.m2pj.ml:80/bode/1234/29568
+#EXTINF:-1 tvg-id="TV RA TIM BUM***" tvg-name="TV RA TIM BUM***" tvg-logo="https://goo.gl/BX16SU" group-title="CANAIS INFANTIL - BR",TV RA TIM BUM***
+http://data.m2pj.ml:80/bode/1234/29569
+#EXTINF:-1 tvg-id="" tvg-name="TV IGREJA MUNDIAL" tvg-logo="https://goo.gl/Af87GV" group-title="CANAIS RELIGIOSOS - BR",TV IGREJA MUNDIAL
+http://data.m2pj.ml:80/bode/1234/39305
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL HD***" tvg-name="UNIVERSAL CHANNEL HD***" tvg-logo="https://goo.gl/XpM2US" group-title="CANAIS FILMES/SERIES - BR",UNIVERSAL CHANNEL HD***
+http://data.m2pj.ml:80/bode/1234/29564
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL***" tvg-name="UNIVERSAL CHANNEL***" tvg-logo="https://goo.gl/XpM2US" group-title="CANAIS FILMES/SERIES - BR",UNIVERSAL CHANNEL***
+http://data.m2pj.ml:80/bode/1234/29565
+#EXTINF:-1 tvg-id="VH1 MEGA HITS HD***" tvg-name="VH1 MEGA HITS HD***" tvg-logo="https://goo.gl/72TfkL" group-title="CANAIS VARIEDADES - BR",VH1 MEGA HITS HD***
+http://data.m2pj.ml:80/bode/1234/29562
+#EXTINF:-1 tvg-id="VH1 MEGA HITS***" tvg-name="VH1 MEGA HITS***" tvg-logo="https://goo.gl/8RuDbu" group-title="CANAIS VARIEDADES - BR",VH1 MEGA HITS***
+http://data.m2pj.ml:80/bode/1234/29561
+#EXTINF:-1 tvg-id="VIVA FULLHD***" tvg-name="VIVA FULLHD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6y3zR-qsvmy8lJOS0Om24LEiOJCUxSiPFsWbzBh-oqShzBhGn&usqp=CAU" group-title="CANAIS VARIEDADES - BR",VIVA FULLHD***
+http://data.m2pj.ml:80/bode/1234/29841
+#EXTINF:-1 tvg-id="VIVA HD***" tvg-name="VIVA HD***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6y3zR-qsvmy8lJOS0Om24LEiOJCUxSiPFsWbzBh-oqShzBhGn&usqp=CAU" group-title="CANAIS VARIEDADES - BR",VIVA HD***
+http://data.m2pj.ml:80/bode/1234/29559
+#EXTINF:-1 tvg-id="VIVA***" tvg-name="VIVA***" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6y3zR-qsvmy8lJOS0Om24LEiOJCUxSiPFsWbzBh-oqShzBhGn&usqp=CAU" group-title="CANAIS VARIEDADES - BR",VIVA***
+http://data.m2pj.ml:80/bode/1234/29560
+#EXTINF:-1 tvg-id="WARNER FHD***" tvg-name="WARNER FHD***" tvg-logo="https://goo.gl/2yW9bu" group-title="CANAIS FILMES/SERIES - BR",WARNER FHD***
+http://data.m2pj.ml:80/bode/1234/29829
+#EXTINF:-1 tvg-id="WARNER CHANNEL HD***" tvg-name="WARNER CHANNEL HD***" tvg-logo="https://goo.gl/2yW9bu" group-title="CANAIS FILMES/SERIES - BR",WARNER CHANNEL HD***
+http://data.m2pj.ml:80/bode/1234/29557
+#EXTINF:-1 tvg-id="WARNER CHANNEL***" tvg-name="WARNER CHANNEL***" tvg-logo="https://goo.gl/2yW9bu" group-title="CANAIS FILMES/SERIES - BR",WARNER CHANNEL***
+http://data.m2pj.ml:80/bode/1234/29558
+#EXTINF:-1 tvg-id="" tvg-name="CBS NEWS*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShy2DUiqBmH9aU0TAu6JRXtndFyKFM8yblnwfPKpqS-lMRrxhc&usqp=CAU" group-title="CANAIS NOTICIAS - BR",CBS NEWS*
+http://data.m2pj.ml:80/bode/1234/8090
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Gospel TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiPl4sfNBdqkxLt2jSzOJOFYjdp12CgZooJVeuCsMEah7cjox_&usqp=CAU" group-title="CANAIS RELIGIOSOS - BR",Desenhos Gospel TV
+http://data.m2pj.ml:80/bode/1234/38732
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTt6FR3se0mFRZPUDZaPLXCcJC4nTAsOvPUQDVp4WyL87vrejlX&usqp=CAU" group-title="CANAIS RELIGIOSOS - BR",REDE GOSPEL
+http://data.m2pj.ml:80/bode/1234/22514
+#EXTINF:-1 tvg-id="NOVO TEMPO HD***" tvg-name="TV NOVO TEMPO" tvg-logo="https://goo.gl/oC3Fz6" group-title="CANAIS RELIGIOSOS - BR",TV NOVO TEMPO
+http://data.m2pj.ml:80/bode/1234/22525
+#EXTINF:-1 tvg-id="NOVO TEMPO HD***" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://goo.gl/oC3Fz6" group-title="CANAIS RELIGIOSOS - BR",TV NOVO TEMPO HD
+http://data.m2pj.ml:80/bode/1234/22524
+#EXTINF:-1 tvg-id="" tvg-name="TV SANTA CECILIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLF_VPsT7-Juvkim-BkCMZnKGZ7qmQEMcaFYZz-xRQ2myTSGeV&usqp=CAU" group-title="CANAIS RELIGIOSOS - BR",TV SANTA CECILIA
+http://data.m2pj.ml:80/bode/1234/22487
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV*" tvg-logo="https://imgur.com/OX3S9g1.jpg" group-title="CANAIS ESPORTES - BR",REAL MADRID TV*
+http://data.m2pj.ml:80/bode/1234/8087
